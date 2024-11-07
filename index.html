@@ -6,6 +6,10 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@300;700&display=swap" rel="stylesheet" />
+    <!-- Styles CSS -->
+    <link href="/css/styles.css" rel="stylesheet" />
+    <!-- L Control Layers Tree Layer CSS -->
+    <link href="/css/styledLayerControl.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -27,11 +31,23 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <!-- Assets JS files -->
 <script src="assets/LANCS.js"></script>
+<!-- Add styledLayerControl JS file -->
+<script src="src/styledLayerControl.js"></script>
 <!-- Variables JS file -->
 <script>
+    var map = L.map('map', {
+        center: [37, -86],
+        zoom: 5.4
+    });
+
+    var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
     var baseMaps = [
         {
-            groupName: "Features",
+            groupName: "Projects",
             expanded: true,
             layers: {
                 "LANCS": LANCS,
