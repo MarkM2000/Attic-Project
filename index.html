@@ -32,6 +32,8 @@
 <!-- Assets JS files -->
 <script src="/assets/projects/LANCS.js"></script>
 <script src="/assets/projects/LANE.js"></script>
+<script src="/assets/ethnicity/white.js"></script>
+<script src="/assets/ethnicity/black.js"></script>
 <!-- Variables JS file -->
 <script src="js/variables.js"></script>
 <!-- Add styledLayerControl JS file -->
@@ -58,9 +60,11 @@
             }
         },
         {
-            groupName: "Gender",
+            groupName: "Ethnicity",
             expanded: true,
             layers: {
+                "White": white,
+                "Black or African American": black
             }
         }
     ];
