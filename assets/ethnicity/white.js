@@ -6,7 +6,7 @@ var white = {
         "properties": {
           "Informant": "IN23B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Knight"
         },
         "geometry": {
@@ -22,7 +22,7 @@ var white = {
         "properties": {
           "Informant": "KY3A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hawesville"
         },
         "geometry": {
@@ -38,7 +38,7 @@ var white = {
         "properties": {
           "Informant": "KY17C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lexington"
         },
         "geometry": {
@@ -54,7 +54,7 @@ var white = {
         "properties": {
           "Informant": "KY21C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oil Springs"
         },
         "geometry": {
@@ -70,7 +70,7 @@ var white = {
         "properties": {
           "Informant": "IL15B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cambridge"
         },
         "geometry": {
@@ -86,7 +86,7 @@ var white = {
         "properties": {
           "Informant": "IN5",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -102,7 +102,7 @@ var white = {
         "properties": {
           "Informant": "IL51A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Waterloo"
         },
         "geometry": {
@@ -118,7 +118,7 @@ var white = {
         "properties": {
           "Informant": "KY31A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Big Rock"
         },
         "geometry": {
@@ -134,7 +134,7 @@ var white = {
         "properties": {
           "Informant": "KY22B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Clinton"
         },
         "geometry": {
@@ -150,7 +150,7 @@ var white = {
         "properties": {
           "Informant": "KY34A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Linefork"
         },
         "geometry": {
@@ -166,7 +166,7 @@ var white = {
         "properties": {
           "Informant": "KY28A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wofford"
         },
         "geometry": {
@@ -182,7 +182,7 @@ var white = {
         "properties": {
           "Informant": "KY31C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hyden"
         },
         "geometry": {
@@ -198,7 +198,7 @@ var white = {
         "properties": {
           "Informant": "IL8D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Amboy"
         },
         "geometry": {
@@ -214,7 +214,7 @@ var white = {
         "properties": {
           "Informant": "IL3B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Seward"
         },
         "geometry": {
@@ -230,7 +230,7 @@ var white = {
         "properties": {
           "Informant": "IL8C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Amboy"
         },
         "geometry": {
@@ -246,7 +246,7 @@ var white = {
         "properties": {
           "Informant": "IL49B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "McLeansboro"
         },
         "geometry": {
@@ -262,7 +262,7 @@ var white = {
         "properties": {
           "Informant": "KY7D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Louisville"
         },
         "geometry": {
@@ -278,7 +278,7 @@ var white = {
         "properties": {
           "Informant": "KY19D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sharpsburg"
         },
         "geometry": {
@@ -294,7 +294,7 @@ var white = {
         "properties": {
           "Informant": "MI5B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sault Ste. Marie"
         },
         "geometry": {
@@ -310,7 +310,7 @@ var white = {
         "properties": {
           "Informant": "MI7A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Center"
         },
         "geometry": {
@@ -326,7 +326,7 @@ var white = {
         "properties": {
           "Informant": "OH13B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Defiance"
         },
         "geometry": {
@@ -342,7 +342,7 @@ var white = {
         "properties": {
           "Informant": "OH20B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Glandorf"
         },
         "geometry": {
@@ -358,7 +358,7 @@ var white = {
         "properties": {
           "Informant": "OH37C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sycamore"
         },
         "geometry": {
@@ -374,7 +374,7 @@ var white = {
         "properties": {
           "Informant": "WI4B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Brussels"
         },
         "geometry": {
@@ -390,7 +390,7 @@ var white = {
         "properties": {
           "Informant": "WI5B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Erin Prairie"
         },
         "geometry": {
@@ -406,7 +406,7 @@ var white = {
         "properties": {
           "Informant": "WI7B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Brunswick"
         },
         "geometry": {
@@ -422,7 +422,7 @@ var white = {
         "properties": {
           "Informant": "WI8B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Trempeleau"
         },
         "geometry": {
@@ -438,7 +438,7 @@ var white = {
         "properties": {
           "Informant": "IL1C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Elizabeth Twp"
         },
         "geometry": {
@@ -454,7 +454,7 @@ var white = {
         "properties": {
           "Informant": "KY17E",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bryan Station"
         },
         "geometry": {
@@ -470,7 +470,7 @@ var white = {
         "properties": {
           "Informant": "IL1B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Galena"
         },
         "geometry": {
@@ -486,7 +486,7 @@ var white = {
         "properties": {
           "Informant": "KY17F",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Versailles"
         },
         "geometry": {
@@ -502,7 +502,7 @@ var white = {
         "properties": {
           "Informant": "KY1C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampton"
         },
         "geometry": {
@@ -518,7 +518,7 @@ var white = {
         "properties": {
           "Informant": "CT30",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -534,7 +534,7 @@ var white = {
         "properties": {
           "Informant": "CT92",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -550,7 +550,7 @@ var white = {
         "properties": {
           "Informant": "CT160",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -566,7 +566,7 @@ var white = {
         "properties": {
           "Informant": "CT196",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -582,7 +582,7 @@ var white = {
         "properties": {
           "Informant": "CT262",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -598,7 +598,7 @@ var white = {
         "properties": {
           "Informant": "CT385",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tolland"
         },
         "geometry": {
@@ -614,7 +614,7 @@ var white = {
         "properties": {
           "Informant": "CT401",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tolland"
         },
         "geometry": {
@@ -630,7 +630,7 @@ var white = {
         "properties": {
           "Informant": "CT407",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -646,7 +646,7 @@ var white = {
         "properties": {
           "Informant": "IL1A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Scales Mound"
         },
         "geometry": {
@@ -662,7 +662,7 @@ var white = {
         "properties": {
           "Informant": "IL3D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockford"
         },
         "geometry": {
@@ -678,7 +678,7 @@ var white = {
         "properties": {
           "Informant": "IL4",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Belvidere"
         },
         "geometry": {
@@ -694,7 +694,7 @@ var white = {
         "properties": {
           "Informant": "IL5",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Woodstock"
         },
         "geometry": {
@@ -710,7 +710,7 @@ var white = {
         "properties": {
           "Informant": "IL6B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin Corners"
         },
         "geometry": {
@@ -726,7 +726,7 @@ var white = {
         "properties": {
           "Informant": "IL8A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Amboy"
         },
         "geometry": {
@@ -742,7 +742,7 @@ var white = {
         "properties": {
           "Informant": "IL8B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Amboy"
         },
         "geometry": {
@@ -758,7 +758,7 @@ var white = {
         "properties": {
           "Informant": "IL10B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Elgin"
         },
         "geometry": {
@@ -774,7 +774,7 @@ var white = {
         "properties": {
           "Informant": "IL11B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wheaton"
         },
         "geometry": {
@@ -790,7 +790,7 @@ var white = {
         "properties": {
           "Informant": "IL11C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hinsdale"
         },
         "geometry": {
@@ -806,7 +806,7 @@ var white = {
         "properties": {
           "Informant": "IL12A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Park Ridge"
         },
         "geometry": {
@@ -822,7 +822,7 @@ var white = {
         "properties": {
           "Informant": "IL12B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mount Prospect"
         },
         "geometry": {
@@ -838,7 +838,7 @@ var white = {
         "properties": {
           "Informant": "IL12D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -854,7 +854,7 @@ var white = {
         "properties": {
           "Informant": "IL12E",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -870,7 +870,7 @@ var white = {
         "properties": {
           "Informant": "IL12F",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -886,7 +886,7 @@ var white = {
         "properties": {
           "Informant": "IL12G",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -902,7 +902,7 @@ var white = {
         "properties": {
           "Informant": "IL12O",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -918,7 +918,7 @@ var white = {
         "properties": {
           "Informant": "IL12Q",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -934,7 +934,7 @@ var white = {
         "properties": {
           "Informant": "IL12R",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kenilworth"
         },
         "geometry": {
@@ -950,7 +950,7 @@ var white = {
         "properties": {
           "Informant": "IL13B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Moline"
         },
         "geometry": {
@@ -966,7 +966,7 @@ var white = {
         "properties": {
           "Informant": "IL13C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Moline"
         },
         "geometry": {
@@ -982,7 +982,7 @@ var white = {
         "properties": {
           "Informant": "IL13D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Silvis"
         },
         "geometry": {
@@ -998,7 +998,7 @@ var white = {
         "properties": {
           "Informant": "IL13E",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Moline"
         },
         "geometry": {
@@ -1014,7 +1014,7 @@ var white = {
         "properties": {
           "Informant": "IL16A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ottawa"
         },
         "geometry": {
@@ -1030,7 +1030,7 @@ var white = {
         "properties": {
           "Informant": "IL16B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grand Ridge"
         },
         "geometry": {
@@ -1046,7 +1046,7 @@ var white = {
         "properties": {
           "Informant": "IL16C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grand Ridge"
         },
         "geometry": {
@@ -1062,7 +1062,7 @@ var white = {
         "properties": {
           "Informant": "IL17",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Yorkville "
         },
         "geometry": {
@@ -1078,7 +1078,7 @@ var white = {
         "properties": {
           "Informant": "IL18",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Goodfarm"
         },
         "geometry": {
@@ -1094,7 +1094,7 @@ var white = {
         "properties": {
           "Informant": "IL21",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kirkwood"
         },
         "geometry": {
@@ -1110,7 +1110,7 @@ var white = {
         "properties": {
           "Informant": "IL22",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wataga"
         },
         "geometry": {
@@ -1126,7 +1126,7 @@ var white = {
         "properties": {
           "Informant": "IL23B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Osceola"
         },
         "geometry": {
@@ -1142,7 +1142,7 @@ var white = {
         "properties": {
           "Informant": "IL25B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Granville"
         },
         "geometry": {
@@ -1158,7 +1158,7 @@ var white = {
         "properties": {
           "Informant": "IL26",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Eureka"
         },
         "geometry": {
@@ -1174,7 +1174,7 @@ var white = {
         "properties": {
           "Informant": "IL27A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pontiac"
         },
         "geometry": {
@@ -1190,7 +1190,7 @@ var white = {
         "properties": {
           "Informant": "IL27B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pontiac"
         },
         "geometry": {
@@ -1206,7 +1206,7 @@ var white = {
         "properties": {
           "Informant": "IL28A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kankakee"
         },
         "geometry": {
@@ -1222,7 +1222,7 @@ var white = {
         "properties": {
           "Informant": "IL29B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Gilman"
         },
         "geometry": {
@@ -1238,7 +1238,7 @@ var white = {
         "properties": {
           "Informant": "IL30A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nauvoo"
         },
         "geometry": {
@@ -1254,7 +1254,7 @@ var white = {
         "properties": {
           "Informant": "IL31B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tennessee"
         },
         "geometry": {
@@ -1270,7 +1270,7 @@ var white = {
         "properties": {
           "Informant": "IL33A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Delavan"
         },
         "geometry": {
@@ -1286,7 +1286,7 @@ var white = {
         "properties": {
           "Informant": "IL34",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lexington"
         },
         "geometry": {
@@ -1302,7 +1302,7 @@ var white = {
         "properties": {
           "Informant": "IL35",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Drummer"
         },
         "geometry": {
@@ -1318,7 +1318,7 @@ var white = {
         "properties": {
           "Informant": "IL36A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Champaign"
         },
         "geometry": {
@@ -1334,7 +1334,7 @@ var white = {
         "properties": {
           "Informant": "IL37A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mount Sterling"
         },
         "geometry": {
@@ -1350,7 +1350,7 @@ var white = {
         "properties": {
           "Informant": "IL37B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mount Sterling"
         },
         "geometry": {
@@ -1366,7 +1366,7 @@ var white = {
         "properties": {
           "Informant": "IL39A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Auburn"
         },
         "geometry": {
@@ -1382,7 +1382,7 @@ var white = {
         "properties": {
           "Informant": "IL39C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Springfield"
         },
         "geometry": {
@@ -1398,7 +1398,7 @@ var white = {
         "properties": {
           "Informant": "IL40",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Stonington"
         },
         "geometry": {
@@ -1414,7 +1414,7 @@ var white = {
         "properties": {
           "Informant": "IL41A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sullivan"
         },
         "geometry": {
@@ -1430,7 +1430,7 @@ var white = {
         "properties": {
           "Informant": "IL41B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "East Nelson"
         },
         "geometry": {
@@ -1446,7 +1446,7 @@ var white = {
         "properties": {
           "Informant": "IL42A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Paris"
         },
         "geometry": {
@@ -1462,7 +1462,7 @@ var white = {
         "properties": {
           "Informant": "IL42B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Paris"
         },
         "geometry": {
@@ -1478,7 +1478,7 @@ var white = {
         "properties": {
           "Informant": "IL43A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kampsville"
         },
         "geometry": {
@@ -1494,7 +1494,7 @@ var white = {
         "properties": {
           "Informant": "IL45B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nokomis"
         },
         "geometry": {
@@ -1510,7 +1510,7 @@ var white = {
         "properties": {
           "Informant": "IL47A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newton"
         },
         "geometry": {
@@ -1526,7 +1526,7 @@ var white = {
         "properties": {
           "Informant": "IL47B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newton"
         },
         "geometry": {
@@ -1542,7 +1542,7 @@ var white = {
         "properties": {
           "Informant": "IL50C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Albion"
         },
         "geometry": {
@@ -1558,7 +1558,7 @@ var white = {
         "properties": {
           "Informant": "IL51B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Waterloo"
         },
         "geometry": {
@@ -1574,7 +1574,7 @@ var white = {
         "properties": {
           "Informant": "IL52A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Red Bud"
         },
         "geometry": {
@@ -1590,7 +1590,7 @@ var white = {
         "properties": {
           "Informant": "IL53B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Murphysboro"
         },
         "geometry": {
@@ -1606,7 +1606,7 @@ var white = {
         "properties": {
           "Informant": "IL54",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Herrin"
         },
         "geometry": {
@@ -1622,7 +1622,7 @@ var white = {
         "properties": {
           "Informant": "IL55B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Shawneetown "
         },
         "geometry": {
@@ -1638,7 +1638,7 @@ var white = {
         "properties": {
           "Informant": "IL56A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Thebes"
         },
         "geometry": {
@@ -1654,7 +1654,7 @@ var white = {
         "properties": {
           "Informant": "IL56B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Villa Ridge"
         },
         "geometry": {
@@ -1670,7 +1670,7 @@ var white = {
         "properties": {
           "Informant": "IL58B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Golconda"
         },
         "geometry": {
@@ -1686,7 +1686,7 @@ var white = {
         "properties": {
           "Informant": "IN1A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Morgan"
         },
         "geometry": {
@@ -1702,7 +1702,7 @@ var white = {
         "properties": {
           "Informant": "IN1B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Morgan"
         },
         "geometry": {
@@ -1718,7 +1718,7 @@ var white = {
         "properties": {
           "Informant": "IN2A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "North"
         },
         "geometry": {
@@ -1734,7 +1734,7 @@ var white = {
         "properties": {
           "Informant": "IN2B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Center"
         },
         "geometry": {
@@ -1750,7 +1750,7 @@ var white = {
         "properties": {
           "Informant": "IN3A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Elkhart"
         },
         "geometry": {
@@ -1766,7 +1766,7 @@ var white = {
         "properties": {
           "Informant": "IN3B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Clinton"
         },
         "geometry": {
@@ -1782,7 +1782,7 @@ var white = {
         "properties": {
           "Informant": "IN4B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -1798,7 +1798,7 @@ var white = {
         "properties": {
           "Informant": "IN6A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Delphi"
         },
         "geometry": {
@@ -1814,7 +1814,7 @@ var white = {
         "properties": {
           "Informant": "IN6C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Delphi"
         },
         "geometry": {
@@ -1830,7 +1830,7 @@ var white = {
         "properties": {
           "Informant": "IN7C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lagro"
         },
         "geometry": {
@@ -1846,7 +1846,7 @@ var white = {
         "properties": {
           "Informant": "IN8A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Jefferson"
         },
         "geometry": {
@@ -1862,7 +1862,7 @@ var white = {
         "properties": {
           "Informant": "IN8D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Jefferson"
         },
         "geometry": {
@@ -1878,7 +1878,7 @@ var white = {
         "properties": {
           "Informant": "IN9B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -1894,7 +1894,7 @@ var white = {
         "properties": {
           "Informant": "IN9C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wabash"
         },
         "geometry": {
@@ -1910,7 +1910,7 @@ var white = {
         "properties": {
           "Informant": "IN9D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wabash"
         },
         "geometry": {
@@ -1926,7 +1926,7 @@ var white = {
         "properties": {
           "Informant": "IN10A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Adams"
         },
         "geometry": {
@@ -1942,7 +1942,7 @@ var white = {
         "properties": {
           "Informant": "IN10B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Adams"
         },
         "geometry": {
@@ -1958,7 +1958,7 @@ var white = {
         "properties": {
           "Informant": "IN11B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Jackson"
         },
         "geometry": {
@@ -1974,7 +1974,7 @@ var white = {
         "properties": {
           "Informant": "IN12A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Warren"
         },
         "geometry": {
@@ -1990,7 +1990,7 @@ var white = {
         "properties": {
           "Informant": "IN12B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Warren"
         },
         "geometry": {
@@ -2006,7 +2006,7 @@ var white = {
         "properties": {
           "Informant": "IN12C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Warren"
         },
         "geometry": {
@@ -2022,7 +2022,7 @@ var white = {
         "properties": {
           "Informant": "IN12E",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bridgeport"
         },
         "geometry": {
@@ -2038,7 +2038,7 @@ var white = {
         "properties": {
           "Informant": "IN13B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Adams"
         },
         "geometry": {
@@ -2054,7 +2054,7 @@ var white = {
         "properties": {
           "Informant": "IN14B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "White River"
         },
         "geometry": {
@@ -2070,7 +2070,7 @@ var white = {
         "properties": {
           "Informant": "IN15A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Terre Haute"
         },
         "geometry": {
@@ -2086,7 +2086,7 @@ var white = {
         "properties": {
           "Informant": "IN15B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Terre Haute"
         },
         "geometry": {
@@ -2102,7 +2102,7 @@ var white = {
         "properties": {
           "Informant": "IN15C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Terre Haute"
         },
         "geometry": {
@@ -2118,7 +2118,7 @@ var white = {
         "properties": {
           "Informant": "IN16A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -2134,7 +2134,7 @@ var white = {
         "properties": {
           "Informant": "IN17A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bloomington"
         },
         "geometry": {
@@ -2150,7 +2150,7 @@ var white = {
         "properties": {
           "Informant": "IN18B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nashville"
         },
         "geometry": {
@@ -2166,7 +2166,7 @@ var white = {
         "properties": {
           "Informant": "IN20A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Brookville"
         },
         "geometry": {
@@ -2182,7 +2182,7 @@ var white = {
         "properties": {
           "Informant": "IN20B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Brookville"
         },
         "geometry": {
@@ -2198,7 +2198,7 @@ var white = {
         "properties": {
           "Informant": "IN21B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Steen"
         },
         "geometry": {
@@ -2214,7 +2214,7 @@ var white = {
         "properties": {
           "Informant": "IN23A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Knight"
         },
         "geometry": {
@@ -2230,7 +2230,7 @@ var white = {
         "properties": {
           "Informant": "IN24A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockport"
         },
         "geometry": {
@@ -2246,7 +2246,7 @@ var white = {
         "properties": {
           "Informant": "IN25A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Orleans"
         },
         "geometry": {
@@ -2262,7 +2262,7 @@ var white = {
         "properties": {
           "Informant": "IN25B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Orleans"
         },
         "geometry": {
@@ -2278,7 +2278,7 @@ var white = {
         "properties": {
           "Informant": "IN25C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Orleans"
         },
         "geometry": {
@@ -2294,7 +2294,7 @@ var white = {
         "properties": {
           "Informant": "IN26A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Harrison"
         },
         "geometry": {
@@ -2310,7 +2310,7 @@ var white = {
         "properties": {
           "Informant": "IN26C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Harrison"
         },
         "geometry": {
@@ -2326,7 +2326,7 @@ var white = {
         "properties": {
           "Informant": "IN27B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caesar Creek"
         },
         "geometry": {
@@ -2342,7 +2342,7 @@ var white = {
         "properties": {
           "Informant": "IN27C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Shelby"
         },
         "geometry": {
@@ -2358,7 +2358,7 @@ var white = {
         "properties": {
           "Informant": "IN28A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Madison"
         },
         "geometry": {
@@ -2374,7 +2374,7 @@ var white = {
         "properties": {
           "Informant": "IN28B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Madison"
         },
         "geometry": {
@@ -2390,7 +2390,7 @@ var white = {
         "properties": {
           "Informant": "IN29B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Keener"
         },
         "geometry": {
@@ -2406,7 +2406,7 @@ var white = {
         "properties": {
           "Informant": "IN29C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Union"
         },
         "geometry": {
@@ -2422,7 +2422,7 @@ var white = {
         "properties": {
           "Informant": "IN29D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kankakee"
         },
         "geometry": {
@@ -2438,7 +2438,7 @@ var white = {
         "properties": {
           "Informant": "IN30",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Schererville"
         },
         "geometry": {
@@ -2454,7 +2454,7 @@ var white = {
         "properties": {
           "Informant": "KY3B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hawesville"
         },
         "geometry": {
@@ -2470,7 +2470,7 @@ var white = {
         "properties": {
           "Informant": "KY5A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vertrees"
         },
         "geometry": {
@@ -2486,7 +2486,7 @@ var white = {
         "properties": {
           "Informant": "KY5B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "West Point"
         },
         "geometry": {
@@ -2502,7 +2502,7 @@ var white = {
         "properties": {
           "Informant": "KY6A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bardstown Junction"
         },
         "geometry": {
@@ -2518,7 +2518,7 @@ var white = {
         "properties": {
           "Informant": "KY6B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bardstown Junction"
         },
         "geometry": {
@@ -2534,7 +2534,7 @@ var white = {
         "properties": {
           "Informant": "KY9B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Maysville"
         },
         "geometry": {
@@ -2550,7 +2550,7 @@ var white = {
         "properties": {
           "Informant": "KY11B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Greenville"
         },
         "geometry": {
@@ -2566,7 +2566,7 @@ var white = {
         "properties": {
           "Informant": "KY13B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Greensburg"
         },
         "geometry": {
@@ -2582,7 +2582,7 @@ var white = {
         "properties": {
           "Informant": "KY14A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bardstown"
         },
         "geometry": {
@@ -2598,7 +2598,7 @@ var white = {
         "properties": {
           "Informant": "KY14B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bardstown"
         },
         "geometry": {
@@ -2614,7 +2614,7 @@ var white = {
         "properties": {
           "Informant": "KY17D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lexington"
         },
         "geometry": {
@@ -2630,7 +2630,7 @@ var white = {
         "properties": {
           "Informant": "KY18C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Irvine"
         },
         "geometry": {
@@ -2646,7 +2646,7 @@ var white = {
         "properties": {
           "Informant": "KY19A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Owingsville"
         },
         "geometry": {
@@ -2662,7 +2662,7 @@ var white = {
         "properties": {
           "Informant": "KY24D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caledonia"
         },
         "geometry": {
@@ -2678,7 +2678,7 @@ var white = {
         "properties": {
           "Informant": "KY25A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Auburn"
         },
         "geometry": {
@@ -2694,7 +2694,7 @@ var white = {
         "properties": {
           "Informant": "KY25B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lewisburg"
         },
         "geometry": {
@@ -2710,7 +2710,7 @@ var white = {
         "properties": {
           "Informant": "MA1",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -2726,7 +2726,7 @@ var white = {
         "properties": {
           "Informant": "MA5",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -2742,7 +2742,7 @@ var white = {
         "properties": {
           "Informant": "MA6",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -2758,7 +2758,7 @@ var white = {
         "properties": {
           "Informant": "MA7",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -2774,7 +2774,7 @@ var white = {
         "properties": {
           "Informant": "MA8",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -2790,7 +2790,7 @@ var white = {
         "properties": {
           "Informant": "MA9",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -2806,7 +2806,7 @@ var white = {
         "properties": {
           "Informant": "MA10",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -2822,7 +2822,7 @@ var white = {
         "properties": {
           "Informant": "MA15",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -2838,7 +2838,7 @@ var white = {
         "properties": {
           "Informant": "MA22",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -2854,7 +2854,7 @@ var white = {
         "properties": {
           "Informant": "MA24",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -2870,7 +2870,7 @@ var white = {
         "properties": {
           "Informant": "MA26",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -2886,7 +2886,7 @@ var white = {
         "properties": {
           "Informant": "MA37",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -2902,7 +2902,7 @@ var white = {
         "properties": {
           "Informant": "MA38",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -2918,7 +2918,7 @@ var white = {
         "properties": {
           "Informant": "MA45",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bristol"
         },
         "geometry": {
@@ -2934,7 +2934,7 @@ var white = {
         "properties": {
           "Informant": "MA46",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -2950,7 +2950,7 @@ var white = {
         "properties": {
           "Informant": "MA81",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -2966,7 +2966,7 @@ var white = {
         "properties": {
           "Informant": "MA82",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -2982,7 +2982,7 @@ var white = {
         "properties": {
           "Informant": "MA93",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -2998,7 +2998,7 @@ var white = {
         "properties": {
           "Informant": "MA108",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -3014,7 +3014,7 @@ var white = {
         "properties": {
           "Informant": "MA119",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -3030,7 +3030,7 @@ var white = {
         "properties": {
           "Informant": "MA124",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -3046,7 +3046,7 @@ var white = {
         "properties": {
           "Informant": "MA136",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -3062,7 +3062,7 @@ var white = {
         "properties": {
           "Informant": "MA137",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -3078,7 +3078,7 @@ var white = {
         "properties": {
           "Informant": "MA141",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -3094,7 +3094,7 @@ var white = {
         "properties": {
           "Informant": "MA145",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -3110,7 +3110,7 @@ var white = {
         "properties": {
           "Informant": "MA146",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -3126,7 +3126,7 @@ var white = {
         "properties": {
           "Informant": "MA147",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -3142,7 +3142,7 @@ var white = {
         "properties": {
           "Informant": "MA149",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -3158,7 +3158,7 @@ var white = {
         "properties": {
           "Informant": "MA150",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -3174,7 +3174,7 @@ var white = {
         "properties": {
           "Informant": "MA151",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -3190,7 +3190,7 @@ var white = {
         "properties": {
           "Informant": "MA152",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -3206,7 +3206,7 @@ var white = {
         "properties": {
           "Informant": "MA153",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -3222,7 +3222,7 @@ var white = {
         "properties": {
           "Informant": "MA154",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -3238,7 +3238,7 @@ var white = {
         "properties": {
           "Informant": "MA202",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -3254,7 +3254,7 @@ var white = {
         "properties": {
           "Informant": "MA203",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -3270,7 +3270,7 @@ var white = {
         "properties": {
           "Informant": "MA284",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -3286,7 +3286,7 @@ var white = {
         "properties": {
           "Informant": "MA289",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Norfolk"
         },
         "geometry": {
@@ -3302,7 +3302,7 @@ var white = {
         "properties": {
           "Informant": "MA291",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -3318,7 +3318,7 @@ var white = {
         "properties": {
           "Informant": "MA322",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -3334,7 +3334,7 @@ var white = {
         "properties": {
           "Informant": "MA326",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -3350,7 +3350,7 @@ var white = {
         "properties": {
           "Informant": "MA397",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -3366,7 +3366,7 @@ var white = {
         "properties": {
           "Informant": "MA420",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -3382,7 +3382,7 @@ var white = {
         "properties": {
           "Informant": "MA429",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -3398,7 +3398,7 @@ var white = {
         "properties": {
           "Informant": "ME77",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -3414,7 +3414,7 @@ var white = {
         "properties": {
           "Informant": "ME131",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -3430,7 +3430,7 @@ var white = {
         "properties": {
           "Informant": "ME247",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lincoln"
         },
         "geometry": {
@@ -3446,7 +3446,7 @@ var white = {
         "properties": {
           "Informant": "ME248",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lincoln"
         },
         "geometry": {
@@ -3462,7 +3462,7 @@ var white = {
         "properties": {
           "Informant": "ME251",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kennebec"
         },
         "geometry": {
@@ -3478,7 +3478,7 @@ var white = {
         "properties": {
           "Informant": "ME267",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Waldo"
         },
         "geometry": {
@@ -3494,7 +3494,7 @@ var white = {
         "properties": {
           "Informant": "ME295",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -3510,7 +3510,7 @@ var white = {
         "properties": {
           "Informant": "ME333",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -3526,7 +3526,7 @@ var white = {
         "properties": {
           "Informant": "ME359",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Aroostook"
         },
         "geometry": {
@@ -3542,7 +3542,7 @@ var white = {
         "properties": {
           "Informant": "ME360",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Somerset"
         },
         "geometry": {
@@ -3558,7 +3558,7 @@ var white = {
         "properties": {
           "Informant": "ME361",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -3574,7 +3574,7 @@ var white = {
         "properties": {
           "Informant": "ME364",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Aroostook"
         },
         "geometry": {
@@ -3590,7 +3590,7 @@ var white = {
         "properties": {
           "Informant": "ME377",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Penobscot"
         },
         "geometry": {
@@ -3606,7 +3606,7 @@ var white = {
         "properties": {
           "Informant": "ME379",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -3622,7 +3622,7 @@ var white = {
         "properties": {
           "Informant": "MI1B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ballentine (Bergland)"
         },
         "geometry": {
@@ -3638,7 +3638,7 @@ var white = {
         "properties": {
           "Informant": "MI2A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Calumet"
         },
         "geometry": {
@@ -3654,7 +3654,7 @@ var white = {
         "properties": {
           "Informant": "MI3A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Michigamme"
         },
         "geometry": {
@@ -3670,7 +3670,7 @@ var white = {
         "properties": {
           "Informant": "MI4A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wells"
         },
         "geometry": {
@@ -3686,7 +3686,7 @@ var white = {
         "properties": {
           "Informant": "MI4B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Escanaba"
         },
         "geometry": {
@@ -3702,7 +3702,7 @@ var white = {
         "properties": {
           "Informant": "MI5A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sault Ste. Marie"
         },
         "geometry": {
@@ -3718,7 +3718,7 @@ var white = {
         "properties": {
           "Informant": "MI6B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Beaver Island"
         },
         "geometry": {
@@ -3734,7 +3734,7 @@ var white = {
         "properties": {
           "Informant": "MI6C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "St. James"
         },
         "geometry": {
@@ -3750,7 +3750,7 @@ var white = {
         "properties": {
           "Informant": "MI8B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Old Mission"
         },
         "geometry": {
@@ -3766,7 +3766,7 @@ var white = {
         "properties": {
           "Informant": "MI9C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Alpena"
         },
         "geometry": {
@@ -3782,7 +3782,7 @@ var white = {
         "properties": {
           "Informant": "MI9D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Alpena"
         },
         "geometry": {
@@ -3798,7 +3798,7 @@ var white = {
         "properties": {
           "Informant": "MI10B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Riverton"
         },
         "geometry": {
@@ -3814,7 +3814,7 @@ var white = {
         "properties": {
           "Informant": "MI10C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ludington"
         },
         "geometry": {
@@ -3830,7 +3830,7 @@ var white = {
         "properties": {
           "Informant": "MI12A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "West Branch"
         },
         "geometry": {
@@ -3846,7 +3846,7 @@ var white = {
         "properties": {
           "Informant": "MI14B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Isabella"
         },
         "geometry": {
@@ -3862,7 +3862,7 @@ var white = {
         "properties": {
           "Informant": "MI15B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Columbia"
         },
         "geometry": {
@@ -3878,7 +3878,7 @@ var white = {
         "properties": {
           "Informant": "MI16A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Zeeland"
         },
         "geometry": {
@@ -3894,7 +3894,7 @@ var white = {
         "properties": {
           "Informant": "MI16C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grand Rapids"
         },
         "geometry": {
@@ -3910,7 +3910,7 @@ var white = {
         "properties": {
           "Informant": "MI18A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Burns"
         },
         "geometry": {
@@ -3926,7 +3926,7 @@ var white = {
         "properties": {
           "Informant": "MI18B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Burns"
         },
         "geometry": {
@@ -3942,7 +3942,7 @@ var white = {
         "properties": {
           "Informant": "MI21A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vermontville"
         },
         "geometry": {
@@ -3958,7 +3958,7 @@ var white = {
         "properties": {
           "Informant": "MI21B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vermontville"
         },
         "geometry": {
@@ -3974,7 +3974,7 @@ var white = {
         "properties": {
           "Informant": "MI21C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vermontville"
         },
         "geometry": {
@@ -3990,7 +3990,7 @@ var white = {
         "properties": {
           "Informant": "MI23A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Milford"
         },
         "geometry": {
@@ -4006,7 +4006,7 @@ var white = {
         "properties": {
           "Informant": "MI23C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Milford"
         },
         "geometry": {
@@ -4022,7 +4022,7 @@ var white = {
         "properties": {
           "Informant": "MI24D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -4038,7 +4038,7 @@ var white = {
         "properties": {
           "Informant": "MI27B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Algansee"
         },
         "geometry": {
@@ -4054,7 +4054,7 @@ var white = {
         "properties": {
           "Informant": "MI28B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Adrian"
         },
         "geometry": {
@@ -4070,7 +4070,7 @@ var white = {
         "properties": {
           "Informant": "MI29A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Detroit"
         },
         "geometry": {
@@ -4086,7 +4086,7 @@ var white = {
         "properties": {
           "Informant": "MI29B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Detroit"
         },
         "geometry": {
@@ -4102,7 +4102,7 @@ var white = {
         "properties": {
           "Informant": "MI29C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Detroit"
         },
         "geometry": {
@@ -4118,7 +4118,7 @@ var white = {
         "properties": {
           "Informant": "NH101",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -4134,7 +4134,7 @@ var white = {
         "properties": {
           "Informant": "NH118",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sullivan"
         },
         "geometry": {
@@ -4150,7 +4150,7 @@ var white = {
         "properties": {
           "Informant": "NH156",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Merrimack"
         },
         "geometry": {
@@ -4166,7 +4166,7 @@ var white = {
         "properties": {
           "Informant": "NH352",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Coos"
         },
         "geometry": {
@@ -4182,7 +4182,7 @@ var white = {
         "properties": {
           "Informant": "NH353",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Coos"
         },
         "geometry": {
@@ -4198,7 +4198,7 @@ var white = {
         "properties": {
           "Informant": "NH354",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -4214,7 +4214,7 @@ var white = {
         "properties": {
           "Informant": "NH355",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -4230,7 +4230,7 @@ var white = {
         "properties": {
           "Informant": "NH374",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -4246,7 +4246,7 @@ var white = {
         "properties": {
           "Informant": "NH376",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -4262,7 +4262,7 @@ var white = {
         "properties": {
           "Informant": "OH1B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Geneva"
         },
         "geometry": {
@@ -4278,7 +4278,7 @@ var white = {
         "properties": {
           "Informant": "OH1C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Jefferson"
         },
         "geometry": {
@@ -4294,7 +4294,7 @@ var white = {
         "properties": {
           "Informant": "OH2A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wildare"
         },
         "geometry": {
@@ -4310,7 +4310,7 @@ var white = {
         "properties": {
           "Informant": "OH2B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Champion Heights or Warren"
         },
         "geometry": {
@@ -4326,7 +4326,7 @@ var white = {
         "properties": {
           "Informant": "OH3A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Beloit"
         },
         "geometry": {
@@ -4342,7 +4342,7 @@ var white = {
         "properties": {
           "Informant": "OH3B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ellsworth"
         },
         "geometry": {
@@ -4358,7 +4358,7 @@ var white = {
         "properties": {
           "Informant": "OH4A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Scotch Settlement"
         },
         "geometry": {
@@ -4374,7 +4374,7 @@ var white = {
         "properties": {
           "Informant": "OH4B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lisbon"
         },
         "geometry": {
@@ -4390,7 +4390,7 @@ var white = {
         "properties": {
           "Informant": "OH5B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Richmond"
         },
         "geometry": {
@@ -4406,7 +4406,7 @@ var white = {
         "properties": {
           "Informant": "OH6A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "St. Clairsville"
         },
         "geometry": {
@@ -4422,7 +4422,7 @@ var white = {
         "properties": {
           "Informant": "OH6B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "St. Clairsville"
         },
         "geometry": {
@@ -4438,7 +4438,7 @@ var white = {
         "properties": {
           "Informant": "OH7A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Straight Fork"
         },
         "geometry": {
@@ -4454,7 +4454,7 @@ var white = {
         "properties": {
           "Informant": "OH7B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Graysville"
         },
         "geometry": {
@@ -4470,7 +4470,7 @@ var white = {
         "properties": {
           "Informant": "OH8A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Marietta"
         },
         "geometry": {
@@ -4486,7 +4486,7 @@ var white = {
         "properties": {
           "Informant": "OH8C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barlow"
         },
         "geometry": {
@@ -4502,7 +4502,7 @@ var white = {
         "properties": {
           "Informant": "OH8E",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Marietta"
         },
         "geometry": {
@@ -4518,7 +4518,7 @@ var white = {
         "properties": {
           "Informant": "OH9C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Whitehall"
         },
         "geometry": {
@@ -4534,7 +4534,7 @@ var white = {
         "properties": {
           "Informant": "OH9D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Athens"
         },
         "geometry": {
@@ -4550,7 +4550,7 @@ var white = {
         "properties": {
           "Informant": "OH10A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pomeroy"
         },
         "geometry": {
@@ -4566,7 +4566,7 @@ var white = {
         "properties": {
           "Informant": "OH10B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pomeroy"
         },
         "geometry": {
@@ -4582,7 +4582,7 @@ var white = {
         "properties": {
           "Informant": "OH11B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bidwell"
         },
         "geometry": {
@@ -4598,7 +4598,7 @@ var white = {
         "properties": {
           "Informant": "OH12A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -4614,7 +4614,7 @@ var white = {
         "properties": {
           "Informant": "OH12B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Arabia"
         },
         "geometry": {
@@ -4630,7 +4630,7 @@ var white = {
         "properties": {
           "Informant": "OH12C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rome"
         },
         "geometry": {
@@ -4646,7 +4646,7 @@ var white = {
         "properties": {
           "Informant": "OH12D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Platform"
         },
         "geometry": {
@@ -4662,7 +4662,7 @@ var white = {
         "properties": {
           "Informant": "OH13A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mark"
         },
         "geometry": {
@@ -4678,7 +4678,7 @@ var white = {
         "properties": {
           "Informant": "OH15B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Huron"
         },
         "geometry": {
@@ -4694,7 +4694,7 @@ var white = {
         "properties": {
           "Informant": "OH17A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Medina"
         },
         "geometry": {
@@ -4710,7 +4710,7 @@ var white = {
         "properties": {
           "Informant": "OH18A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hiram "
         },
         "geometry": {
@@ -4726,7 +4726,7 @@ var white = {
         "properties": {
           "Informant": "OH18B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ravenna"
         },
         "geometry": {
@@ -4742,7 +4742,7 @@ var white = {
         "properties": {
           "Informant": "OH19A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Willshire"
         },
         "geometry": {
@@ -4758,7 +4758,7 @@ var white = {
         "properties": {
           "Informant": "OH19B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Venodocia"
         },
         "geometry": {
@@ -4774,7 +4774,7 @@ var white = {
         "properties": {
           "Informant": "OH20A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Gilboa"
         },
         "geometry": {
@@ -4790,7 +4790,7 @@ var white = {
         "properties": {
           "Informant": "OH21A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -4806,7 +4806,7 @@ var white = {
         "properties": {
           "Informant": "OH21B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -4822,7 +4822,7 @@ var white = {
         "properties": {
           "Informant": "OH21C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -4838,7 +4838,7 @@ var white = {
         "properties": {
           "Informant": "OH21D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -4854,7 +4854,7 @@ var white = {
         "properties": {
           "Informant": "OH22A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Butler "
         },
         "geometry": {
@@ -4870,7 +4870,7 @@ var white = {
         "properties": {
           "Informant": "OH22B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Gambier"
         },
         "geometry": {
@@ -4886,7 +4886,7 @@ var white = {
         "properties": {
           "Informant": "OH24B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Millersburg"
         },
         "geometry": {
@@ -4902,7 +4902,7 @@ var white = {
         "properties": {
           "Informant": "OH26B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Greenville"
         },
         "geometry": {
@@ -4918,7 +4918,7 @@ var white = {
         "properties": {
           "Informant": "OH27A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Urbana"
         },
         "geometry": {
@@ -4934,7 +4934,7 @@ var white = {
         "properties": {
           "Informant": "OH27B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Urbana"
         },
         "geometry": {
@@ -4950,7 +4950,7 @@ var white = {
         "properties": {
           "Informant": "OH29B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lancaster"
         },
         "geometry": {
@@ -4966,7 +4966,7 @@ var white = {
         "properties": {
           "Informant": "OH30A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Concord"
         },
         "geometry": {
@@ -4982,7 +4982,7 @@ var white = {
         "properties": {
           "Informant": "OH32A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Israel"
         },
         "geometry": {
@@ -4998,7 +4998,7 @@ var white = {
         "properties": {
           "Informant": "OH32B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Riley"
         },
         "geometry": {
@@ -5014,7 +5014,7 @@ var white = {
         "properties": {
           "Informant": "OH32D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oxford"
         },
         "geometry": {
@@ -5030,7 +5030,7 @@ var white = {
         "properties": {
           "Informant": "OH33A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cedarville "
         },
         "geometry": {
@@ -5046,7 +5046,7 @@ var white = {
         "properties": {
           "Informant": "OH33B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Xenia"
         },
         "geometry": {
@@ -5062,7 +5062,7 @@ var white = {
         "properties": {
           "Informant": "OH34A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wilmington"
         },
         "geometry": {
@@ -5078,7 +5078,7 @@ var white = {
         "properties": {
           "Informant": "OH35A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Scioto"
         },
         "geometry": {
@@ -5094,7 +5094,7 @@ var white = {
         "properties": {
           "Informant": "OH36A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "McArthur"
         },
         "geometry": {
@@ -5110,7 +5110,7 @@ var white = {
         "properties": {
           "Informant": "OH37A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield "
         },
         "geometry": {
@@ -5126,7 +5126,7 @@ var white = {
         "properties": {
           "Informant": "OH37G",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sycamore"
         },
         "geometry": {
@@ -5142,7 +5142,7 @@ var white = {
         "properties": {
           "Informant": "OH38B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Monroe"
         },
         "geometry": {
@@ -5158,7 +5158,7 @@ var white = {
         "properties": {
           "Informant": "OH39A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tiffin"
         },
         "geometry": {
@@ -5174,7 +5174,7 @@ var white = {
         "properties": {
           "Informant": "OH39B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tiffin"
         },
         "geometry": {
@@ -5190,7 +5190,7 @@ var white = {
         "properties": {
           "Informant": "RI18",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -5206,7 +5206,7 @@ var white = {
         "properties": {
           "Informant": "VT213",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -5222,7 +5222,7 @@ var white = {
         "properties": {
           "Informant": "VT214",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -5238,7 +5238,7 @@ var white = {
         "properties": {
           "Informant": "VT232",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Orleans"
         },
         "geometry": {
@@ -5254,7 +5254,7 @@ var white = {
         "properties": {
           "Informant": "VT236",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lamoille"
         },
         "geometry": {
@@ -5270,7 +5270,7 @@ var white = {
         "properties": {
           "Informant": "VT239",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chittenden"
         },
         "geometry": {
@@ -5286,7 +5286,7 @@ var white = {
         "properties": {
           "Informant": "VT240",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chittenden"
         },
         "geometry": {
@@ -5302,7 +5302,7 @@ var white = {
         "properties": {
           "Informant": "VT241",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chittenden"
         },
         "geometry": {
@@ -5318,7 +5318,7 @@ var white = {
         "properties": {
           "Informant": "VT245",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chittenden"
         },
         "geometry": {
@@ -5334,7 +5334,7 @@ var white = {
         "properties": {
           "Informant": "VT277",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -5350,7 +5350,7 @@ var white = {
         "properties": {
           "Informant": "VT280",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bennington"
         },
         "geometry": {
@@ -5366,7 +5366,7 @@ var white = {
         "properties": {
           "Informant": "VT316",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bennington"
         },
         "geometry": {
@@ -5382,7 +5382,7 @@ var white = {
         "properties": {
           "Informant": "VT317",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -5398,7 +5398,7 @@ var white = {
         "properties": {
           "Informant": "VT324",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -5414,7 +5414,7 @@ var white = {
         "properties": {
           "Informant": "VT347",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -5430,7 +5430,7 @@ var white = {
         "properties": {
           "Informant": "WI1A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "East Superior"
         },
         "geometry": {
@@ -5446,7 +5446,7 @@ var white = {
         "properties": {
           "Informant": "WI1B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "East Superior"
         },
         "geometry": {
@@ -5462,7 +5462,7 @@ var white = {
         "properties": {
           "Informant": "WI3A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grover"
         },
         "geometry": {
@@ -5478,7 +5478,7 @@ var white = {
         "properties": {
           "Informant": "WI3B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Marinette"
         },
         "geometry": {
@@ -5494,7 +5494,7 @@ var white = {
         "properties": {
           "Informant": "WI5C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Erin Prairie"
         },
         "geometry": {
@@ -5510,7 +5510,7 @@ var white = {
         "properties": {
           "Informant": "WI7A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Eau Claire"
         },
         "geometry": {
@@ -5526,7 +5526,7 @@ var white = {
         "properties": {
           "Informant": "WI8A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caledonia"
         },
         "geometry": {
@@ -5542,7 +5542,7 @@ var white = {
         "properties": {
           "Informant": "WI9B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sharon"
         },
         "geometry": {
@@ -5558,7 +5558,7 @@ var white = {
         "properties": {
           "Informant": "WI10B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vandenbroek"
         },
         "geometry": {
@@ -5574,7 +5574,7 @@ var white = {
         "properties": {
           "Informant": "WI12A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lemonweir"
         },
         "geometry": {
@@ -5590,7 +5590,7 @@ var white = {
         "properties": {
           "Informant": "WI14B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oakfield"
         },
         "geometry": {
@@ -5606,7 +5606,7 @@ var white = {
         "properties": {
           "Informant": "WI15A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "West Bend"
         },
         "geometry": {
@@ -5622,7 +5622,7 @@ var white = {
         "properties": {
           "Informant": "WI15B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Jackson"
         },
         "geometry": {
@@ -5638,7 +5638,7 @@ var white = {
         "properties": {
           "Informant": "WI16A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bridgeport"
         },
         "geometry": {
@@ -5654,7 +5654,7 @@ var white = {
         "properties": {
           "Informant": "WI17B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "South Lancaster"
         },
         "geometry": {
@@ -5670,7 +5670,7 @@ var white = {
         "properties": {
           "Informant": "WI19A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Roxbury"
         },
         "geometry": {
@@ -5686,7 +5686,7 @@ var white = {
         "properties": {
           "Informant": "WI19B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Roxbury"
         },
         "geometry": {
@@ -5702,7 +5702,7 @@ var white = {
         "properties": {
           "Informant": "WI21A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Genesee"
         },
         "geometry": {
@@ -5718,7 +5718,7 @@ var white = {
         "properties": {
           "Informant": "WI21B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Genesee"
         },
         "geometry": {
@@ -5734,7 +5734,7 @@ var white = {
         "properties": {
           "Informant": "WI22A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Milwaukee"
         },
         "geometry": {
@@ -5750,7 +5750,7 @@ var white = {
         "properties": {
           "Informant": "WI23B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Glarus"
         },
         "geometry": {
@@ -5766,7 +5766,7 @@ var white = {
         "properties": {
           "Informant": "WI24B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Clinton"
         },
         "geometry": {
@@ -5782,7 +5782,7 @@ var white = {
         "properties": {
           "Informant": "WI25B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caledonia"
         },
         "geometry": {
@@ -5798,7 +5798,7 @@ var white = {
         "properties": {
           "Informant": "WI26B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pleasant Prairie"
         },
         "geometry": {
@@ -5814,7 +5814,7 @@ var white = {
         "properties": {
           "Informant": "KY1B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Smithland"
         },
         "geometry": {
@@ -5830,7 +5830,7 @@ var white = {
         "properties": {
           "Informant": "MI15A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Columbia"
         },
         "geometry": {
@@ -5846,7 +5846,7 @@ var white = {
         "properties": {
           "Informant": "MA57",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -5862,7 +5862,7 @@ var white = {
         "properties": {
           "Informant": "MA424",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Norfolk"
         },
         "geometry": {
@@ -5878,7 +5878,7 @@ var white = {
         "properties": {
           "Informant": "IL12I",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rogers Park"
         },
         "geometry": {
@@ -5894,7 +5894,7 @@ var white = {
         "properties": {
           "Informant": "OH25",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Philadelphia"
         },
         "geometry": {
@@ -5910,7 +5910,7 @@ var white = {
         "properties": {
           "Informant": "WI23A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mt. Pleasant"
         },
         "geometry": {
@@ -5926,7 +5926,7 @@ var white = {
         "properties": {
           "Informant": "NH128",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Merrimac"
         },
         "geometry": {
@@ -5942,7 +5942,7 @@ var white = {
         "properties": {
           "Informant": "MA56",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bristol"
         },
         "geometry": {
@@ -5958,7 +5958,7 @@ var white = {
         "properties": {
           "Informant": "IL28B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "St. Anne"
         },
         "geometry": {
@@ -5974,7 +5974,7 @@ var white = {
         "properties": {
           "Informant": "MI13B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Garfield"
         },
         "geometry": {
@@ -5990,7 +5990,7 @@ var white = {
         "properties": {
           "Informant": "NH223",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Coos"
         },
         "geometry": {
@@ -6006,7 +6006,7 @@ var white = {
         "properties": {
           "Informant": "OH31C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lore City"
         },
         "geometry": {
@@ -6022,7 +6022,7 @@ var white = {
         "properties": {
           "Informant": "CT32",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -6038,7 +6038,7 @@ var white = {
         "properties": {
           "Informant": "CT33",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -6054,7 +6054,7 @@ var white = {
         "properties": {
           "Informant": "CT39",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -6070,7 +6070,7 @@ var white = {
         "properties": {
           "Informant": "CT41",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -6086,7 +6086,7 @@ var white = {
         "properties": {
           "Informant": "CT103",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -6102,7 +6102,7 @@ var white = {
         "properties": {
           "Informant": "CT112",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -6118,7 +6118,7 @@ var white = {
         "properties": {
           "Informant": "CT142",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -6134,7 +6134,7 @@ var white = {
         "properties": {
           "Informant": "CT189",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -6150,7 +6150,7 @@ var white = {
         "properties": {
           "Informant": "CT199",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -6166,7 +6166,7 @@ var white = {
         "properties": {
           "Informant": "CT210",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -6182,7 +6182,7 @@ var white = {
         "properties": {
           "Informant": "CT234",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -6198,7 +6198,7 @@ var white = {
         "properties": {
           "Informant": "CT261",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -6214,7 +6214,7 @@ var white = {
         "properties": {
           "Informant": "CT283",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -6230,7 +6230,7 @@ var white = {
         "properties": {
           "Informant": "CT408",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -6246,7 +6246,7 @@ var white = {
         "properties": {
           "Informant": "CT422",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -6262,7 +6262,7 @@ var white = {
         "properties": {
           "Informant": "IL2",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Freeport"
         },
         "geometry": {
@@ -6278,7 +6278,7 @@ var white = {
         "properties": {
           "Informant": "IL7",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oregon"
         },
         "geometry": {
@@ -6294,7 +6294,7 @@ var white = {
         "properties": {
           "Informant": "IL19A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Peotone"
         },
         "geometry": {
@@ -6310,7 +6310,7 @@ var white = {
         "properties": {
           "Informant": "IL19B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Peotone"
         },
         "geometry": {
@@ -6326,7 +6326,7 @@ var white = {
         "properties": {
           "Informant": "IL23A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Toulon"
         },
         "geometry": {
@@ -6342,7 +6342,7 @@ var white = {
         "properties": {
           "Informant": "IL24A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hanna City"
         },
         "geometry": {
@@ -6358,7 +6358,7 @@ var white = {
         "properties": {
           "Informant": "IL25A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "La Rose"
         },
         "geometry": {
@@ -6374,7 +6374,7 @@ var white = {
         "properties": {
           "Informant": "IL32",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Canton"
         },
         "geometry": {
@@ -6390,7 +6390,7 @@ var white = {
         "properties": {
           "Informant": "IL39B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Springfield"
         },
         "geometry": {
@@ -6406,7 +6406,7 @@ var white = {
         "properties": {
           "Informant": "IN8B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Scipio"
         },
         "geometry": {
@@ -6422,7 +6422,7 @@ var white = {
         "properties": {
           "Informant": "KY7BA",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Louisville"
         },
         "geometry": {
@@ -6438,7 +6438,7 @@ var white = {
         "properties": {
           "Informant": "MA3",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -6454,7 +6454,7 @@ var white = {
         "properties": {
           "Informant": "MA4",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -6470,7 +6470,7 @@ var white = {
         "properties": {
           "Informant": "MA12",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -6486,7 +6486,7 @@ var white = {
         "properties": {
           "Informant": "MA13",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -6502,7 +6502,7 @@ var white = {
         "properties": {
           "Informant": "MA14",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -6518,7 +6518,7 @@ var white = {
         "properties": {
           "Informant": "MA27",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -6534,7 +6534,7 @@ var white = {
         "properties": {
           "Informant": "MA29",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -6550,7 +6550,7 @@ var white = {
         "properties": {
           "Informant": "MA47",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -6566,7 +6566,7 @@ var white = {
         "properties": {
           "Informant": "MA52",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -6582,7 +6582,7 @@ var white = {
         "properties": {
           "Informant": "MA54",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -6598,7 +6598,7 @@ var white = {
         "properties": {
           "Informant": "MA55",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -6614,7 +6614,7 @@ var white = {
         "properties": {
           "Informant": "MA59",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -6630,7 +6630,7 @@ var white = {
         "properties": {
           "Informant": "MA79",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -6646,7 +6646,7 @@ var white = {
         "properties": {
           "Informant": "MA80",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -6662,7 +6662,7 @@ var white = {
         "properties": {
           "Informant": "MA89",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -6678,7 +6678,7 @@ var white = {
         "properties": {
           "Informant": "MA91",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -6694,7 +6694,7 @@ var white = {
         "properties": {
           "Informant": "MA102",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -6710,7 +6710,7 @@ var white = {
         "properties": {
           "Informant": "MA120",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -6726,7 +6726,7 @@ var white = {
         "properties": {
           "Informant": "MA127",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -6742,7 +6742,7 @@ var white = {
         "properties": {
           "Informant": "MA186",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -6758,7 +6758,7 @@ var white = {
         "properties": {
           "Informant": "MA200",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -6774,7 +6774,7 @@ var white = {
         "properties": {
           "Informant": "MA201",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -6790,7 +6790,7 @@ var white = {
         "properties": {
           "Informant": "MA204",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -6806,7 +6806,7 @@ var white = {
         "properties": {
           "Informant": "MA207",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -6822,7 +6822,7 @@ var white = {
         "properties": {
           "Informant": "MA208",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -6838,7 +6838,7 @@ var white = {
         "properties": {
           "Informant": "MA235",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -6854,7 +6854,7 @@ var white = {
         "properties": {
           "Informant": "MA273",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bristol"
         },
         "geometry": {
@@ -6870,7 +6870,7 @@ var white = {
         "properties": {
           "Informant": "MA319",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -6886,7 +6886,7 @@ var white = {
         "properties": {
           "Informant": "MA344",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -6902,7 +6902,7 @@ var white = {
         "properties": {
           "Informant": "MA350",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -6918,7 +6918,7 @@ var white = {
         "properties": {
           "Informant": "MA372",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -6934,7 +6934,7 @@ var white = {
         "properties": {
           "Informant": "MA388",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nantucket "
         },
         "geometry": {
@@ -6950,7 +6950,7 @@ var white = {
         "properties": {
           "Informant": "MA390",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nantucket "
         },
         "geometry": {
@@ -6966,7 +6966,7 @@ var white = {
         "properties": {
           "Informant": "MA391",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -6982,7 +6982,7 @@ var white = {
         "properties": {
           "Informant": "MA393",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -6998,7 +6998,7 @@ var white = {
         "properties": {
           "Informant": "MA394",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -7014,7 +7014,7 @@ var white = {
         "properties": {
           "Informant": "MA402",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -7030,7 +7030,7 @@ var white = {
         "properties": {
           "Informant": "MA403",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -7046,7 +7046,7 @@ var white = {
         "properties": {
           "Informant": "MA410",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -7062,7 +7062,7 @@ var white = {
         "properties": {
           "Informant": "MA416",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -7078,7 +7078,7 @@ var white = {
         "properties": {
           "Informant": "MA427",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -7094,7 +7094,7 @@ var white = {
         "properties": {
           "Informant": "MA428",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -7110,7 +7110,7 @@ var white = {
         "properties": {
           "Informant": "ME53",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -7126,7 +7126,7 @@ var white = {
         "properties": {
           "Informant": "ME66",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -7142,7 +7142,7 @@ var white = {
         "properties": {
           "Informant": "ME84",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -7158,7 +7158,7 @@ var white = {
         "properties": {
           "Informant": "ME87",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -7174,7 +7174,7 @@ var white = {
         "properties": {
           "Informant": "ME88",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -7190,7 +7190,7 @@ var white = {
         "properties": {
           "Informant": "ME221",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oxford"
         },
         "geometry": {
@@ -7206,7 +7206,7 @@ var white = {
         "properties": {
           "Informant": "ME222",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oxford"
         },
         "geometry": {
@@ -7222,7 +7222,7 @@ var white = {
         "properties": {
           "Informant": "ME225",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oxford"
         },
         "geometry": {
@@ -7238,7 +7238,7 @@ var white = {
         "properties": {
           "Informant": "ME228",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -7254,7 +7254,7 @@ var white = {
         "properties": {
           "Informant": "ME229",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oxford"
         },
         "geometry": {
@@ -7270,7 +7270,7 @@ var white = {
         "properties": {
           "Informant": "ME230",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oxford"
         },
         "geometry": {
@@ -7286,7 +7286,7 @@ var white = {
         "properties": {
           "Informant": "ME246",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kennebec"
         },
         "geometry": {
@@ -7302,7 +7302,7 @@ var white = {
         "properties": {
           "Informant": "ME249",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kennebec"
         },
         "geometry": {
@@ -7318,7 +7318,7 @@ var white = {
         "properties": {
           "Informant": "ME250",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -7334,7 +7334,7 @@ var white = {
         "properties": {
           "Informant": "ME252",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -7350,7 +7350,7 @@ var white = {
         "properties": {
           "Informant": "ME253",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kennebec"
         },
         "geometry": {
@@ -7366,7 +7366,7 @@ var white = {
         "properties": {
           "Informant": "ME268",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Penobscot"
         },
         "geometry": {
@@ -7382,7 +7382,7 @@ var white = {
         "properties": {
           "Informant": "ME270",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Penobscot"
         },
         "geometry": {
@@ -7398,7 +7398,7 @@ var white = {
         "properties": {
           "Informant": "ME271",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Waldo"
         },
         "geometry": {
@@ -7414,7 +7414,7 @@ var white = {
         "properties": {
           "Informant": "ME272",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Knox"
         },
         "geometry": {
@@ -7430,7 +7430,7 @@ var white = {
         "properties": {
           "Informant": "ME292",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -7446,7 +7446,7 @@ var white = {
         "properties": {
           "Informant": "ME293",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -7462,7 +7462,7 @@ var white = {
         "properties": {
           "Informant": "ME294",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -7478,7 +7478,7 @@ var white = {
         "properties": {
           "Informant": "ME296",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -7494,7 +7494,7 @@ var white = {
         "properties": {
           "Informant": "ME297",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -7510,7 +7510,7 @@ var white = {
         "properties": {
           "Informant": "ME298",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -7526,7 +7526,7 @@ var white = {
         "properties": {
           "Informant": "ME300",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -7542,7 +7542,7 @@ var white = {
         "properties": {
           "Informant": "ME301",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -7558,7 +7558,7 @@ var white = {
         "properties": {
           "Informant": "ME302",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -7574,7 +7574,7 @@ var white = {
         "properties": {
           "Informant": "ME303",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -7590,7 +7590,7 @@ var white = {
         "properties": {
           "Informant": "ME304",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -7606,7 +7606,7 @@ var white = {
         "properties": {
           "Informant": "ME306",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -7622,7 +7622,7 @@ var white = {
         "properties": {
           "Informant": "ME308",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Knox"
         },
         "geometry": {
@@ -7638,7 +7638,7 @@ var white = {
         "properties": {
           "Informant": "ME309",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -7654,7 +7654,7 @@ var white = {
         "properties": {
           "Informant": "ME310",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sagadahoc"
         },
         "geometry": {
@@ -7670,7 +7670,7 @@ var white = {
         "properties": {
           "Informant": "ME311",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -7686,7 +7686,7 @@ var white = {
         "properties": {
           "Informant": "ME312",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hancock"
         },
         "geometry": {
@@ -7702,7 +7702,7 @@ var white = {
         "properties": {
           "Informant": "ME327",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -7718,7 +7718,7 @@ var white = {
         "properties": {
           "Informant": "ME328",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Piscataquis"
         },
         "geometry": {
@@ -7734,7 +7734,7 @@ var white = {
         "properties": {
           "Informant": "ME329",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Piscataquis"
         },
         "geometry": {
@@ -7750,7 +7750,7 @@ var white = {
         "properties": {
           "Informant": "ME331",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -7766,7 +7766,7 @@ var white = {
         "properties": {
           "Informant": "ME332",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -7782,7 +7782,7 @@ var white = {
         "properties": {
           "Informant": "ME363",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Aroostook"
         },
         "geometry": {
@@ -7798,7 +7798,7 @@ var white = {
         "properties": {
           "Informant": "ME366",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Somerset"
         },
         "geometry": {
@@ -7814,7 +7814,7 @@ var white = {
         "properties": {
           "Informant": "ME367",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Penobscot"
         },
         "geometry": {
@@ -7830,7 +7830,7 @@ var white = {
         "properties": {
           "Informant": "ME368",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -7846,7 +7846,7 @@ var white = {
         "properties": {
           "Informant": "ME380",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -7862,7 +7862,7 @@ var white = {
         "properties": {
           "Informant": "MI2B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Calumet"
         },
         "geometry": {
@@ -7878,7 +7878,7 @@ var white = {
         "properties": {
           "Informant": "MI11B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "South Branch"
         },
         "geometry": {
@@ -7894,7 +7894,7 @@ var white = {
         "properties": {
           "Informant": "MI25B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wayne"
         },
         "geometry": {
@@ -7910,7 +7910,7 @@ var white = {
         "properties": {
           "Informant": "MI26A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Marengo"
         },
         "geometry": {
@@ -7926,7 +7926,7 @@ var white = {
         "properties": {
           "Informant": "MI26B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Marshall"
         },
         "geometry": {
@@ -7942,7 +7942,7 @@ var white = {
         "properties": {
           "Informant": "MI29D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Detroit"
         },
         "geometry": {
@@ -7958,7 +7958,7 @@ var white = {
         "properties": {
           "Informant": "MI30B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dundee"
         },
         "geometry": {
@@ -7974,7 +7974,7 @@ var white = {
         "properties": {
           "Informant": "NH48",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -7990,7 +7990,7 @@ var white = {
         "properties": {
           "Informant": "NH50",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -8006,7 +8006,7 @@ var white = {
         "properties": {
           "Informant": "NH51",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -8022,7 +8022,7 @@ var white = {
         "properties": {
           "Informant": "NH63",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Strafford"
         },
         "geometry": {
@@ -8038,7 +8038,7 @@ var white = {
         "properties": {
           "Informant": "NH67",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Strafford"
         },
         "geometry": {
@@ -8054,7 +8054,7 @@ var white = {
         "properties": {
           "Informant": "NH68",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Strafford"
         },
         "geometry": {
@@ -8070,7 +8070,7 @@ var white = {
         "properties": {
           "Informant": "NH75",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -8086,7 +8086,7 @@ var white = {
         "properties": {
           "Informant": "NH100",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -8102,7 +8102,7 @@ var white = {
         "properties": {
           "Informant": "NH129",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Belknap"
         },
         "geometry": {
@@ -8118,7 +8118,7 @@ var white = {
         "properties": {
           "Informant": "NH130",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -8134,7 +8134,7 @@ var white = {
         "properties": {
           "Informant": "NH144",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Merrimack"
         },
         "geometry": {
@@ -8150,7 +8150,7 @@ var white = {
         "properties": {
           "Informant": "NH157",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Merrimack"
         },
         "geometry": {
@@ -8166,7 +8166,7 @@ var white = {
         "properties": {
           "Informant": "NH158",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -8182,7 +8182,7 @@ var white = {
         "properties": {
           "Informant": "NH159",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -8198,7 +8198,7 @@ var white = {
         "properties": {
           "Informant": "NH163",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sullivan"
         },
         "geometry": {
@@ -8214,7 +8214,7 @@ var white = {
         "properties": {
           "Informant": "NH164",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Merrimack"
         },
         "geometry": {
@@ -8230,7 +8230,7 @@ var white = {
         "properties": {
           "Informant": "NH166",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Belknap"
         },
         "geometry": {
@@ -8246,7 +8246,7 @@ var white = {
         "properties": {
           "Informant": "NH170",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -8262,7 +8262,7 @@ var white = {
         "properties": {
           "Informant": "NH171",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -8278,7 +8278,7 @@ var white = {
         "properties": {
           "Informant": "NH172",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -8294,7 +8294,7 @@ var white = {
         "properties": {
           "Informant": "NH173",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -8310,7 +8310,7 @@ var white = {
         "properties": {
           "Informant": "NH178",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -8326,7 +8326,7 @@ var white = {
         "properties": {
           "Informant": "NH179",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sullivan"
         },
         "geometry": {
@@ -8342,7 +8342,7 @@ var white = {
         "properties": {
           "Informant": "NH181",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cheshire"
         },
         "geometry": {
@@ -8358,7 +8358,7 @@ var white = {
         "properties": {
           "Informant": "NH219",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Carroll"
         },
         "geometry": {
@@ -8374,7 +8374,7 @@ var white = {
         "properties": {
           "Informant": "NH220",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Carroll"
         },
         "geometry": {
@@ -8390,7 +8390,7 @@ var white = {
         "properties": {
           "Informant": "NH224",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Coos"
         },
         "geometry": {
@@ -8406,7 +8406,7 @@ var white = {
         "properties": {
           "Informant": "NH334",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Coos"
         },
         "geometry": {
@@ -8422,7 +8422,7 @@ var white = {
         "properties": {
           "Informant": "NH335",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -8438,7 +8438,7 @@ var white = {
         "properties": {
           "Informant": "NH336",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -8454,7 +8454,7 @@ var white = {
         "properties": {
           "Informant": "NH356",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -8470,7 +8470,7 @@ var white = {
         "properties": {
           "Informant": "NH357",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -8486,7 +8486,7 @@ var white = {
         "properties": {
           "Informant": "NY413",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -8502,7 +8502,7 @@ var white = {
         "properties": {
           "Informant": "NY415",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -8518,7 +8518,7 @@ var white = {
         "properties": {
           "Informant": "OH5C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Red Ridge"
         },
         "geometry": {
@@ -8534,7 +8534,7 @@ var white = {
         "properties": {
           "Informant": "OH8B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Marietta"
         },
         "geometry": {
@@ -8550,7 +8550,7 @@ var white = {
         "properties": {
           "Informant": "OH8D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Marietta"
         },
         "geometry": {
@@ -8566,7 +8566,7 @@ var white = {
         "properties": {
           "Informant": "OH16C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pepper Pike"
         },
         "geometry": {
@@ -8582,7 +8582,7 @@ var white = {
         "properties": {
           "Informant": "OH17B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Medina"
         },
         "geometry": {
@@ -8598,7 +8598,7 @@ var white = {
         "properties": {
           "Informant": "OH17C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Medina"
         },
         "geometry": {
@@ -8614,7 +8614,7 @@ var white = {
         "properties": {
           "Informant": "OH17D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wadsworth"
         },
         "geometry": {
@@ -8630,7 +8630,7 @@ var white = {
         "properties": {
           "Informant": "OH26A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Greenville"
         },
         "geometry": {
@@ -8646,7 +8646,7 @@ var white = {
         "properties": {
           "Informant": "OH35B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Scioto"
         },
         "geometry": {
@@ -8662,7 +8662,7 @@ var white = {
         "properties": {
           "Informant": "OH36B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Malta"
         },
         "geometry": {
@@ -8678,7 +8678,7 @@ var white = {
         "properties": {
           "Informant": "RI11",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -8694,7 +8694,7 @@ var white = {
         "properties": {
           "Informant": "RI44",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kent"
         },
         "geometry": {
@@ -8710,7 +8710,7 @@ var white = {
         "properties": {
           "Informant": "RI71",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -8726,7 +8726,7 @@ var white = {
         "properties": {
           "Informant": "RI116",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -8742,7 +8742,7 @@ var white = {
         "properties": {
           "Informant": "RI121",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -8758,7 +8758,7 @@ var white = {
         "properties": {
           "Informant": "RI134",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -8774,7 +8774,7 @@ var white = {
         "properties": {
           "Informant": "RI138",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -8790,7 +8790,7 @@ var white = {
         "properties": {
           "Informant": "RI161",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Providence"
         },
         "geometry": {
@@ -8806,7 +8806,7 @@ var white = {
         "properties": {
           "Informant": "RI259",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Providence"
         },
         "geometry": {
@@ -8822,7 +8822,7 @@ var white = {
         "properties": {
           "Informant": "RI288",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Providence"
         },
         "geometry": {
@@ -8838,7 +8838,7 @@ var white = {
         "properties": {
           "Informant": "VT31",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -8854,7 +8854,7 @@ var white = {
         "properties": {
           "Informant": "VT42",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -8870,7 +8870,7 @@ var white = {
         "properties": {
           "Informant": "VT98",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -8886,7 +8886,7 @@ var white = {
         "properties": {
           "Informant": "VT99",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -8902,7 +8902,7 @@ var white = {
         "properties": {
           "Informant": "VT162",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -8918,7 +8918,7 @@ var white = {
         "properties": {
           "Informant": "VT237",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lamoille"
         },
         "geometry": {
@@ -8934,7 +8934,7 @@ var white = {
         "properties": {
           "Informant": "VT238",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lamoille"
         },
         "geometry": {
@@ -8950,7 +8950,7 @@ var white = {
         "properties": {
           "Informant": "VT263",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -8966,7 +8966,7 @@ var white = {
         "properties": {
           "Informant": "VT265",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -8982,7 +8982,7 @@ var white = {
         "properties": {
           "Informant": "VT337",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Orange"
         },
         "geometry": {
@@ -8998,7 +8998,7 @@ var white = {
         "properties": {
           "Informant": "VT338",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -9014,7 +9014,7 @@ var white = {
         "properties": {
           "Informant": "VT339",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caledonia"
         },
         "geometry": {
@@ -9030,7 +9030,7 @@ var white = {
         "properties": {
           "Informant": "VT341",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caledonia"
         },
         "geometry": {
@@ -9046,7 +9046,7 @@ var white = {
         "properties": {
           "Informant": "VT345",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -9062,7 +9062,7 @@ var white = {
         "properties": {
           "Informant": "VT351",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caledonia"
         },
         "geometry": {
@@ -9078,7 +9078,7 @@ var white = {
         "properties": {
           "Informant": "WI6B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Stockholm "
         },
         "geometry": {
@@ -9094,7 +9094,7 @@ var white = {
         "properties": {
           "Informant": "WI20",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Waterloo OR lake mills"
         },
         "geometry": {
@@ -9110,7 +9110,7 @@ var white = {
         "properties": {
           "Informant": "WI22B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Milwaukee"
         },
         "geometry": {
@@ -9126,7 +9126,7 @@ var white = {
         "properties": {
           "Informant": "WI25A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mt. Pleasant"
         },
         "geometry": {
@@ -9142,7 +9142,7 @@ var white = {
         "properties": {
           "Informant": "ME76",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -9158,7 +9158,7 @@ var white = {
         "properties": {
           "Informant": "IL14",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Richland Grove"
         },
         "geometry": {
@@ -9174,7 +9174,7 @@ var white = {
         "properties": {
           "Informant": "KY10A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grayson"
         },
         "geometry": {
@@ -9190,7 +9190,7 @@ var white = {
         "properties": {
           "Informant": "RI290",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Providence"
         },
         "geometry": {
@@ -9206,7 +9206,7 @@ var white = {
         "properties": {
           "Informant": "MA425",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Norfolk"
         },
         "geometry": {
@@ -9222,7 +9222,7 @@ var white = {
         "properties": {
           "Informant": "RI115",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -9238,7 +9238,7 @@ var white = {
         "properties": {
           "Informant": "CT187",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9254,7 +9254,7 @@ var white = {
         "properties": {
           "Informant": "RI17",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -9270,7 +9270,7 @@ var white = {
         "properties": {
           "Informant": "RI110",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -9286,7 +9286,7 @@ var white = {
         "properties": {
           "Informant": "CT418",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -9302,7 +9302,7 @@ var white = {
         "properties": {
           "Informant": "MA94",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -9318,7 +9318,7 @@ var white = {
         "properties": {
           "Informant": "CT205",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9334,7 +9334,7 @@ var white = {
         "properties": {
           "Informant": "OH18C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Streetsboro"
         },
         "geometry": {
@@ -9350,7 +9350,7 @@ var white = {
         "properties": {
           "Informant": "CT206",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -9366,7 +9366,7 @@ var white = {
         "properties": {
           "Informant": "MI20B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "St. Clair"
         },
         "geometry": {
@@ -9382,7 +9382,7 @@ var white = {
         "properties": {
           "Informant": "IL15A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Geneseo"
         },
         "geometry": {
@@ -9398,7 +9398,7 @@ var white = {
         "properties": {
           "Informant": "IL46A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pinhook"
         },
         "geometry": {
@@ -9414,7 +9414,7 @@ var white = {
         "properties": {
           "Informant": "KY2A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dixon"
         },
         "geometry": {
@@ -9430,7 +9430,7 @@ var white = {
         "properties": {
           "Informant": "KY12C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Leitchfield"
         },
         "geometry": {
@@ -9446,7 +9446,7 @@ var white = {
         "properties": {
           "Informant": "KY16B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Harrodsburg"
         },
         "geometry": {
@@ -9462,7 +9462,7 @@ var white = {
         "properties": {
           "Informant": "MA421",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9478,7 +9478,7 @@ var white = {
         "properties": {
           "Informant": "OH5A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Richmond"
         },
         "geometry": {
@@ -9494,7 +9494,7 @@ var white = {
         "properties": {
           "Informant": "WI12B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lemonweir"
         },
         "geometry": {
@@ -9510,7 +9510,7 @@ var white = {
         "properties": {
           "Informant": "WI13B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Portage"
         },
         "geometry": {
@@ -9526,7 +9526,7 @@ var white = {
         "properties": {
           "Informant": "VT168",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -9542,7 +9542,7 @@ var white = {
         "properties": {
           "Informant": "ME83",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -9558,7 +9558,7 @@ var white = {
         "properties": {
           "Informant": "NH175",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -9574,7 +9574,7 @@ var white = {
         "properties": {
           "Informant": "IN12D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Indianapolis"
         },
         "geometry": {
@@ -9590,7 +9590,7 @@ var white = {
         "properties": {
           "Informant": "MA106",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -9606,7 +9606,7 @@ var white = {
         "properties": {
           "Informant": "ME226",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oxford"
         },
         "geometry": {
@@ -9622,7 +9622,7 @@ var white = {
         "properties": {
           "Informant": "MA97",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -9638,7 +9638,7 @@ var white = {
         "properties": {
           "Informant": "MA426",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9654,7 +9654,7 @@ var white = {
         "properties": {
           "Informant": "OH23B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Doylestown"
         },
         "geometry": {
@@ -9670,7 +9670,7 @@ var white = {
         "properties": {
           "Informant": "WI10A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grand Chute"
         },
         "geometry": {
@@ -9686,7 +9686,7 @@ var white = {
         "properties": {
           "Informant": "IN8E",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Jefferson"
         },
         "geometry": {
@@ -9702,7 +9702,7 @@ var white = {
         "properties": {
           "Informant": "MA318",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -9718,7 +9718,7 @@ var white = {
         "properties": {
           "Informant": "VT231",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Orleans"
         },
         "geometry": {
@@ -9734,7 +9734,7 @@ var white = {
         "properties": {
           "Informant": "VT278",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -9750,7 +9750,7 @@ var white = {
         "properties": {
           "Informant": "VT343",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Orange"
         },
         "geometry": {
@@ -9766,7 +9766,7 @@ var white = {
         "properties": {
           "Informant": "MA107",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -9782,7 +9782,7 @@ var white = {
         "properties": {
           "Informant": "IN11A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Brunswick"
         },
         "geometry": {
@@ -9798,7 +9798,7 @@ var white = {
         "properties": {
           "Informant": "MI12B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Churchill"
         },
         "geometry": {
@@ -9814,7 +9814,7 @@ var white = {
         "properties": {
           "Informant": "MI7B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Levering"
         },
         "geometry": {
@@ -9830,7 +9830,7 @@ var white = {
         "properties": {
           "Informant": "OH30B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Concord"
         },
         "geometry": {
@@ -9846,7 +9846,7 @@ var white = {
         "properties": {
           "Informant": "OH37F",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cincinnati"
         },
         "geometry": {
@@ -9862,7 +9862,7 @@ var white = {
         "properties": {
           "Informant": "CT126",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -9878,7 +9878,7 @@ var white = {
         "properties": {
           "Informant": "CT192",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -9894,7 +9894,7 @@ var white = {
         "properties": {
           "Informant": "CT197",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9910,7 +9910,7 @@ var white = {
         "properties": {
           "Informant": "MA21",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -9926,7 +9926,7 @@ var white = {
         "properties": {
           "Informant": "MA72",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -9942,7 +9942,7 @@ var white = {
         "properties": {
           "Informant": "MA123",
           "Sex": "Male/Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -9958,7 +9958,7 @@ var white = {
         "properties": {
           "Informant": "MA140",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -9974,7 +9974,7 @@ var white = {
         "properties": {
           "Informant": "RI20",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -9990,7 +9990,7 @@ var white = {
         "properties": {
           "Informant": "RI114",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -10006,7 +10006,7 @@ var white = {
         "properties": {
           "Informant": "MI5C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sault Ste. Marie"
         },
         "geometry": {
@@ -10022,7 +10022,7 @@ var white = {
         "properties": {
           "Informant": "CT133",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -10038,7 +10038,7 @@ var white = {
         "properties": {
           "Informant": "MA104",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -10054,7 +10054,7 @@ var white = {
         "properties": {
           "Informant": "NH117",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sullivan"
         },
         "geometry": {
@@ -10070,7 +10070,7 @@ var white = {
         "properties": {
           "Informant": "MA96",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -10086,7 +10086,7 @@ var white = {
         "properties": {
           "Informant": "CT198",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10102,7 +10102,7 @@ var white = {
         "properties": {
           "Informant": "CT266",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10118,7 +10118,7 @@ var white = {
         "properties": {
           "Informant": "MI3B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ishpeming"
         },
         "geometry": {
@@ -10134,7 +10134,7 @@ var white = {
         "properties": {
           "Informant": "KY9C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Maysville"
         },
         "geometry": {
@@ -10150,7 +10150,7 @@ var white = {
         "properties": {
           "Informant": "NH165",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Merrimack"
         },
         "geometry": {
@@ -10166,7 +10166,7 @@ var white = {
         "properties": {
           "Informant": "VT346",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -10182,7 +10182,7 @@ var white = {
         "properties": {
           "Informant": "IL48A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Salem"
         },
         "geometry": {
@@ -10198,7 +10198,7 @@ var white = {
         "properties": {
           "Informant": "IL50B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Albion"
         },
         "geometry": {
@@ -10214,7 +10214,7 @@ var white = {
         "properties": {
           "Informant": "IN24B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockport"
         },
         "geometry": {
@@ -10230,7 +10230,7 @@ var white = {
         "properties": {
           "Informant": "KY15",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lebanon"
         },
         "geometry": {
@@ -10246,7 +10246,7 @@ var white = {
         "properties": {
           "Informant": "KY16C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Burgin"
         },
         "geometry": {
@@ -10262,7 +10262,7 @@ var white = {
         "properties": {
           "Informant": "MI1A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Matchwood"
         },
         "geometry": {
@@ -10278,7 +10278,7 @@ var white = {
         "properties": {
           "Informant": "MI23B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Milford"
         },
         "geometry": {
@@ -10294,7 +10294,7 @@ var white = {
         "properties": {
           "Informant": "IL11A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Glen Ellyn"
         },
         "geometry": {
@@ -10310,7 +10310,7 @@ var white = {
         "properties": {
           "Informant": "IN19B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Milroy"
         },
         "geometry": {
@@ -10326,7 +10326,7 @@ var white = {
         "properties": {
           "Informant": "WI24A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Clinton"
         },
         "geometry": {
@@ -10342,7 +10342,7 @@ var white = {
         "properties": {
           "Informant": "KY23B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Concord"
         },
         "geometry": {
@@ -10358,7 +10358,7 @@ var white = {
         "properties": {
           "Informant": "MA285",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Norfolk"
         },
         "geometry": {
@@ -10374,7 +10374,7 @@ var white = {
         "properties": {
           "Informant": "IL38A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Beardstown"
         },
         "geometry": {
@@ -10390,7 +10390,7 @@ var white = {
         "properties": {
           "Informant": "IL44A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Edwardsville"
         },
         "geometry": {
@@ -10406,7 +10406,7 @@ var white = {
         "properties": {
           "Informant": "IN14C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Farmland"
         },
         "geometry": {
@@ -10422,7 +10422,7 @@ var white = {
         "properties": {
           "Informant": "KY1A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Smithland"
         },
         "geometry": {
@@ -10438,7 +10438,7 @@ var white = {
         "properties": {
           "Informant": "KY7B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Louisville"
         },
         "geometry": {
@@ -10454,7 +10454,7 @@ var white = {
         "properties": {
           "Informant": "KY23A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Murray"
         },
         "geometry": {
@@ -10470,7 +10470,7 @@ var white = {
         "properties": {
           "Informant": "OH34D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chester"
         },
         "geometry": {
@@ -10486,7 +10486,7 @@ var white = {
         "properties": {
           "Informant": "KY22C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Clinton"
         },
         "geometry": {
@@ -10502,7 +10502,7 @@ var white = {
         "properties": {
           "Informant": "KY7C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Louisville"
         },
         "geometry": {
@@ -10518,7 +10518,7 @@ var white = {
         "properties": {
           "Informant": "KY12A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Shrewsbury"
         },
         "geometry": {
@@ -10534,7 +10534,7 @@ var white = {
         "properties": {
           "Informant": "IL43C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hardin "
         },
         "geometry": {
@@ -10550,7 +10550,7 @@ var white = {
         "properties": {
           "Informant": "KY29A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ingram"
         },
         "geometry": {
@@ -10566,7 +10566,7 @@ var white = {
         "properties": {
           "Informant": "IL55A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Shawneetown"
         },
         "geometry": {
@@ -10582,7 +10582,7 @@ var white = {
         "properties": {
           "Informant": "OH37B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sycamore"
         },
         "geometry": {
@@ -10598,7 +10598,7 @@ var white = {
         "properties": {
           "Informant": "OH38A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tate"
         },
         "geometry": {
@@ -10614,7 +10614,7 @@ var white = {
         "properties": {
           "Informant": "CT109",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -10630,7 +10630,7 @@ var white = {
         "properties": {
           "Informant": "IN4A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -10646,7 +10646,7 @@ var white = {
         "properties": {
           "Informant": "MA155",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -10662,7 +10662,7 @@ var white = {
         "properties": {
           "Informant": "MA313",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -10678,7 +10678,7 @@ var white = {
         "properties": {
           "Informant": "MI25A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wayne"
         },
         "geometry": {
@@ -10694,7 +10694,7 @@ var white = {
         "properties": {
           "Informant": "IL12C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Park Ridge"
         },
         "geometry": {
@@ -10710,7 +10710,7 @@ var white = {
         "properties": {
           "Informant": "IL29A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Watseka"
         },
         "geometry": {
@@ -10726,7 +10726,7 @@ var white = {
         "properties": {
           "Informant": "MA74",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -10742,7 +10742,7 @@ var white = {
         "properties": {
           "Informant": "MI8A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Old Mission"
         },
         "geometry": {
@@ -10758,7 +10758,7 @@ var white = {
         "properties": {
           "Informant": "MA16",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -10774,7 +10774,7 @@ var white = {
         "properties": {
           "Informant": "MA95",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -10790,7 +10790,7 @@ var white = {
         "properties": {
           "Informant": "MA35",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10806,7 +10806,7 @@ var white = {
         "properties": {
           "Informant": "MA105",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10822,7 +10822,7 @@ var white = {
         "properties": {
           "Informant": "CT34",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -10838,7 +10838,7 @@ var white = {
         "properties": {
           "Informant": "CT40",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -10854,7 +10854,7 @@ var white = {
         "properties": {
           "Informant": "CT43",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10870,7 +10870,7 @@ var white = {
         "properties": {
           "Informant": "CT113",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -10886,7 +10886,7 @@ var white = {
         "properties": {
           "Informant": "CT188",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -10902,7 +10902,7 @@ var white = {
         "properties": {
           "Informant": "CT190",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -10918,7 +10918,7 @@ var white = {
         "properties": {
           "Informant": "CT191",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -10934,7 +10934,7 @@ var white = {
         "properties": {
           "Informant": "CT193",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -10950,7 +10950,7 @@ var white = {
         "properties": {
           "Informant": "CT195",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -10966,7 +10966,7 @@ var white = {
         "properties": {
           "Informant": "CT216",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -10982,7 +10982,7 @@ var white = {
         "properties": {
           "Informant": "CT217",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -10998,7 +10998,7 @@ var white = {
         "properties": {
           "Informant": "CT218",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -11014,7 +11014,7 @@ var white = {
         "properties": {
           "Informant": "CT282",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -11030,7 +11030,7 @@ var white = {
         "properties": {
           "Informant": "CT287",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -11046,7 +11046,7 @@ var white = {
         "properties": {
           "Informant": "CT384",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tolland"
         },
         "geometry": {
@@ -11062,7 +11062,7 @@ var white = {
         "properties": {
           "Informant": "CT386",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -11078,7 +11078,7 @@ var white = {
         "properties": {
           "Informant": "CT387",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hartford"
         },
         "geometry": {
@@ -11094,7 +11094,7 @@ var white = {
         "properties": {
           "Informant": "CT400",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tolland"
         },
         "geometry": {
@@ -11110,7 +11110,7 @@ var white = {
         "properties": {
           "Informant": "CT419",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -11126,7 +11126,7 @@ var white = {
         "properties": {
           "Informant": "IL10A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Elburn"
         },
         "geometry": {
@@ -11142,7 +11142,7 @@ var white = {
         "properties": {
           "Informant": "IL20A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oquawka"
         },
         "geometry": {
@@ -11158,7 +11158,7 @@ var white = {
         "properties": {
           "Informant": "IL43B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hardin "
         },
         "geometry": {
@@ -11174,7 +11174,7 @@ var white = {
         "properties": {
           "Informant": "IL50A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Albion"
         },
         "geometry": {
@@ -11190,7 +11190,7 @@ var white = {
         "properties": {
           "Informant": "IL53A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cora"
         },
         "geometry": {
@@ -11206,7 +11206,7 @@ var white = {
         "properties": {
           "Informant": "IL58A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Golconda"
         },
         "geometry": {
@@ -11222,7 +11222,7 @@ var white = {
         "properties": {
           "Informant": "IN7A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lagro"
         },
         "geometry": {
@@ -11238,7 +11238,7 @@ var white = {
         "properties": {
           "Informant": "IN16B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -11254,7 +11254,7 @@ var white = {
         "properties": {
           "Informant": "IN19A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Milroy"
         },
         "geometry": {
@@ -11270,7 +11270,7 @@ var white = {
         "properties": {
           "Informant": "IN21A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Steen"
         },
         "geometry": {
@@ -11286,7 +11286,7 @@ var white = {
         "properties": {
           "Informant": "KY9A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cabin Creek"
         },
         "geometry": {
@@ -11302,7 +11302,7 @@ var white = {
         "properties": {
           "Informant": "KY13A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bluff Boom"
         },
         "geometry": {
@@ -11318,7 +11318,7 @@ var white = {
         "properties": {
           "Informant": "MA2",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -11334,7 +11334,7 @@ var white = {
         "properties": {
           "Informant": "MA90",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -11350,7 +11350,7 @@ var white = {
         "properties": {
           "Informant": "MA135",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -11366,7 +11366,7 @@ var white = {
         "properties": {
           "Informant": "MA148",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -11382,7 +11382,7 @@ var white = {
         "properties": {
           "Informant": "MA185",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11398,7 +11398,7 @@ var white = {
         "properties": {
           "Informant": "MA321",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11414,7 +11414,7 @@ var white = {
         "properties": {
           "Informant": "MA389",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nantucket "
         },
         "geometry": {
@@ -11430,7 +11430,7 @@ var white = {
         "properties": {
           "Informant": "MA395",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nantucket "
         },
         "geometry": {
@@ -11446,7 +11446,7 @@ var white = {
         "properties": {
           "Informant": "MA396",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nantucket "
         },
         "geometry": {
@@ -11462,7 +11462,7 @@ var white = {
         "properties": {
           "Informant": "MI13A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Garfield"
         },
         "geometry": {
@@ -11478,7 +11478,7 @@ var white = {
         "properties": {
           "Informant": "MI17A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Portland"
         },
         "geometry": {
@@ -11494,7 +11494,7 @@ var white = {
         "properties": {
           "Informant": "NY412",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -11510,7 +11510,7 @@ var white = {
         "properties": {
           "Informant": "OH1A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Eagleville"
         },
         "geometry": {
@@ -11526,7 +11526,7 @@ var white = {
         "properties": {
           "Informant": "OH9A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Brooks"
         },
         "geometry": {
@@ -11542,7 +11542,7 @@ var white = {
         "properties": {
           "Informant": "OH9B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Shade"
         },
         "geometry": {
@@ -11558,7 +11558,7 @@ var white = {
         "properties": {
           "Informant": "OH15A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Huron"
         },
         "geometry": {
@@ -11574,7 +11574,7 @@ var white = {
         "properties": {
           "Informant": "OH28B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Reynoldsburg"
         },
         "geometry": {
@@ -11590,7 +11590,7 @@ var white = {
         "properties": {
           "Informant": "OH29A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Amanda"
         },
         "geometry": {
@@ -11606,7 +11606,7 @@ var white = {
         "properties": {
           "Informant": "VT182",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -11622,7 +11622,7 @@ var white = {
         "properties": {
           "Informant": "VT212",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Franklin"
         },
         "geometry": {
@@ -11638,7 +11638,7 @@ var white = {
         "properties": {
           "Informant": "VT242",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Addison"
         },
         "geometry": {
@@ -11654,7 +11654,7 @@ var white = {
         "properties": {
           "Informant": "VT244",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chittenden"
         },
         "geometry": {
@@ -11670,7 +11670,7 @@ var white = {
         "properties": {
           "Informant": "VT256",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chittenden"
         },
         "geometry": {
@@ -11686,7 +11686,7 @@ var white = {
         "properties": {
           "Informant": "VT257",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windsor"
         },
         "geometry": {
@@ -11702,7 +11702,7 @@ var white = {
         "properties": {
           "Informant": "VT264",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -11718,7 +11718,7 @@ var white = {
         "properties": {
           "Informant": "VT314",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -11734,7 +11734,7 @@ var white = {
         "properties": {
           "Informant": "WI6A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pepin"
         },
         "geometry": {
@@ -11750,7 +11750,7 @@ var white = {
         "properties": {
           "Informant": "WI13A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fort Winnebago"
         },
         "geometry": {
@@ -11766,7 +11766,7 @@ var white = {
         "properties": {
           "Informant": "WI18A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mineral Point"
         },
         "geometry": {
@@ -11782,7 +11782,7 @@ var white = {
         "properties": {
           "Informant": "CT286",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -11798,7 +11798,7 @@ var white = {
         "properties": {
           "Informant": "KY10B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grayson"
         },
         "geometry": {
@@ -11814,7 +11814,7 @@ var white = {
         "properties": {
           "Informant": "CT69",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -11830,7 +11830,7 @@ var white = {
         "properties": {
           "Informant": "CT139",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -11846,7 +11846,7 @@ var white = {
         "properties": {
           "Informant": "CT184",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Litchfield"
         },
         "geometry": {
@@ -11862,7 +11862,7 @@ var white = {
         "properties": {
           "Informant": "CT209",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -11878,7 +11878,7 @@ var white = {
         "properties": {
           "Informant": "CT254",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -11894,7 +11894,7 @@ var white = {
         "properties": {
           "Informant": "CT373",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -11910,7 +11910,7 @@ var white = {
         "properties": {
           "Informant": "CT405",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Tolland"
         },
         "geometry": {
@@ -11926,7 +11926,7 @@ var white = {
         "properties": {
           "Informant": "IL9",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sandwich"
         },
         "geometry": {
@@ -11942,7 +11942,7 @@ var white = {
         "properties": {
           "Informant": "IL38B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Beardstown"
         },
         "geometry": {
@@ -11958,7 +11958,7 @@ var white = {
         "properties": {
           "Informant": "IN6B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Delphi"
         },
         "geometry": {
@@ -11974,7 +11974,7 @@ var white = {
         "properties": {
           "Informant": "MA28",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -11990,7 +11990,7 @@ var white = {
         "properties": {
           "Informant": "MA70",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -12006,7 +12006,7 @@ var white = {
         "properties": {
           "Informant": "MA320",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -12022,7 +12022,7 @@ var white = {
         "properties": {
           "Informant": "MA392",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -12038,7 +12038,7 @@ var white = {
         "properties": {
           "Informant": "MA404",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -12054,7 +12054,7 @@ var white = {
         "properties": {
           "Informant": "ME49",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -12070,7 +12070,7 @@ var white = {
         "properties": {
           "Informant": "ME269",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Penobscot"
         },
         "geometry": {
@@ -12086,7 +12086,7 @@ var white = {
         "properties": {
           "Informant": "ME299",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -12102,7 +12102,7 @@ var white = {
         "properties": {
           "Informant": "ME330",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Penobscot"
         },
         "geometry": {
@@ -12118,7 +12118,7 @@ var white = {
         "properties": {
           "Informant": "MI20A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "China"
         },
         "geometry": {
@@ -12134,7 +12134,7 @@ var white = {
         "properties": {
           "Informant": "NH132",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -12150,7 +12150,7 @@ var white = {
         "properties": {
           "Informant": "NH167",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Belknap"
         },
         "geometry": {
@@ -12166,7 +12166,7 @@ var white = {
         "properties": {
           "Informant": "NH174",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rockingham"
         },
         "geometry": {
@@ -12182,7 +12182,7 @@ var white = {
         "properties": {
           "Informant": "NH176",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cheshire"
         },
         "geometry": {
@@ -12198,7 +12198,7 @@ var white = {
         "properties": {
           "Informant": "NH177",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cheshire"
         },
         "geometry": {
@@ -12214,7 +12214,7 @@ var white = {
         "properties": {
           "Informant": "NH180",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -12230,7 +12230,7 @@ var white = {
         "properties": {
           "Informant": "NY414",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Suffolk"
         },
         "geometry": {
@@ -12246,7 +12246,7 @@ var white = {
         "properties": {
           "Informant": "OH24A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Millersburg"
         },
         "geometry": {
@@ -12262,7 +12262,7 @@ var white = {
         "properties": {
           "Informant": "VT243",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Addison"
         },
         "geometry": {
@@ -12278,7 +12278,7 @@ var white = {
         "properties": {
           "Informant": "VT276",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Addison"
         },
         "geometry": {
@@ -12294,7 +12294,7 @@ var white = {
         "properties": {
           "Informant": "VT281",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bennington"
         },
         "geometry": {
@@ -12310,7 +12310,7 @@ var white = {
         "properties": {
           "Informant": "VT323",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -12326,7 +12326,7 @@ var white = {
         "properties": {
           "Informant": "WI4A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sturgeon Bay"
         },
         "geometry": {
@@ -12342,7 +12342,7 @@ var white = {
         "properties": {
           "Informant": "WI11A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Scott"
         },
         "geometry": {
@@ -12358,7 +12358,7 @@ var white = {
         "properties": {
           "Informant": "WI16B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Prairie du Chien"
         },
         "geometry": {
@@ -12374,7 +12374,7 @@ var white = {
         "properties": {
           "Informant": "WI18B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mineral Point"
         },
         "geometry": {
@@ -12390,7 +12390,7 @@ var white = {
         "properties": {
           "Informant": "WI26A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pleasant Prairie"
         },
         "geometry": {
@@ -12406,7 +12406,7 @@ var white = {
         "properties": {
           "Informant": "WI2B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "La Pointe"
         },
         "geometry": {
@@ -12422,7 +12422,7 @@ var white = {
         "properties": {
           "Informant": "CT417",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -12438,7 +12438,7 @@ var white = {
         "properties": {
           "Informant": "MA36",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Plymouth"
         },
         "geometry": {
@@ -12454,7 +12454,7 @@ var white = {
         "properties": {
           "Informant": "IN27A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Shelby"
         },
         "geometry": {
@@ -12470,7 +12470,7 @@ var white = {
         "properties": {
           "Informant": "WI5A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hammond"
         },
         "geometry": {
@@ -12486,7 +12486,7 @@ var white = {
         "properties": {
           "Informant": "WI11B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Howard"
         },
         "geometry": {
@@ -12502,7 +12502,7 @@ var white = {
         "properties": {
           "Informant": "WI14A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Oakfield"
         },
         "geometry": {
@@ -12518,7 +12518,7 @@ var white = {
         "properties": {
           "Informant": "KY19C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Reynoldsville"
         },
         "geometry": {
@@ -12534,7 +12534,7 @@ var white = {
         "properties": {
           "Informant": "MA409",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12550,7 +12550,7 @@ var white = {
         "properties": {
           "Informant": "RI122",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -12566,7 +12566,7 @@ var white = {
         "properties": {
           "Informant": "WI2A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bayfield"
         },
         "geometry": {
@@ -12582,7 +12582,7 @@ var white = {
         "properties": {
           "Informant": "MA73",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Barnstable"
         },
         "geometry": {
@@ -12598,7 +12598,7 @@ var white = {
         "properties": {
           "Informant": "ME305",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -12614,7 +12614,7 @@ var white = {
         "properties": {
           "Informant": "MA399",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -12630,7 +12630,7 @@ var white = {
         "properties": {
           "Informant": "MI24A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -12646,7 +12646,7 @@ var white = {
         "properties": {
           "Informant": "MI24B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -12662,7 +12662,7 @@ var white = {
         "properties": {
           "Informant": "CT62",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -12678,7 +12678,7 @@ var white = {
         "properties": {
           "Informant": "MA258",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bristol"
         },
         "geometry": {
@@ -12694,7 +12694,7 @@ var white = {
         "properties": {
           "Informant": "RI143",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Providence"
         },
         "geometry": {
@@ -12710,7 +12710,7 @@ var white = {
         "properties": {
           "Informant": "CT60",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Haven"
         },
         "geometry": {
@@ -12726,7 +12726,7 @@ var white = {
         "properties": {
           "Informant": "KY34B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Linefork"
         },
         "geometry": {
@@ -12742,7 +12742,7 @@ var white = {
         "properties": {
           "Informant": "VT275",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Addison"
         },
         "geometry": {
@@ -12758,7 +12758,7 @@ var white = {
         "properties": {
           "Informant": "OH19C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pleasant (Van Wert)"
         },
         "geometry": {
@@ -12774,7 +12774,7 @@ var white = {
         "properties": {
           "Informant": "OH28A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worthington"
         },
         "geometry": {
@@ -12790,7 +12790,7 @@ var white = {
         "properties": {
           "Informant": "IN7B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lagro"
         },
         "geometry": {
@@ -12806,7 +12806,7 @@ var white = {
         "properties": {
           "Informant": "IN9A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Decatur"
         },
         "geometry": {
@@ -12822,7 +12822,7 @@ var white = {
         "properties": {
           "Informant": "IN22B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "White River"
         },
         "geometry": {
@@ -12838,7 +12838,7 @@ var white = {
         "properties": {
           "Informant": "KY4",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Brandenburg"
         },
         "geometry": {
@@ -12854,7 +12854,7 @@ var white = {
         "properties": {
           "Informant": "KY12D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Leitchfield"
         },
         "geometry": {
@@ -12870,7 +12870,7 @@ var white = {
         "properties": {
           "Informant": "KY21A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Boons Camp"
         },
         "geometry": {
@@ -12886,7 +12886,7 @@ var white = {
         "properties": {
           "Informant": "MI28A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Adrian"
         },
         "geometry": {
@@ -12902,7 +12902,7 @@ var white = {
         "properties": {
           "Informant": "IL30B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nauvoo"
         },
         "geometry": {
@@ -12918,7 +12918,7 @@ var white = {
         "properties": {
           "Informant": "KY16A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dixville"
         },
         "geometry": {
@@ -12934,7 +12934,7 @@ var white = {
         "properties": {
           "Informant": "KY33A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Crummies"
         },
         "geometry": {
@@ -12950,7 +12950,7 @@ var white = {
         "properties": {
           "Informant": "OH14A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Perrysburg"
         },
         "geometry": {
@@ -12966,7 +12966,7 @@ var white = {
         "properties": {
           "Informant": "MI11A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "South Branch"
         },
         "geometry": {
@@ -12982,7 +12982,7 @@ var white = {
         "properties": {
           "Informant": "IN14A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "White River"
         },
         "geometry": {
@@ -12998,7 +12998,7 @@ var white = {
         "properties": {
           "Informant": "KY33B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Harlan"
         },
         "geometry": {
@@ -13014,7 +13014,7 @@ var white = {
         "properties": {
           "Informant": "KY28B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Williamsburg"
         },
         "geometry": {
@@ -13030,7 +13030,7 @@ var white = {
         "properties": {
           "Informant": "MA349",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Norfolk"
         },
         "geometry": {
@@ -13046,7 +13046,7 @@ var white = {
         "properties": {
           "Informant": "ME85",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13062,7 +13062,7 @@ var white = {
         "properties": {
           "Informant": "ME86",
           "Sex": "Unknown",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13078,7 +13078,7 @@ var white = {
         "properties": {
           "Informant": "CT215",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -13094,7 +13094,7 @@ var white = {
         "properties": {
           "Informant": "IL3A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pecatonica"
         },
         "geometry": {
@@ -13110,7 +13110,7 @@ var white = {
         "properties": {
           "Informant": "IL12K",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -13126,7 +13126,7 @@ var white = {
         "properties": {
           "Informant": "IL24B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Peoria"
         },
         "geometry": {
@@ -13142,7 +13142,7 @@ var white = {
         "properties": {
           "Informant": "IL46B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vandalia"
         },
         "geometry": {
@@ -13158,7 +13158,7 @@ var white = {
         "properties": {
           "Informant": "IL52B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Red Bud"
         },
         "geometry": {
@@ -13174,7 +13174,7 @@ var white = {
         "properties": {
           "Informant": "IL57",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Metropolis"
         },
         "geometry": {
@@ -13190,7 +13190,7 @@ var white = {
         "properties": {
           "Informant": "IN13A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fall Creek"
         },
         "geometry": {
@@ -13206,7 +13206,7 @@ var white = {
         "properties": {
           "Informant": "IN13C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Richland"
         },
         "geometry": {
@@ -13222,7 +13222,7 @@ var white = {
         "properties": {
           "Informant": "IN13D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fall Creek"
         },
         "geometry": {
@@ -13238,7 +13238,7 @@ var white = {
         "properties": {
           "Informant": "IN13E",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Elwood"
         },
         "geometry": {
@@ -13254,7 +13254,7 @@ var white = {
         "properties": {
           "Informant": "IN18A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Nashville"
         },
         "geometry": {
@@ -13270,7 +13270,7 @@ var white = {
         "properties": {
           "Informant": "KY7AA",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Louisville"
         },
         "geometry": {
@@ -13286,7 +13286,7 @@ var white = {
         "properties": {
           "Informant": "KY7F",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windy Hills"
         },
         "geometry": {
@@ -13302,7 +13302,7 @@ var white = {
         "properties": {
           "Informant": "KY32",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hazard"
         },
         "geometry": {
@@ -13318,7 +13318,7 @@ var white = {
         "properties": {
           "Informant": "MA58",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -13334,7 +13334,7 @@ var white = {
         "properties": {
           "Informant": "MA61",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampden"
         },
         "geometry": {
@@ -13350,7 +13350,7 @@ var white = {
         "properties": {
           "Informant": "MA125",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -13366,7 +13366,7 @@ var white = {
         "properties": {
           "Informant": "MA211",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -13382,7 +13382,7 @@ var white = {
         "properties": {
           "Informant": "MA411",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesex"
         },
         "geometry": {
@@ -13398,7 +13398,7 @@ var white = {
         "properties": {
           "Informant": "MA423",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hampshire"
         },
         "geometry": {
@@ -13414,7 +13414,7 @@ var white = {
         "properties": {
           "Informant": "ME64",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "York"
         },
         "geometry": {
@@ -13430,7 +13430,7 @@ var white = {
         "properties": {
           "Informant": "ME227",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13446,7 +13446,7 @@ var white = {
         "properties": {
           "Informant": "ME358",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13462,7 +13462,7 @@ var white = {
         "properties": {
           "Informant": "ME362",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13478,7 +13478,7 @@ var white = {
         "properties": {
           "Informant": "ME365",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13494,7 +13494,7 @@ var white = {
         "properties": {
           "Informant": "MI2C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Calumet"
         },
         "geometry": {
@@ -13510,7 +13510,7 @@ var white = {
         "properties": {
           "Informant": "MI14C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Isabella"
         },
         "geometry": {
@@ -13526,7 +13526,7 @@ var white = {
         "properties": {
           "Informant": "MI16B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Zeeland"
         },
         "geometry": {
@@ -13542,7 +13542,7 @@ var white = {
         "properties": {
           "Informant": "NH375",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Grafton"
         },
         "geometry": {
@@ -13558,7 +13558,7 @@ var white = {
         "properties": {
           "Informant": "OH32C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Israel"
         },
         "geometry": {
@@ -13574,7 +13574,7 @@ var white = {
         "properties": {
           "Informant": "VT169",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -13590,7 +13590,7 @@ var white = {
         "properties": {
           "Informant": "VT279",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -13606,7 +13606,7 @@ var white = {
         "properties": {
           "Informant": "OH11A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Thivener"
         },
         "geometry": {
@@ -13622,7 +13622,7 @@ var white = {
         "properties": {
           "Informant": "MI22",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Howell"
         },
         "geometry": {
@@ -13638,7 +13638,7 @@ var white = {
         "properties": {
           "Informant": "MI30A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dundee"
         },
         "geometry": {
@@ -13654,7 +13654,7 @@ var white = {
         "properties": {
           "Informant": "RI23",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -13670,7 +13670,7 @@ var white = {
         "properties": {
           "Informant": "RI19",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Newport"
         },
         "geometry": {
@@ -13686,7 +13686,7 @@ var white = {
         "properties": {
           "Informant": "MI27A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Coldwater"
         },
         "geometry": {
@@ -13702,7 +13702,7 @@ var white = {
         "properties": {
           "Informant": "WI9A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Stockton"
         },
         "geometry": {
@@ -13718,7 +13718,7 @@ var white = {
         "properties": {
           "Informant": "CT406",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Windham"
         },
         "geometry": {
@@ -13734,7 +13734,7 @@ var white = {
         "properties": {
           "Informant": "MA325",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Worcester"
         },
         "geometry": {
@@ -13750,7 +13750,7 @@ var white = {
         "properties": {
           "Informant": "MI14A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Isabella"
         },
         "geometry": {
@@ -13766,7 +13766,7 @@ var white = {
         "properties": {
           "Informant": "RI111",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -13782,7 +13782,7 @@ var white = {
         "properties": {
           "Informant": "OH14B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Perrysburg"
         },
         "geometry": {
@@ -13798,7 +13798,7 @@ var white = {
         "properties": {
           "Informant": "MI17B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Portland"
         },
         "geometry": {
@@ -13814,7 +13814,7 @@ var white = {
         "properties": {
           "Informant": "MA274",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bristol"
         },
         "geometry": {
@@ -13830,7 +13830,7 @@ var white = {
         "properties": {
           "Informant": "IL10C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Blackberry"
         },
         "geometry": {
@@ -13846,7 +13846,7 @@ var white = {
         "properties": {
           "Informant": "IL12N",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Near South Side"
         },
         "geometry": {
@@ -13862,7 +13862,7 @@ var white = {
         "properties": {
           "Informant": "IL12P",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -13878,7 +13878,7 @@ var white = {
         "properties": {
           "Informant": "IL13A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rock Island"
         },
         "geometry": {
@@ -13894,7 +13894,7 @@ var white = {
         "properties": {
           "Informant": "IL20B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sand Ridge"
         },
         "geometry": {
@@ -13910,7 +13910,7 @@ var white = {
         "properties": {
           "Informant": "IL31A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bushnell"
         },
         "geometry": {
@@ -13926,7 +13926,7 @@ var white = {
         "properties": {
           "Informant": "IL33B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sand Prairie"
         },
         "geometry": {
@@ -13942,7 +13942,7 @@ var white = {
         "properties": {
           "Informant": "IL36B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Champaign"
         },
         "geometry": {
@@ -13958,7 +13958,7 @@ var white = {
         "properties": {
           "Informant": "IL46D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vandalia"
         },
         "geometry": {
@@ -13974,7 +13974,7 @@ var white = {
         "properties": {
           "Informant": "IL58C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Golconda"
         },
         "geometry": {
@@ -13990,7 +13990,7 @@ var white = {
         "properties": {
           "Informant": "IN8C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -14006,7 +14006,7 @@ var white = {
         "properties": {
           "Informant": "IN10C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Raccoon"
         },
         "geometry": {
@@ -14022,7 +14022,7 @@ var white = {
         "properties": {
           "Informant": "IN22C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Princeton"
         },
         "geometry": {
@@ -14038,7 +14038,7 @@ var white = {
         "properties": {
           "Informant": "IN28C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Madison"
         },
         "geometry": {
@@ -14054,7 +14054,7 @@ var white = {
         "properties": {
           "Informant": "KY17B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Georgetown"
         },
         "geometry": {
@@ -14070,7 +14070,7 @@ var white = {
         "properties": {
           "Informant": "KY26A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Holland"
         },
         "geometry": {
@@ -14086,7 +14086,7 @@ var white = {
         "properties": {
           "Informant": "KY29B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Middlesboro"
         },
         "geometry": {
@@ -14102,7 +14102,7 @@ var white = {
         "properties": {
           "Informant": "MI19",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Flint (township)"
         },
         "geometry": {
@@ -14118,7 +14118,7 @@ var white = {
         "properties": {
           "Informant": "MI29E",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Detroit"
         },
         "geometry": {
@@ -14134,7 +14134,7 @@ var white = {
         "properties": {
           "Informant": "OH16B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pepper Pike"
         },
         "geometry": {
@@ -14150,7 +14150,7 @@ var white = {
         "properties": {
           "Informant": "OH23C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chippewa"
         },
         "geometry": {
@@ -14166,7 +14166,7 @@ var white = {
         "properties": {
           "Informant": "OH31A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Senecaville"
         },
         "geometry": {
@@ -14182,7 +14182,7 @@ var white = {
         "properties": {
           "Informant": "OH34B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wilmington"
         },
         "geometry": {
@@ -14198,7 +14198,7 @@ var white = {
         "properties": {
           "Informant": "OH37D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Westwood"
         },
         "geometry": {
@@ -14214,7 +14214,7 @@ var white = {
         "properties": {
           "Informant": "OH37E",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cincinnati"
         },
         "geometry": {
@@ -14230,7 +14230,7 @@ var white = {
         "properties": {
           "Informant": "IN29A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Keener"
         },
         "geometry": {
@@ -14246,7 +14246,7 @@ var white = {
         "properties": {
           "Informant": "OH28C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Columbus"
         },
         "geometry": {
@@ -14262,7 +14262,7 @@ var white = {
         "properties": {
           "Informant": "VT348",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Washington"
         },
         "geometry": {
@@ -14278,7 +14278,7 @@ var white = {
         "properties": {
           "Informant": "IN16C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Brazil"
         },
         "geometry": {
@@ -14294,7 +14294,7 @@ var white = {
         "properties": {
           "Informant": "OH34C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Union"
         },
         "geometry": {
@@ -14310,7 +14310,7 @@ var white = {
         "properties": {
           "Informant": "KY8A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Squiresville"
         },
         "geometry": {
@@ -14326,7 +14326,7 @@ var white = {
         "properties": {
           "Informant": "IL3C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pecatonica"
         },
         "geometry": {
@@ -14342,7 +14342,7 @@ var white = {
         "properties": {
           "Informant": "VT315",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Rutland"
         },
         "geometry": {
@@ -14358,7 +14358,7 @@ var white = {
         "properties": {
           "Informant": "KY8C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New Liberty"
         },
         "geometry": {
@@ -14374,7 +14374,7 @@ var white = {
         "properties": {
           "Informant": "OH16A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Pepper Pike"
         },
         "geometry": {
@@ -14390,7 +14390,7 @@ var white = {
         "properties": {
           "Informant": "MA255",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bristol"
         },
         "geometry": {
@@ -14406,7 +14406,7 @@ var white = {
         "properties": {
           "Informant": "RI194",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Providence"
         },
         "geometry": {
@@ -14422,7 +14422,7 @@ var white = {
         "properties": {
           "Informant": "IL55C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Shawneetown"
         },
         "geometry": {
@@ -14438,7 +14438,7 @@ var white = {
         "properties": {
           "Informant": "CT260",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Fairfield"
         },
         "geometry": {
@@ -14454,7 +14454,7 @@ var white = {
         "properties": {
           "Informant": "IN17B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Bloomington"
         },
         "geometry": {
@@ -14470,7 +14470,7 @@ var white = {
         "properties": {
           "Informant": "KY18B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Irvine"
         },
         "geometry": {
@@ -14486,7 +14486,7 @@ var white = {
         "properties": {
           "Informant": "KY28C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Williamsburg"
         },
         "geometry": {
@@ -14502,7 +14502,7 @@ var white = {
         "properties": {
           "Informant": "KY30B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Scoville"
         },
         "geometry": {
@@ -14518,7 +14518,7 @@ var white = {
         "properties": {
           "Informant": "KY30D",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Athol"
         },
         "geometry": {
@@ -14534,7 +14534,7 @@ var white = {
         "properties": {
           "Informant": "KY31B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Big Rock"
         },
         "geometry": {
@@ -14550,7 +14550,7 @@ var white = {
         "properties": {
           "Informant": "IL49A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Wayne City"
         },
         "geometry": {
@@ -14566,7 +14566,7 @@ var white = {
         "properties": {
           "Informant": "KY31D",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Dry Hill"
         },
         "geometry": {
@@ -14582,7 +14582,7 @@ var white = {
         "properties": {
           "Informant": "MI24C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -14598,7 +14598,7 @@ var white = {
         "properties": {
           "Informant": "RI342",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Providence"
         },
         "geometry": {
@@ -14614,7 +14614,7 @@ var white = {
         "properties": {
           "Informant": "KY20B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sudith"
         },
         "geometry": {
@@ -14630,7 +14630,7 @@ var white = {
         "properties": {
           "Informant": "KY33C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cawood"
         },
         "geometry": {
@@ -14646,7 +14646,7 @@ var white = {
         "properties": {
           "Informant": "VT340",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Caledonia"
         },
         "geometry": {
@@ -14662,7 +14662,7 @@ var white = {
         "properties": {
           "Informant": "OH31B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Greenwood"
         },
         "geometry": {
@@ -14678,7 +14678,7 @@ var white = {
         "properties": {
           "Informant": "IL44B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Alton"
         },
         "geometry": {
@@ -14694,7 +14694,7 @@ var white = {
         "properties": {
           "Informant": "IL48B",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Alma"
         },
         "geometry": {
@@ -14710,7 +14710,7 @@ var white = {
         "properties": {
           "Informant": "IL12M",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Chicago"
         },
         "geometry": {
@@ -14726,7 +14726,7 @@ var white = {
         "properties": {
           "Informant": "MA25",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -14742,7 +14742,7 @@ var white = {
         "properties": {
           "Informant": "MA398",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Essex"
         },
         "geometry": {
@@ -14758,7 +14758,7 @@ var white = {
         "properties": {
           "Informant": "KY30A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Booneville"
         },
         "geometry": {
@@ -14774,7 +14774,7 @@ var white = {
         "properties": {
           "Informant": "CT233",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "New London"
         },
         "geometry": {
@@ -14790,7 +14790,7 @@ var white = {
         "properties": {
           "Informant": "IL45A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Witt"
         },
         "geometry": {
@@ -14806,7 +14806,7 @@ var white = {
         "properties": {
           "Informant": "IN22A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "White River"
         },
         "geometry": {
@@ -14822,7 +14822,7 @@ var white = {
         "properties": {
           "Informant": "KY2B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Sebree"
         },
         "geometry": {
@@ -14838,7 +14838,7 @@ var white = {
         "properties": {
           "Informant": "KY12B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Salt Lick"
         },
         "geometry": {
@@ -14854,7 +14854,7 @@ var white = {
         "properties": {
           "Informant": "KY24B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cadiz"
         },
         "geometry": {
@@ -14870,7 +14870,7 @@ var white = {
         "properties": {
           "Informant": "KY30C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Lerose"
         },
         "geometry": {
@@ -14886,7 +14886,7 @@ var white = {
         "properties": {
           "Informant": "MI9B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Alpena"
         },
         "geometry": {
@@ -14902,7 +14902,7 @@ var white = {
         "properties": {
           "Informant": "MI10A",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Summit"
         },
         "geometry": {
@@ -14918,7 +14918,7 @@ var white = {
         "properties": {
           "Informant": "KY21B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Winifred"
         },
         "geometry": {
@@ -14934,7 +14934,7 @@ var white = {
         "properties": {
           "Informant": "KY26B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mt. Zion"
         },
         "geometry": {
@@ -14950,7 +14950,7 @@ var white = {
         "properties": {
           "Informant": "KY19B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Owingsville"
         },
         "geometry": {
@@ -14966,7 +14966,7 @@ var white = {
         "properties": {
           "Informant": "IL6A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mt. Carroll"
         },
         "geometry": {
@@ -14982,7 +14982,7 @@ var white = {
         "properties": {
           "Informant": "IL6C",
           "Sex": "Female",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Mt. Pleasant"
         },
         "geometry": {
@@ -14998,7 +14998,7 @@ var white = {
         "properties": {
           "Informant": "KY24A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Blue Spring"
         },
         "geometry": {
@@ -15014,7 +15014,7 @@ var white = {
         "properties": {
           "Informant": "MI6A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "St. James"
         },
         "geometry": {
@@ -15030,7 +15030,7 @@ var white = {
         "properties": {
           "Informant": "OH23A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Ashland "
         },
         "geometry": {
@@ -15046,7 +15046,7 @@ var white = {
         "properties": {
           "Informant": "KY20A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Frenchburg"
         },
         "geometry": {
@@ -15062,7 +15062,7 @@ var white = {
         "properties": {
           "Informant": "MI9A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Alpena"
         },
         "geometry": {
@@ -15078,7 +15078,7 @@ var white = {
         "properties": {
           "Informant": "KY30E",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cow Creek"
         },
         "geometry": {
@@ -15094,7 +15094,7 @@ var white = {
         "properties": {
           "Informant": "KY8B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Monterey"
         },
         "geometry": {
@@ -15110,7 +15110,7 @@ var white = {
         "properties": {
           "Informant": "KY24C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Cadiz"
         },
         "geometry": {
@@ -15126,7 +15126,7 @@ var white = {
         "properties": {
           "Informant": "IL46C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Vandalia"
         },
         "geometry": {
@@ -15142,7 +15142,7 @@ var white = {
         "properties": {
           "Informant": "KY18A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Irvine"
         },
         "geometry": {
@@ -15158,7 +15158,7 @@ var white = {
         "properties": {
           "Informant": "KY22A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Hailwell"
         },
         "geometry": {
@@ -15174,7 +15174,7 @@ var white = {
         "properties": {
           "Informant": "KY27B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Somerset"
         },
         "geometry": {
@@ -15190,7 +15190,7 @@ var white = {
         "properties": {
           "Informant": "KY34C",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Kingdom Come"
         },
         "geometry": {
@@ -15206,7 +15206,7 @@ var white = {
         "properties": {
           "Informant": "KY27A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Goodwater"
         },
         "geometry": {
@@ -15222,7 +15222,7 @@ var white = {
         "properties": {
           "Informant": "IN26B",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Boone"
         },
         "geometry": {
@@ -15238,7 +15238,7 @@ var white = {
         "properties": {
           "Informant": "KY11A",
           "Sex": "Male",
-          "Ethnicity ": "White",
+          "Ethnicity": "White",
           "County": "Greenville"
         },
         "geometry": {
