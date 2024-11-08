@@ -6,7 +6,7 @@ var black = {
         "properties": {
           "Informant": "IL12LN",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Beverly Ridge"
         },
         "geometry": {
@@ -22,7 +22,7 @@ var black = {
         "properties": {
           "Informant": "KY7NA",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Jeffersontown"
         },
         "geometry": {
@@ -38,7 +38,7 @@ var black = {
         "properties": {
           "Informant": "IL12JN",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Beverly Ridge"
         },
         "geometry": {
@@ -54,7 +54,7 @@ var black = {
         "properties": {
           "Informant": "ME78",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Cumberland"
         },
         "geometry": {
@@ -70,7 +70,7 @@ var black = {
         "properties": {
           "Informant": "KY17NA",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Jonestown"
         },
         "geometry": {
@@ -86,7 +86,7 @@ var black = {
         "properties": {
           "Informant": "CT183",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Litchfield"
         },
         "geometry": {
@@ -102,7 +102,7 @@ var black = {
         "properties": {
           "Informant": "IL12HN",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Chicago"
         },
         "geometry": {
@@ -118,7 +118,7 @@ var black = {
         "properties": {
           "Informant": "KY7NE",
           "Sex": "Female",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "Windy Hills"
         },
         "geometry": {
@@ -134,7 +134,7 @@ var black = {
         "properties": {
           "Informant": "WI17NA",
           "Sex": "Male",
-          "Ethnicity ": "Black or African American",
+          "Ethnicity": "Black or African American",
           "County": "South Lancaster"
         },
         "geometry": {
