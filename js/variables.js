@@ -12,7 +12,7 @@ var LANCS = L.geoJson(LANCS, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
+                <b>${props.Informant}</b> (<b>${props.Project}</b>)
                 <br>County: ${props.County}<br>
             `
         layer.bindTooltip(popup, {
