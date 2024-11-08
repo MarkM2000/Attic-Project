@@ -74,9 +74,9 @@ var LANE = L.geoJson(LANE, {
 var white = L.geoJson(white, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#000000',
             weight: 1,
-            fillColor: '#000066',
+            fillColor: '#ffe39f',
             fillOpacity: .8,
             radius: 10
         });
@@ -84,9 +84,9 @@ var white = L.geoJson(white, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
-                <br>Ethnicity: ${props.Ethnicity}<br> (${props.Sex}<br>)
-            `
+                    <b>${props.Informant}</b> (<b>${props.Sex}</b>)
+					<br>Ethnicity: ${props.Ethnicity}<br>
+				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
         });
@@ -94,13 +94,13 @@ var white = L.geoJson(white, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#ffe39f'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#ffe39f'
             });
         });
     }
@@ -109,9 +109,9 @@ var white = L.geoJson(white, {
 var black = L.geoJson(black, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#FF0000',
             weight: 1,
-            fillColor: '#000066',
+            fillColor: '#000000',
             fillOpacity: .8,
             radius: 10
         });
@@ -119,9 +119,9 @@ var black = L.geoJson(black, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-                <b>${props.Informant}</b>
-                <br>Ethnicity: ${props.Ethnicity}<br> (${props.Sex}<br>)
-            `
+                    <b>${props.Informant}</b> (<b>${props.Sex}</b>)
+					<br>Ethnicity: ${props.Ethnicity}<br>
+				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
         });
@@ -129,13 +129,13 @@ var black = L.geoJson(black, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#000000'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#000000'
             });
         });
     }
