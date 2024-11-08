@@ -34,6 +34,7 @@
 <script src="/assets/projects/LANE.js"></script>
 <script src="/assets/ethnicity/white.js"></script>
 <script src="/assets/ethnicity/black.js"></script>
+<script src="/assets/occupation/clerical.js"></script>
 <!-- Variables JS file -->
 <script src="js/variables.js"></script>
 <!-- Add styledLayerControl JS file -->
@@ -65,6 +66,13 @@
             layers: {
                 "White": white,
                 "Black or African American": black
+            }
+        },
+        {
+            groupName: "Occupation",
+            expanded: true,
+            layers: {
+                "Clerical or sales position": clerical,
             }
         }
     ];
