@@ -37,6 +37,7 @@
 <script src="/assets/occupation/clerical.js"></script>
 <script src="/assets/occupation/farming.js"></script>
 <script src="/assets/occupation/other_occupation.js"></script>
+<script src="/assets/age.js"></script>
 <!-- Variables JS file -->
 <script src="js/variables.js"></script>
 <!-- Add styledLayerControl JS file -->
@@ -60,6 +61,13 @@
             layers: {
                 "LANCS": LANCS,
                 "LANE": LANE
+            }
+        },
+        {
+            groupName: "Background",
+            expanded: true,
+            layers: {
+                "Age": age
             }
         },
         {
