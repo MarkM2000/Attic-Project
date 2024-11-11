@@ -6,7 +6,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL1A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Scales Mound"
       },
       "geometry": {
@@ -22,7 +21,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL1B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Galena"
       },
       "geometry": {
@@ -38,7 +36,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL1C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Elizabeth Twp"
       },
       "geometry": {
@@ -54,7 +51,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL2",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Freeport"
       },
       "geometry": {
@@ -70,7 +66,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL3A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Pecatonica"
       },
       "geometry": {
@@ -86,7 +81,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL3B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Seward"
       },
       "geometry": {
@@ -102,7 +96,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL3C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pecatonica"
       },
       "geometry": {
@@ -118,7 +111,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL3D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Rockford"
       },
       "geometry": {
@@ -134,7 +126,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL4",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Belvidere"
       },
       "geometry": {
@@ -150,7 +141,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL5",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Woodstock"
       },
       "geometry": {
@@ -166,7 +156,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL6A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mt. Carroll"
       },
       "geometry": {
@@ -182,7 +171,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL6B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Franklin Corners"
       },
       "geometry": {
@@ -198,7 +186,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL6C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Mt. Pleasant"
       },
       "geometry": {
@@ -214,7 +201,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL7",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Oregon"
       },
       "geometry": {
@@ -230,7 +216,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL8A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Amboy"
       },
       "geometry": {
@@ -246,7 +231,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL8B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Amboy"
       },
       "geometry": {
@@ -262,7 +246,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL8C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Amboy"
       },
       "geometry": {
@@ -278,7 +261,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL8D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Amboy"
       },
       "geometry": {
@@ -294,7 +276,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL9",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sandwich"
       },
       "geometry": {
@@ -310,7 +291,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL10A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Elburn"
       },
       "geometry": {
@@ -326,7 +306,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL10B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Elgin"
       },
       "geometry": {
@@ -342,7 +321,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL10C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Blackberry"
       },
       "geometry": {
@@ -358,7 +336,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL11A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Glen Ellyn"
       },
       "geometry": {
@@ -374,7 +351,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL11B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wheaton"
       },
       "geometry": {
@@ -390,7 +366,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL11C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hinsdale"
       },
       "geometry": {
@@ -406,7 +381,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Park Ridge"
       },
       "geometry": {
@@ -422,7 +396,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mount Prospect"
       },
       "geometry": {
@@ -438,7 +411,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Park Ridge"
       },
       "geometry": {
@@ -454,7 +426,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Chicago"
       },
       "geometry": {
@@ -470,7 +441,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12E",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Chicago"
       },
       "geometry": {
@@ -486,7 +456,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12F",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Chicago"
       },
       "geometry": {
@@ -502,7 +471,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12G",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Chicago"
       },
       "geometry": {
@@ -518,7 +486,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12HN",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Chicago"
       },
       "geometry": {
@@ -534,7 +501,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12I",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Rogers Park"
       },
       "geometry": {
@@ -550,7 +516,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12JN",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Beverly Ridge"
       },
       "geometry": {
@@ -566,7 +531,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12K",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Chicago"
       },
       "geometry": {
@@ -582,7 +546,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12LN",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Beverly Ridge"
       },
       "geometry": {
@@ -598,7 +561,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12M",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Chicago"
       },
       "geometry": {
@@ -614,7 +576,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12N",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Near South Side"
       },
       "geometry": {
@@ -630,7 +591,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12O",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Chicago"
       },
       "geometry": {
@@ -646,7 +606,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12P",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Chicago"
       },
       "geometry": {
@@ -662,7 +621,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12Q",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Chicago"
       },
       "geometry": {
@@ -678,7 +636,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL12R",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Kenilworth"
       },
       "geometry": {
@@ -694,7 +651,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL13A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Rock Island"
       },
       "geometry": {
@@ -710,7 +666,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL13B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Moline"
       },
       "geometry": {
@@ -726,7 +681,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL13C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Moline"
       },
       "geometry": {
@@ -742,7 +696,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL13D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Silvis"
       },
       "geometry": {
@@ -758,7 +711,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL13E",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Moline"
       },
       "geometry": {
@@ -774,7 +726,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL14",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Richland Grove"
       },
       "geometry": {
@@ -790,7 +741,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL15A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Geneseo"
       },
       "geometry": {
@@ -806,7 +756,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL15B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cambridge"
       },
       "geometry": {
@@ -822,7 +771,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL16A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Ottawa"
       },
       "geometry": {
@@ -838,7 +786,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL16B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Grand Ridge"
       },
       "geometry": {
@@ -854,7 +801,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL16C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Grand Ridge"
       },
       "geometry": {
@@ -870,7 +816,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL17",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Yorkville "
       },
       "geometry": {
@@ -886,7 +831,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL18",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Goodfarm"
       },
       "geometry": {
@@ -902,7 +846,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL19A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Peotone"
       },
       "geometry": {
@@ -918,7 +861,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL19B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Peotone"
       },
       "geometry": {
@@ -934,7 +876,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL20A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Oquawka"
       },
       "geometry": {
@@ -950,7 +891,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL20B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sand Ridge"
       },
       "geometry": {
@@ -966,7 +906,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL21",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Kirkwood"
       },
       "geometry": {
@@ -982,7 +921,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL22",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wataga"
       },
       "geometry": {
@@ -998,7 +936,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL23A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Toulon"
       },
       "geometry": {
@@ -1014,7 +951,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL23B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Osceola"
       },
       "geometry": {
@@ -1030,7 +966,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL24A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Hanna City"
       },
       "geometry": {
@@ -1046,7 +981,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL24B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Peoria"
       },
       "geometry": {
@@ -1062,7 +996,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL25A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "La Rose"
       },
       "geometry": {
@@ -1078,7 +1011,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL25B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Granville"
       },
       "geometry": {
@@ -1094,7 +1026,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL26",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Eureka"
       },
       "geometry": {
@@ -1110,7 +1041,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL27A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pontiac"
       },
       "geometry": {
@@ -1126,7 +1056,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL27B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Pontiac"
       },
       "geometry": {
@@ -1142,7 +1071,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL28A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Kankakee"
       },
       "geometry": {
@@ -1158,7 +1086,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL28B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "St. Anne"
       },
       "geometry": {
@@ -1174,7 +1101,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL29A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Watseka"
       },
       "geometry": {
@@ -1190,7 +1116,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL29B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Gilman"
       },
       "geometry": {
@@ -1206,7 +1131,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL30A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Nauvoo"
       },
       "geometry": {
@@ -1222,7 +1146,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL30B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Nauvoo"
       },
       "geometry": {
@@ -1238,7 +1161,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL31A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Bushnell"
       },
       "geometry": {
@@ -1254,7 +1176,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL31B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Tennessee"
       },
       "geometry": {
@@ -1270,7 +1191,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL32",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Canton"
       },
       "geometry": {
@@ -1286,7 +1206,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL33A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Delavan"
       },
       "geometry": {
@@ -1302,7 +1221,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL33B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sand Prairie"
       },
       "geometry": {
@@ -1318,7 +1236,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL34",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Lexington"
       },
       "geometry": {
@@ -1334,7 +1251,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL35",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Drummer"
       },
       "geometry": {
@@ -1350,7 +1266,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL36A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Champaign"
       },
       "geometry": {
@@ -1366,7 +1281,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL36B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Champaign"
       },
       "geometry": {
@@ -1382,7 +1296,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL37A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mount Sterling"
       },
       "geometry": {
@@ -1398,7 +1311,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL37B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mount Sterling"
       },
       "geometry": {
@@ -1414,7 +1326,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL38A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Beardstown"
       },
       "geometry": {
@@ -1430,7 +1341,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL38B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Beardstown"
       },
       "geometry": {
@@ -1446,7 +1356,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL39A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Auburn"
       },
       "geometry": {
@@ -1462,7 +1371,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL39B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Springfield"
       },
       "geometry": {
@@ -1478,7 +1386,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL39C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Springfield"
       },
       "geometry": {
@@ -1494,7 +1401,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL40",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Stonington"
       },
       "geometry": {
@@ -1510,7 +1416,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL41A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sullivan"
       },
       "geometry": {
@@ -1526,7 +1431,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL41B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "East Nelson"
       },
       "geometry": {
@@ -1542,7 +1446,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL42A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Paris"
       },
       "geometry": {
@@ -1558,7 +1461,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL42B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Paris"
       },
       "geometry": {
@@ -1574,7 +1476,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL43A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Kampsville"
       },
       "geometry": {
@@ -1590,7 +1491,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL43B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hardin "
       },
       "geometry": {
@@ -1606,7 +1506,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL43C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hardin "
       },
       "geometry": {
@@ -1622,7 +1521,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL44A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Edwardsville"
       },
       "geometry": {
@@ -1638,7 +1536,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL44B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Alton"
       },
       "geometry": {
@@ -1654,7 +1551,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL45A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Witt"
       },
       "geometry": {
@@ -1670,7 +1566,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL45B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Nokomis"
       },
       "geometry": {
@@ -1686,7 +1581,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL46A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pinhook"
       },
       "geometry": {
@@ -1702,7 +1596,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL46B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Vandalia"
       },
       "geometry": {
@@ -1718,7 +1611,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL46C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Vandalia"
       },
       "geometry": {
@@ -1734,7 +1626,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL46D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Vandalia"
       },
       "geometry": {
@@ -1750,7 +1641,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL47A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Newton"
       },
       "geometry": {
@@ -1766,7 +1656,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL47B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Newton"
       },
       "geometry": {
@@ -1782,7 +1671,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL48A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Salem"
       },
       "geometry": {
@@ -1798,7 +1686,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL48B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Alma"
       },
       "geometry": {
@@ -1814,7 +1701,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL49A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wayne City"
       },
       "geometry": {
@@ -1830,7 +1716,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL49B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "McLeansboro"
       },
       "geometry": {
@@ -1846,7 +1731,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL50A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Albion"
       },
       "geometry": {
@@ -1862,7 +1746,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL50B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Albion"
       },
       "geometry": {
@@ -1878,7 +1761,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL50C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Albion"
       },
       "geometry": {
@@ -1894,7 +1776,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL51A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Waterloo"
       },
       "geometry": {
@@ -1910,7 +1791,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL51B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Waterloo"
       },
       "geometry": {
@@ -1926,7 +1806,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL52A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Red Bud"
       },
       "geometry": {
@@ -1942,7 +1821,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL52B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Red Bud"
       },
       "geometry": {
@@ -1958,7 +1836,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL53A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cora"
       },
       "geometry": {
@@ -1974,7 +1851,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL53B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Murphysboro"
       },
       "geometry": {
@@ -1990,7 +1866,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL54",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Herrin"
       },
       "geometry": {
@@ -2006,7 +1881,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL55A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Shawneetown"
       },
       "geometry": {
@@ -2022,7 +1896,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL55B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Shawneetown "
       },
       "geometry": {
@@ -2038,7 +1911,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL55C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Shawneetown"
       },
       "geometry": {
@@ -2054,7 +1926,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL56A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Thebes"
       },
       "geometry": {
@@ -2070,7 +1941,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL56B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Villa Ridge"
       },
       "geometry": {
@@ -2086,7 +1956,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL57",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Metropolis"
       },
       "geometry": {
@@ -2102,7 +1971,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL58A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Golconda"
       },
       "geometry": {
@@ -2118,7 +1986,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL58B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Golconda"
       },
       "geometry": {
@@ -2134,7 +2001,6 @@ var LANCS = {
       "properties": {
         "Informant": "IL58C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Golconda"
       },
       "geometry": {
@@ -2150,7 +2016,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN1A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Morgan"
       },
       "geometry": {
@@ -2166,7 +2031,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN1B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Morgan"
       },
       "geometry": {
@@ -2182,7 +2046,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN2A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "North"
       },
       "geometry": {
@@ -2198,7 +2061,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN2B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Center"
       },
       "geometry": {
@@ -2214,7 +2076,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN3A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Elkhart"
       },
       "geometry": {
@@ -2230,7 +2091,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN3B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Clinton"
       },
       "geometry": {
@@ -2246,7 +2106,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN4A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Washington"
       },
       "geometry": {
@@ -2262,7 +2121,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN4B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Washington"
       },
       "geometry": {
@@ -2278,7 +2136,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN5",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Fairfield"
       },
       "geometry": {
@@ -2294,7 +2151,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN6A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Delphi"
       },
       "geometry": {
@@ -2310,7 +2166,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN6B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Delphi"
       },
       "geometry": {
@@ -2326,7 +2181,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN6C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Delphi"
       },
       "geometry": {
@@ -2342,7 +2196,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN7A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lagro"
       },
       "geometry": {
@@ -2358,7 +2211,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN7B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lagro"
       },
       "geometry": {
@@ -2374,7 +2226,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN7C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Lagro"
       },
       "geometry": {
@@ -2390,7 +2241,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN8A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Jefferson"
       },
       "geometry": {
@@ -2406,7 +2256,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN8B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Scipio"
       },
       "geometry": {
@@ -2422,7 +2271,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN8C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Washington"
       },
       "geometry": {
@@ -2438,7 +2286,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN8D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Jefferson"
       },
       "geometry": {
@@ -2454,7 +2301,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN8E",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Jefferson"
       },
       "geometry": {
@@ -2470,7 +2316,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN9A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Decatur"
       },
       "geometry": {
@@ -2486,7 +2331,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN9B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Washington"
       },
       "geometry": {
@@ -2502,7 +2346,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN9C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Wabash"
       },
       "geometry": {
@@ -2518,7 +2361,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN9D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Wabash"
       },
       "geometry": {
@@ -2534,7 +2376,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN10A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Adams"
       },
       "geometry": {
@@ -2550,7 +2391,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN10B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Adams"
       },
       "geometry": {
@@ -2566,7 +2406,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN10C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Raccoon"
       },
       "geometry": {
@@ -2582,7 +2421,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN11A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "New Brunswick"
       },
       "geometry": {
@@ -2598,7 +2436,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN11B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Jackson"
       },
       "geometry": {
@@ -2614,7 +2451,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN12A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Warren"
       },
       "geometry": {
@@ -2630,7 +2466,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN12B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Warren"
       },
       "geometry": {
@@ -2646,7 +2481,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN12C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Warren"
       },
       "geometry": {
@@ -2662,7 +2496,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN12D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Indianapolis"
       },
       "geometry": {
@@ -2678,7 +2511,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN12E",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bridgeport"
       },
       "geometry": {
@@ -2694,7 +2526,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN13A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Fall Creek"
       },
       "geometry": {
@@ -2710,7 +2541,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN13B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Adams"
       },
       "geometry": {
@@ -2726,7 +2556,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN13C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Richland"
       },
       "geometry": {
@@ -2742,7 +2571,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN13D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Fall Creek"
       },
       "geometry": {
@@ -2758,7 +2586,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN13E",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Elwood"
       },
       "geometry": {
@@ -2774,7 +2601,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN14A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "White River"
       },
       "geometry": {
@@ -2790,7 +2616,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN14B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "White River"
       },
       "geometry": {
@@ -2806,7 +2631,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN14C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Farmland"
       },
       "geometry": {
@@ -2822,7 +2646,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN15A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Terre Haute"
       },
       "geometry": {
@@ -2838,7 +2661,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN15B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Terre Haute"
       },
       "geometry": {
@@ -2854,7 +2676,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN15C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Terre Haute"
       },
       "geometry": {
@@ -2870,7 +2691,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN16A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Washington"
       },
       "geometry": {
@@ -2886,7 +2706,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN16B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Washington"
       },
       "geometry": {
@@ -2902,7 +2721,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN16C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Brazil"
       },
       "geometry": {
@@ -2918,7 +2736,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN17A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bloomington"
       },
       "geometry": {
@@ -2934,7 +2751,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN17B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Bloomington"
       },
       "geometry": {
@@ -2950,7 +2766,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN18A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Nashville"
       },
       "geometry": {
@@ -2966,7 +2781,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN18B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Nashville"
       },
       "geometry": {
@@ -2982,7 +2796,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN19A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Milroy"
       },
       "geometry": {
@@ -2998,7 +2811,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN19B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Milroy"
       },
       "geometry": {
@@ -3014,7 +2826,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN20A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Brookville"
       },
       "geometry": {
@@ -3030,7 +2841,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN20B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Brookville"
       },
       "geometry": {
@@ -3046,7 +2856,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN21A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Steen"
       },
       "geometry": {
@@ -3062,7 +2871,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN21B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Steen"
       },
       "geometry": {
@@ -3078,7 +2886,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN22A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "White River"
       },
       "geometry": {
@@ -3094,7 +2901,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN22B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "White River"
       },
       "geometry": {
@@ -3110,7 +2916,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN22C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Princeton"
       },
       "geometry": {
@@ -3126,7 +2931,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN23A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Knight"
       },
       "geometry": {
@@ -3142,7 +2946,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN23B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Knight"
       },
       "geometry": {
@@ -3158,7 +2961,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN24A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Rockport"
       },
       "geometry": {
@@ -3174,7 +2976,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN24B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Rockport"
       },
       "geometry": {
@@ -3190,7 +2991,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN25A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Orleans"
       },
       "geometry": {
@@ -3206,7 +3006,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN25B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Orleans"
       },
       "geometry": {
@@ -3222,7 +3021,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN25C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Orleans"
       },
       "geometry": {
@@ -3238,7 +3036,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN26A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Harrison"
       },
       "geometry": {
@@ -3254,7 +3051,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN26B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Boone"
       },
       "geometry": {
@@ -3270,7 +3066,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN26C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Harrison"
       },
       "geometry": {
@@ -3286,7 +3081,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN27A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Shelby"
       },
       "geometry": {
@@ -3302,7 +3096,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN27B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Caesar Creek"
       },
       "geometry": {
@@ -3318,7 +3111,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN27C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Shelby"
       },
       "geometry": {
@@ -3334,7 +3126,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN28A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Madison"
       },
       "geometry": {
@@ -3350,7 +3141,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN28B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Madison"
       },
       "geometry": {
@@ -3366,7 +3156,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN28C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Madison"
       },
       "geometry": {
@@ -3382,7 +3171,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN29A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Keener"
       },
       "geometry": {
@@ -3398,7 +3186,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN29B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Keener"
       },
       "geometry": {
@@ -3414,7 +3201,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN29C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Union"
       },
       "geometry": {
@@ -3430,7 +3216,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN29D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Kankakee"
       },
       "geometry": {
@@ -3446,7 +3231,6 @@ var LANCS = {
       "properties": {
         "Informant": "IN30",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Schererville"
       },
       "geometry": {
@@ -3462,7 +3246,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY1A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Smithland"
       },
       "geometry": {
@@ -3478,7 +3261,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY1B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Smithland"
       },
       "geometry": {
@@ -3494,7 +3276,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY1C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hampton"
       },
       "geometry": {
@@ -3510,7 +3291,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY2A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Dixon"
       },
       "geometry": {
@@ -3526,7 +3306,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY2B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sebree"
       },
       "geometry": {
@@ -3542,7 +3321,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY3A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hawesville"
       },
       "geometry": {
@@ -3558,7 +3336,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY3B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hawesville"
       },
       "geometry": {
@@ -3574,7 +3351,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY4",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Brandenburg"
       },
       "geometry": {
@@ -3590,7 +3366,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY5A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Vertrees"
       },
       "geometry": {
@@ -3606,7 +3381,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY5B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "West Point"
       },
       "geometry": {
@@ -3622,7 +3396,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY6A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bardstown Junction"
       },
       "geometry": {
@@ -3638,7 +3411,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY6B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Bardstown Junction"
       },
       "geometry": {
@@ -3654,7 +3426,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7AA",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Louisville"
       },
       "geometry": {
@@ -3670,7 +3441,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Louisville"
       },
       "geometry": {
@@ -3686,7 +3456,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7BA",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Louisville"
       },
       "geometry": {
@@ -3702,7 +3471,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Louisville"
       },
       "geometry": {
@@ -3718,7 +3486,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Louisville"
       },
       "geometry": {
@@ -3734,7 +3501,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7F",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Windy Hills"
       },
       "geometry": {
@@ -3750,7 +3516,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7NA",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Jeffersontown"
       },
       "geometry": {
@@ -3766,7 +3531,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY7NE",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Windy Hills"
       },
       "geometry": {
@@ -3782,7 +3546,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY8A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Squiresville"
       },
       "geometry": {
@@ -3798,7 +3561,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY8B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Monterey"
       },
       "geometry": {
@@ -3814,7 +3576,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY8C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "New Liberty"
       },
       "geometry": {
@@ -3830,7 +3591,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY9A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cabin Creek"
       },
       "geometry": {
@@ -3846,7 +3606,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY9B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Maysville"
       },
       "geometry": {
@@ -3862,7 +3621,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY9C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Maysville"
       },
       "geometry": {
@@ -3878,7 +3636,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY10A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Grayson"
       },
       "geometry": {
@@ -3894,7 +3651,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY10B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Grayson"
       },
       "geometry": {
@@ -3910,7 +3666,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY11A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Greenville"
       },
       "geometry": {
@@ -3926,7 +3681,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY11B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Greenville"
       },
       "geometry": {
@@ -3942,7 +3696,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY12A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Shrewsbury"
       },
       "geometry": {
@@ -3958,7 +3711,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY12B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Salt Lick"
       },
       "geometry": {
@@ -3974,7 +3726,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY12C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Leitchfield"
       },
       "geometry": {
@@ -3990,7 +3741,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY12D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Leitchfield"
       },
       "geometry": {
@@ -4006,7 +3756,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY13A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bluff Boom"
       },
       "geometry": {
@@ -4022,7 +3771,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY13B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Greensburg"
       },
       "geometry": {
@@ -4038,7 +3786,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY14A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bardstown"
       },
       "geometry": {
@@ -4054,7 +3801,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY14B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Bardstown"
       },
       "geometry": {
@@ -4070,7 +3816,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY15",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Lebanon"
       },
       "geometry": {
@@ -4086,7 +3831,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY16A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Dixville"
       },
       "geometry": {
@@ -4102,7 +3846,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY16B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Harrodsburg"
       },
       "geometry": {
@@ -4118,7 +3861,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY16C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Burgin"
       },
       "geometry": {
@@ -4134,7 +3876,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY17B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Georgetown"
       },
       "geometry": {
@@ -4150,7 +3891,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY17C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lexington"
       },
       "geometry": {
@@ -4166,7 +3906,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY17D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Lexington"
       },
       "geometry": {
@@ -4182,7 +3921,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY17E",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Bryan Station"
       },
       "geometry": {
@@ -4198,7 +3936,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY17F",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Versailles"
       },
       "geometry": {
@@ -4214,7 +3951,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY17NA",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Jonestown"
       },
       "geometry": {
@@ -4230,7 +3966,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY18A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Irvine"
       },
       "geometry": {
@@ -4246,7 +3981,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY18B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Irvine"
       },
       "geometry": {
@@ -4262,7 +3996,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY18C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Irvine"
       },
       "geometry": {
@@ -4278,7 +4011,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY19A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Owingsville"
       },
       "geometry": {
@@ -4294,7 +4026,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY19B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Owingsville"
       },
       "geometry": {
@@ -4310,7 +4041,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY19C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Reynoldsville"
       },
       "geometry": {
@@ -4326,7 +4056,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY19D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Sharpsburg"
       },
       "geometry": {
@@ -4342,7 +4071,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY20A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Frenchburg"
       },
       "geometry": {
@@ -4358,7 +4086,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY20B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sudith"
       },
       "geometry": {
@@ -4374,7 +4101,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY21A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Boons Camp"
       },
       "geometry": {
@@ -4390,7 +4116,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY21B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Winifred"
       },
       "geometry": {
@@ -4406,7 +4131,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY21C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Oil Springs"
       },
       "geometry": {
@@ -4422,7 +4146,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY22A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hailwell"
       },
       "geometry": {
@@ -4438,7 +4161,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY22B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Clinton"
       },
       "geometry": {
@@ -4454,7 +4176,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY22C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Clinton"
       },
       "geometry": {
@@ -4470,7 +4191,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY23A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Murray"
       },
       "geometry": {
@@ -4486,7 +4206,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY23B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "New Concord"
       },
       "geometry": {
@@ -4502,7 +4221,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY24A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Blue Spring"
       },
       "geometry": {
@@ -4518,7 +4236,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY24B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cadiz"
       },
       "geometry": {
@@ -4534,7 +4251,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY24C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cadiz"
       },
       "geometry": {
@@ -4550,7 +4266,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY24D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Caledonia"
       },
       "geometry": {
@@ -4566,7 +4281,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY25A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Auburn"
       },
       "geometry": {
@@ -4582,7 +4296,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY25B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lewisburg"
       },
       "geometry": {
@@ -4598,7 +4311,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY26A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Holland"
       },
       "geometry": {
@@ -4614,7 +4326,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY26B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mt. Zion"
       },
       "geometry": {
@@ -4630,7 +4341,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY27A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Goodwater"
       },
       "geometry": {
@@ -4646,7 +4356,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY27B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Somerset"
       },
       "geometry": {
@@ -4662,7 +4371,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY28A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wofford"
       },
       "geometry": {
@@ -4678,7 +4386,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY28B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Williamsburg"
       },
       "geometry": {
@@ -4694,7 +4401,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY28C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Williamsburg"
       },
       "geometry": {
@@ -4710,7 +4416,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY29A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Ingram"
       },
       "geometry": {
@@ -4726,7 +4431,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY29B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Middlesboro"
       },
       "geometry": {
@@ -4742,7 +4446,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY30A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Booneville"
       },
       "geometry": {
@@ -4758,7 +4461,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY30B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Scoville"
       },
       "geometry": {
@@ -4774,7 +4476,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY30C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lerose"
       },
       "geometry": {
@@ -4790,7 +4491,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY30D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Athol"
       },
       "geometry": {
@@ -4806,7 +4506,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY30E",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cow Creek"
       },
       "geometry": {
@@ -4822,7 +4521,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY31A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Big Rock"
       },
       "geometry": {
@@ -4838,7 +4536,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY31B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Big Rock"
       },
       "geometry": {
@@ -4854,7 +4551,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY31C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hyden"
       },
       "geometry": {
@@ -4870,7 +4566,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY31D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Dry Hill"
       },
       "geometry": {
@@ -4886,7 +4581,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY32",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hazard"
       },
       "geometry": {
@@ -4902,7 +4596,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY33A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Crummies"
       },
       "geometry": {
@@ -4918,7 +4611,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY33B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Harlan"
       },
       "geometry": {
@@ -4934,7 +4626,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY33C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Cawood"
       },
       "geometry": {
@@ -4950,7 +4641,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY34A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Linefork"
       },
       "geometry": {
@@ -4966,7 +4656,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY34B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Linefork"
       },
       "geometry": {
@@ -4982,7 +4671,6 @@ var LANCS = {
       "properties": {
         "Informant": "KY34C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Kingdom Come"
       },
       "geometry": {
@@ -4998,7 +4686,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI1A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Matchwood"
       },
       "geometry": {
@@ -5014,14 +4701,13 @@ var LANCS = {
       "properties": {
         "Informant": "MI1B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Ballentine (Bergland)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -89.644,
-          56.5442
+          46.5442
         ]
       }
     },
@@ -5030,7 +4716,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI2A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Calumet"
       },
       "geometry": {
@@ -5046,7 +4731,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI2B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Calumet"
       },
       "geometry": {
@@ -5062,7 +4746,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI2C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Calumet"
       },
       "geometry": {
@@ -5078,7 +4761,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI3A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Michigamme"
       },
       "geometry": {
@@ -5094,7 +4776,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI3B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Ishpeming"
       },
       "geometry": {
@@ -5110,7 +4791,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI4A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wells"
       },
       "geometry": {
@@ -5126,7 +4806,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI4B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Escanaba"
       },
       "geometry": {
@@ -5142,7 +4821,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI5A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Sault Ste. Marie"
       },
       "geometry": {
@@ -5158,7 +4836,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI5B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sault Ste. Marie"
       },
       "geometry": {
@@ -5174,7 +4851,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI5C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Sault Ste. Marie"
       },
       "geometry": {
@@ -5190,7 +4866,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI6A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "St. James"
       },
       "geometry": {
@@ -5206,7 +4881,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI6B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Beaver Island"
       },
       "geometry": {
@@ -5222,7 +4896,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI6C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "St. James"
       },
       "geometry": {
@@ -5238,7 +4911,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI7A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Center"
       },
       "geometry": {
@@ -5254,7 +4926,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI7B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Levering"
       },
       "geometry": {
@@ -5270,7 +4941,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI8A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Old Mission"
       },
       "geometry": {
@@ -5286,7 +4956,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI8B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Old Mission"
       },
       "geometry": {
@@ -5302,7 +4971,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI9A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Alpena"
       },
       "geometry": {
@@ -5318,7 +4986,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI9B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Alpena"
       },
       "geometry": {
@@ -5334,7 +5001,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI9C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Alpena"
       },
       "geometry": {
@@ -5350,7 +5016,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI9D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Alpena"
       },
       "geometry": {
@@ -5366,7 +5031,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI10A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Summit"
       },
       "geometry": {
@@ -5382,7 +5046,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI10B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Riverton"
       },
       "geometry": {
@@ -5398,7 +5061,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI10C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Ludington"
       },
       "geometry": {
@@ -5414,7 +5076,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI11A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "South Branch"
       },
       "geometry": {
@@ -5430,7 +5091,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI11B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "South Branch"
       },
       "geometry": {
@@ -5446,7 +5106,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI12A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "West Branch"
       },
       "geometry": {
@@ -5462,7 +5121,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI12B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Churchill"
       },
       "geometry": {
@@ -5478,7 +5136,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI13A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Garfield"
       },
       "geometry": {
@@ -5494,7 +5151,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI13B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Garfield"
       },
       "geometry": {
@@ -5510,7 +5166,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI14A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Isabella"
       },
       "geometry": {
@@ -5526,7 +5181,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI14B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Isabella"
       },
       "geometry": {
@@ -5542,7 +5196,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI14C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Isabella"
       },
       "geometry": {
@@ -5558,7 +5211,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI15A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Columbia"
       },
       "geometry": {
@@ -5574,7 +5226,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI15B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Columbia"
       },
       "geometry": {
@@ -5590,7 +5241,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI16A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Zeeland"
       },
       "geometry": {
@@ -5606,7 +5256,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI16B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Zeeland"
       },
       "geometry": {
@@ -5622,7 +5271,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI16C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Grand Rapids"
       },
       "geometry": {
@@ -5638,7 +5286,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI17A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Portland"
       },
       "geometry": {
@@ -5654,7 +5301,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI17B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Portland"
       },
       "geometry": {
@@ -5670,7 +5316,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI18A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Burns"
       },
       "geometry": {
@@ -5686,7 +5331,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI18B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Burns"
       },
       "geometry": {
@@ -5702,7 +5346,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI19",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Flint (township)"
       },
       "geometry": {
@@ -5718,7 +5361,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI20A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "China"
       },
       "geometry": {
@@ -5734,7 +5376,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI20B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "St. Clair"
       },
       "geometry": {
@@ -5750,7 +5391,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI21A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Vermontville"
       },
       "geometry": {
@@ -5766,7 +5406,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI21B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Vermontville"
       },
       "geometry": {
@@ -5782,7 +5421,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI21C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Vermontville"
       },
       "geometry": {
@@ -5798,7 +5436,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI22",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Howell"
       },
       "geometry": {
@@ -5814,7 +5451,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI23A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Milford"
       },
       "geometry": {
@@ -5830,7 +5466,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI23B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Milford"
       },
       "geometry": {
@@ -5846,7 +5481,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI23C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Milford"
       },
       "geometry": {
@@ -5862,7 +5496,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI24A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Paw Paw"
       },
       "geometry": {
@@ -5878,7 +5511,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI24B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Paw Paw"
       },
       "geometry": {
@@ -5894,7 +5526,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI24C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Paw Paw"
       },
       "geometry": {
@@ -5910,7 +5541,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI24D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Paw Paw"
       },
       "geometry": {
@@ -5926,7 +5556,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI25A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wayne"
       },
       "geometry": {
@@ -5942,7 +5571,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI25B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wayne"
       },
       "geometry": {
@@ -5958,7 +5586,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI26A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Marengo"
       },
       "geometry": {
@@ -5974,7 +5601,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI26B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Marshall"
       },
       "geometry": {
@@ -5990,7 +5616,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI27A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Coldwater"
       },
       "geometry": {
@@ -6006,7 +5631,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI27B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Algansee"
       },
       "geometry": {
@@ -6022,7 +5646,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI28A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Adrian"
       },
       "geometry": {
@@ -6038,7 +5661,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI28B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Adrian"
       },
       "geometry": {
@@ -6054,7 +5676,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI29A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Detroit"
       },
       "geometry": {
@@ -6070,7 +5691,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI29B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Detroit"
       },
       "geometry": {
@@ -6086,7 +5706,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI29C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Detroit"
       },
       "geometry": {
@@ -6102,7 +5721,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI29D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Detroit"
       },
       "geometry": {
@@ -6118,7 +5736,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI29E",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Detroit"
       },
       "geometry": {
@@ -6134,7 +5751,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI30A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Dundee"
       },
       "geometry": {
@@ -6150,7 +5766,6 @@ var LANCS = {
       "properties": {
         "Informant": "MI30B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Dundee"
       },
       "geometry": {
@@ -6166,7 +5781,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH1A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Eagleville"
       },
       "geometry": {
@@ -6182,7 +5796,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH1B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Geneva"
       },
       "geometry": {
@@ -6198,7 +5811,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH1C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Jefferson"
       },
       "geometry": {
@@ -6214,7 +5826,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH2A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Wildare"
       },
       "geometry": {
@@ -6230,7 +5841,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH2B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Champion Heights or Warren"
       },
       "geometry": {
@@ -6246,7 +5856,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH3A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Beloit"
       },
       "geometry": {
@@ -6262,7 +5871,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH3B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Ellsworth"
       },
       "geometry": {
@@ -6278,7 +5886,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH4A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Scotch Settlement"
       },
       "geometry": {
@@ -6294,7 +5901,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH4B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lisbon"
       },
       "geometry": {
@@ -6310,7 +5916,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH5A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Richmond"
       },
       "geometry": {
@@ -6326,7 +5931,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH5B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Richmond"
       },
       "geometry": {
@@ -6342,7 +5946,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH5C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Red Ridge"
       },
       "geometry": {
@@ -6358,7 +5961,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH6A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "St. Clairsville"
       },
       "geometry": {
@@ -6374,7 +5976,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH6B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "St. Clairsville"
       },
       "geometry": {
@@ -6390,7 +5991,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH7A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Straight Fork"
       },
       "geometry": {
@@ -6406,7 +6006,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH7B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Graysville"
       },
       "geometry": {
@@ -6422,7 +6021,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH8A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Marietta"
       },
       "geometry": {
@@ -6438,7 +6036,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH8B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Marietta"
       },
       "geometry": {
@@ -6454,7 +6051,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH8C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Barlow"
       },
       "geometry": {
@@ -6470,7 +6066,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH8D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Marietta"
       },
       "geometry": {
@@ -6486,7 +6081,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH8E",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Marietta"
       },
       "geometry": {
@@ -6502,7 +6096,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH9A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Brooks"
       },
       "geometry": {
@@ -6518,7 +6111,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH9B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Shade"
       },
       "geometry": {
@@ -6534,7 +6126,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH9C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Whitehall"
       },
       "geometry": {
@@ -6550,7 +6141,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH9D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Athens"
       },
       "geometry": {
@@ -6566,7 +6156,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH10A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pomeroy"
       },
       "geometry": {
@@ -6582,7 +6171,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH10B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pomeroy"
       },
       "geometry": {
@@ -6598,7 +6186,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH11A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Thivener"
       },
       "geometry": {
@@ -6614,7 +6201,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH11B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bidwell"
       },
       "geometry": {
@@ -6630,7 +6216,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH12A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Windsor"
       },
       "geometry": {
@@ -6646,7 +6231,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH12B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Arabia"
       },
       "geometry": {
@@ -6662,7 +6246,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH12C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Rome"
       },
       "geometry": {
@@ -6678,7 +6261,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH12D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Platform"
       },
       "geometry": {
@@ -6694,7 +6276,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH13A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mark"
       },
       "geometry": {
@@ -6710,7 +6291,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH13B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Defiance"
       },
       "geometry": {
@@ -6726,7 +6306,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH14A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Perrysburg"
       },
       "geometry": {
@@ -6742,7 +6321,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH14B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Perrysburg"
       },
       "geometry": {
@@ -6758,7 +6336,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH15A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Huron"
       },
       "geometry": {
@@ -6774,7 +6351,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH15B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Huron"
       },
       "geometry": {
@@ -6790,7 +6366,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH16A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pepper Pike"
       },
       "geometry": {
@@ -6806,7 +6381,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH16B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Pepper Pike"
       },
       "geometry": {
@@ -6822,7 +6396,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH16C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pepper Pike"
       },
       "geometry": {
@@ -6838,7 +6411,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH17A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Medina"
       },
       "geometry": {
@@ -6854,7 +6426,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH17B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Medina"
       },
       "geometry": {
@@ -6870,7 +6441,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH17C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Medina"
       },
       "geometry": {
@@ -6886,7 +6456,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH17D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wadsworth"
       },
       "geometry": {
@@ -6902,7 +6471,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH18A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hiram "
       },
       "geometry": {
@@ -6918,7 +6486,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH18B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Ravenna"
       },
       "geometry": {
@@ -6934,7 +6501,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH18C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Streetsboro"
       },
       "geometry": {
@@ -6950,7 +6516,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH19A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Willshire"
       },
       "geometry": {
@@ -6966,7 +6531,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH19B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Venodocia"
       },
       "geometry": {
@@ -6982,7 +6546,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH19C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pleasant (Van Wert)"
       },
       "geometry": {
@@ -6998,7 +6561,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH20A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Gilboa"
       },
       "geometry": {
@@ -7014,7 +6576,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH20B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Glandorf"
       },
       "geometry": {
@@ -7030,7 +6591,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH21A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Upper Sandusky"
       },
       "geometry": {
@@ -7046,7 +6606,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH21B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Upper Sandusky"
       },
       "geometry": {
@@ -7062,7 +6621,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH21C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Upper Sandusky"
       },
       "geometry": {
@@ -7078,7 +6636,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH21D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Upper Sandusky"
       },
       "geometry": {
@@ -7094,7 +6651,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH22A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Butler "
       },
       "geometry": {
@@ -7110,7 +6666,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH22B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Gambier"
       },
       "geometry": {
@@ -7126,7 +6681,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH23A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Ashland "
       },
       "geometry": {
@@ -7142,7 +6696,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH23B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Doylestown"
       },
       "geometry": {
@@ -7158,7 +6711,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH23C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Chippewa"
       },
       "geometry": {
@@ -7174,7 +6726,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH24A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Millersburg"
       },
       "geometry": {
@@ -7190,7 +6741,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH24B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Millersburg"
       },
       "geometry": {
@@ -7206,7 +6756,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH25",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "New Philadelphia"
       },
       "geometry": {
@@ -7222,7 +6771,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH26A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Greenville"
       },
       "geometry": {
@@ -7238,7 +6786,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH26B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Greenville"
       },
       "geometry": {
@@ -7254,7 +6801,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH27A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Urbana"
       },
       "geometry": {
@@ -7270,7 +6816,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH27B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Urbana"
       },
       "geometry": {
@@ -7286,7 +6831,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH28A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Worthington"
       },
       "geometry": {
@@ -7302,7 +6846,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH28B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Reynoldsburg"
       },
       "geometry": {
@@ -7318,7 +6861,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH28C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Columbus"
       },
       "geometry": {
@@ -7334,7 +6876,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH29A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Amanda"
       },
       "geometry": {
@@ -7350,7 +6891,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH29B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lancaster"
       },
       "geometry": {
@@ -7366,7 +6906,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH30A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "New Concord"
       },
       "geometry": {
@@ -7382,7 +6921,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH30B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "New Concord"
       },
       "geometry": {
@@ -7398,7 +6936,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH31A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Senecaville"
       },
       "geometry": {
@@ -7414,7 +6951,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH31B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Greenwood"
       },
       "geometry": {
@@ -7430,7 +6966,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH31C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lore City"
       },
       "geometry": {
@@ -7446,7 +6981,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH32A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Israel"
       },
       "geometry": {
@@ -7462,7 +6996,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH32B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Riley"
       },
       "geometry": {
@@ -7478,7 +7011,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH32C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Israel"
       },
       "geometry": {
@@ -7494,7 +7026,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH32D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Oxford"
       },
       "geometry": {
@@ -7510,7 +7041,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH33A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cedarville "
       },
       "geometry": {
@@ -7526,7 +7056,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH33B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Xenia"
       },
       "geometry": {
@@ -7542,7 +7071,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH34A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wilmington"
       },
       "geometry": {
@@ -7558,7 +7086,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH34B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Wilmington"
       },
       "geometry": {
@@ -7574,7 +7101,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH34C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Union"
       },
       "geometry": {
@@ -7590,7 +7116,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH34D",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Chester"
       },
       "geometry": {
@@ -7606,7 +7131,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH35A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Scioto"
       },
       "geometry": {
@@ -7622,7 +7146,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH35B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Scioto"
       },
       "geometry": {
@@ -7638,7 +7161,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH36A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "McArthur"
       },
       "geometry": {
@@ -7654,7 +7176,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH36B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Malta"
       },
       "geometry": {
@@ -7670,7 +7191,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH37A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Fairfield "
       },
       "geometry": {
@@ -7686,14 +7206,13 @@ var LANCS = {
       "properties": {
         "Informant": "OH37B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sycamore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.1248,
-          39.1248
+          -84.3797,
+          39.2067
         ]
       }
     },
@@ -7702,13 +7221,12 @@ var LANCS = {
       "properties": {
         "Informant": "OH37C",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Sycamore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.1248,
+          -84.3797,
           39.1248
         ]
       }
@@ -7718,7 +7236,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH37D",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Westwood"
       },
       "geometry": {
@@ -7734,7 +7251,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH37E",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Cincinnati"
       },
       "geometry": {
@@ -7750,7 +7266,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH37F",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Cincinnati"
       },
       "geometry": {
@@ -7766,7 +7281,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH37G",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Sycamore"
       },
       "geometry": {
@@ -7782,7 +7296,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH38A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Tate"
       },
       "geometry": {
@@ -7798,7 +7311,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH38B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Monroe"
       },
       "geometry": {
@@ -7814,7 +7326,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH39A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Tiffin"
       },
       "geometry": {
@@ -7830,7 +7341,6 @@ var LANCS = {
       "properties": {
         "Informant": "OH39B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Tiffin"
       },
       "geometry": {
@@ -7846,7 +7356,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI1A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "East Superior"
       },
       "geometry": {
@@ -7862,7 +7371,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI1B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "East Superior"
       },
       "geometry": {
@@ -7878,7 +7386,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI2A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bayfield"
       },
       "geometry": {
@@ -7894,7 +7401,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI2B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "La Pointe"
       },
       "geometry": {
@@ -7910,7 +7416,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI3A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Grover"
       },
       "geometry": {
@@ -7926,7 +7431,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI3B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Marinette"
       },
       "geometry": {
@@ -7942,7 +7446,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI4A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Sturgeon Bay"
       },
       "geometry": {
@@ -7958,7 +7461,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI4B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Brussels"
       },
       "geometry": {
@@ -7974,7 +7476,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI5A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Hammond"
       },
       "geometry": {
@@ -7990,7 +7491,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI5B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Erin Prairie"
       },
       "geometry": {
@@ -8006,7 +7506,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI5C",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Erin Prairie"
       },
       "geometry": {
@@ -8022,7 +7521,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI6A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pepin"
       },
       "geometry": {
@@ -8038,7 +7536,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI6B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Stockholm "
       },
       "geometry": {
@@ -8054,7 +7551,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI7A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Eau Claire"
       },
       "geometry": {
@@ -8070,7 +7566,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI7B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Brunswick"
       },
       "geometry": {
@@ -8086,7 +7581,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI8A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Caledonia"
       },
       "geometry": {
@@ -8102,7 +7596,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI8B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Trempeleau"
       },
       "geometry": {
@@ -8118,7 +7611,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI9A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Stockton"
       },
       "geometry": {
@@ -8134,7 +7626,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI9B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Sharon"
       },
       "geometry": {
@@ -8150,7 +7641,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI10A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Grand Chute"
       },
       "geometry": {
@@ -8166,7 +7656,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI10B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Vandenbroek"
       },
       "geometry": {
@@ -8182,7 +7671,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI11A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Scott"
       },
       "geometry": {
@@ -8198,7 +7686,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI11B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Howard"
       },
       "geometry": {
@@ -8214,7 +7701,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI12A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Lemonweir"
       },
       "geometry": {
@@ -8230,7 +7716,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI12B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Lemonweir"
       },
       "geometry": {
@@ -8246,7 +7731,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI13A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Fort Winnebago"
       },
       "geometry": {
@@ -8262,7 +7746,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI13B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Portage"
       },
       "geometry": {
@@ -8278,7 +7761,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI14A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Oakfield"
       },
       "geometry": {
@@ -8294,7 +7776,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI14B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Oakfield"
       },
       "geometry": {
@@ -8310,7 +7791,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI15A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "West Bend"
       },
       "geometry": {
@@ -8326,7 +7806,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI15B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Jackson"
       },
       "geometry": {
@@ -8342,7 +7821,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI16A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Bridgeport"
       },
       "geometry": {
@@ -8358,7 +7836,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI16B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Prairie du Chien"
       },
       "geometry": {
@@ -8374,7 +7851,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI17B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "South Lancaster"
       },
       "geometry": {
@@ -8390,7 +7866,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI17NA",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "South Lancaster"
       },
       "geometry": {
@@ -8406,7 +7881,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI18A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mineral Point"
       },
       "geometry": {
@@ -8422,7 +7896,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI18B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mineral Point"
       },
       "geometry": {
@@ -8438,7 +7911,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI19A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Roxbury"
       },
       "geometry": {
@@ -8454,7 +7926,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI19B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Roxbury"
       },
       "geometry": {
@@ -8470,7 +7941,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI20",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Waterloo OR lake mills"
       },
       "geometry": {
@@ -8486,7 +7956,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI21A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Genesee"
       },
       "geometry": {
@@ -8502,7 +7971,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI21B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Genesee"
       },
       "geometry": {
@@ -8518,7 +7986,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI22A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Milwaukee"
       },
       "geometry": {
@@ -8534,7 +8001,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI22B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Milwaukee"
       },
       "geometry": {
@@ -8550,7 +8016,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI23A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Mt. Pleasant"
       },
       "geometry": {
@@ -8566,7 +8031,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI23B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "New Glarus"
       },
       "geometry": {
@@ -8582,7 +8046,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI24A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Clinton"
       },
       "geometry": {
@@ -8598,7 +8061,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI24B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Clinton"
       },
       "geometry": {
@@ -8614,7 +8076,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI25A",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Mt. Pleasant"
       },
       "geometry": {
@@ -8630,7 +8091,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI25B",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Caledonia"
       },
       "geometry": {
@@ -8646,7 +8106,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI26A",
         "Project": "LANCS",
-        "Sex": "Male",
         "County": "Pleasant Prairie"
       },
       "geometry": {
@@ -8662,7 +8121,6 @@ var LANCS = {
       "properties": {
         "Informant": "WI26B",
         "Project": "LANCS",
-        "Sex": "Female",
         "County": "Pleasant Prairie"
       },
       "geometry": {
