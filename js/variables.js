@@ -5,7 +5,7 @@ var LANCS = L.geoJson(LANCS, {
         return L.circleMarker(latlng, {
             color: '#808080',
             weight: 1,
-            fillColor: '#000066',
+            fillColor: '#FFFFFF',
             fillOpacity: .8,
             radius: 10
         });
@@ -23,13 +23,13 @@ var LANCS = L.geoJson(LANCS, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#FFFFFF'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#FFFFFF'
             });
         });
     }
@@ -40,7 +40,7 @@ var LANE = L.geoJson(LANE, {
         return L.circleMarker(latlng, {
             color: '#808080',
             weight: 1,
-            fillColor: '#000066',
+            fillColor: '#FFFFFF',
             fillOpacity: .8,
             radius: 10
         });
@@ -58,13 +58,13 @@ var LANE = L.geoJson(LANE, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#FFFFFF'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#FFFFFF'
             });
         });
     }
@@ -180,9 +180,9 @@ var clerical = L.geoJson(clerical, {
 var farming = L.geoJson(farming, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#284409',
             weight: 1,
-            fillColor: '#000066',
+            fillColor: '#98c0e0',
             fillOpacity: .8,
             radius: 10
         });
@@ -200,13 +200,13 @@ var farming = L.geoJson(farming, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#98c0e0'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#98c0e0'
             });
         });
     }
@@ -215,9 +215,9 @@ var farming = L.geoJson(farming, {
 var occupation = L.geoJson(occupation, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#284409',
             weight: 1,
-            fillColor: '#000066',
+            fillColor: '#198754',
             fillOpacity: .8,
             radius: 10
         });
@@ -235,13 +235,13 @@ var occupation = L.geoJson(occupation, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#198754'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#198754'
             });
         });
     }
@@ -251,9 +251,9 @@ var occupation = L.geoJson(occupation, {
 var age = L.geoJson(age, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#808080',
+            color: '#dc3545',
             weight: 1,
-            fillColor: '#000066',
+            fillColor: '#FFA500',
             fillOpacity: .8,
             radius: 10
         });
@@ -271,13 +271,13 @@ var age = L.geoJson(age, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#FFA500'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#000066'
+                fillColor: '#FFA500'
             });
         });
     }
