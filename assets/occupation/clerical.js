@@ -5,7 +5,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IL6C",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Mt. Pleasant"
@@ -22,7 +21,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IL12B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Mount Prospect"
@@ -39,7 +37,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IL12HN",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Chicago"
@@ -56,7 +53,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IL16C",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Grand Ridge"
@@ -73,7 +69,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IL29B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Gilman"
@@ -90,7 +85,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IL36B",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Champaign"
@@ -107,7 +101,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IL47A",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Newton"
@@ -124,7 +117,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IN3A",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Elkhart"
@@ -141,7 +133,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IN15B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Terre Haute"
@@ -158,7 +149,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IN20A",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Brookville"
@@ -175,7 +165,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IN23B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Knight"
@@ -192,7 +181,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IN29A",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Keener"
@@ -209,7 +197,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "IN29B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Keener"
@@ -226,7 +213,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "KY14B",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Bardstown"
@@ -243,7 +229,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "KY18C",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Irvine"
@@ -260,7 +245,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "KY25B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Lewisburg"
@@ -277,7 +261,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MI15B",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Columbia"
@@ -294,7 +277,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MI29D",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "Detroit"
@@ -311,7 +293,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "OH16B",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Pepper Pike"
@@ -328,7 +309,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "OH24B",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Millersburg"
@@ -345,7 +325,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "OH25",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "New Philadelphia"
@@ -362,7 +341,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "OH37E",
-        "Project": "LANCS",
         "Sex": "Female",
         "Occupation": "Clerical and sales",
         "County": "Cincinnati"
@@ -379,7 +357,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "WI1B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "East Superior"
@@ -396,7 +373,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "WI17B",
-        "Project": "LANCS",
         "Sex": "Male",
         "Occupation": "Clerical and sales",
         "County": "South Lancaster"
@@ -413,7 +389,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "CT142",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Hartford"
@@ -430,7 +405,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "CT195",
-        "Project": "LANE",
         "Sex": "Female",
         "Occupation": "Clerical or sales position",
         "County": "New London"
@@ -447,7 +421,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "CT286",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "New Haven"
@@ -464,7 +437,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "CT419",
-        "Project": "LANE",
         "Sex": "Female",
         "Occupation": "Clerical or sales position",
         "County": "New London"
@@ -481,7 +453,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA6",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Hampden"
@@ -498,7 +469,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA21",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Plymouth"
@@ -515,7 +485,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA29",
-        "Project": "LANE",
         "Sex": "Female",
         "Occupation": "Clerical or sales position",
         "County": "Essex"
@@ -532,7 +501,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA94",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Barnstable"
@@ -549,7 +517,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA104",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Barnstable"
@@ -566,7 +533,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA108",
-        "Project": "LANE",
         "Sex": "Female",
         "Occupation": "Clerical or sales position",
         "County": "Hampshire"
@@ -583,7 +549,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA136",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Franklin"
@@ -600,7 +565,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA203",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Middlesex"
@@ -617,7 +581,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA274",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Bristol"
@@ -634,7 +597,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA325",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Worcester"
@@ -651,7 +613,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "MA420",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Suffolk"
@@ -668,7 +629,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "ME77",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "York"
@@ -685,7 +645,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "ME228",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Cumberland"
@@ -702,7 +661,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "ME365",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Aroostook"
@@ -719,7 +677,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "ME367",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Penobscot"
@@ -736,7 +693,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "ME379",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Franklin"
@@ -753,7 +709,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "NH51",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Rockingham"
@@ -770,7 +725,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "NH117",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Sullivan"
@@ -787,7 +741,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "NH220",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Carroll"
@@ -804,7 +757,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "NH334",
-        "Project": "LANE",
         "Sex": "Female",
         "Occupation": "Clerical or sales position",
         "County": "Coos"
@@ -821,7 +773,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "NH335",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Grafton"
@@ -838,7 +789,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "RI290",
-        "Project": "LANE",
         "Sex": "Female",
         "Occupation": "Clerical or sales position",
         "County": "Providence"
@@ -855,7 +805,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "RI342",
-        "Project": "LANE",
         "Sex": "Female",
         "Occupation": "Clerical or sales position",
         "County": "Providence"
@@ -872,7 +821,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "VT279",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Rutland"
@@ -889,7 +837,6 @@ var clerical = {
       "type": "Feature",
       "properties": {
         "Informant": "VT343",
-        "Project": "LANE",
         "Sex": "Male",
         "Occupation": "Clerical or sales position",
         "County": "Orange"
