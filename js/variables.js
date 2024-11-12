@@ -282,3 +282,39 @@ var age = L.geoJson(age, {
         });
     }
 })
+
+/// education
+var education = L.geoJson(education, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#dc3545',
+            weight: 1,
+            fillColor: '#FFA500',
+            fillOpacity: .8,
+            radius: 10
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+                <b>${props.Informant}</b> (<b>${props.Sex}</b>)
+                <br>Age: ${props.education}<br>
+            `
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#FFA500'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#FFA500'
+            });
+        });
+    }
+})
