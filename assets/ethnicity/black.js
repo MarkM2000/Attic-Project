@@ -4,23 +4,9 @@ var black = {
     {
       "type": "Feature",
       "properties": {
-        "Informant": "CT183",
-        "Ethnicity ": "Black or African American",
-        "County": "CT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.45,
-          41.8667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Informant": "IL12HN",
-        "Ethnicity ": "Black or African American",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
         "County": "Chicago"
       },
       "geometry": {
@@ -34,38 +20,9 @@ var black = {
     {
       "type": "Feature",
       "properties": {
-        "Informant": "IL12JN",
-        "Ethnicity ": "Black or African American",
-        "County": "Beverly Ridge"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.6563,
-          41.7014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Informant": "IL12LN",
-        "Ethnicity ": "Black or African American",
-        "County": "Beverly Ridge"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.6563,
-          41.7014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Informant": "KY17NA",
-        "Ethnicity ": "Black or African American",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
         "County": "Jonestown"
       },
       "geometry": {
@@ -79,15 +36,32 @@ var black = {
     {
       "type": "Feature",
       "properties": {
-        "Informant": "KY7NA",
-        "Ethnicity ": "Black or African American",
-        "County": "Jeffersontown"
+        "Informant": "WI17NA",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
+        "County": "South Lancaster"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.5644,
-          38.1942
+          -90.7343,
+          42.8029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Informant": "CT183",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
+        "County": "Litchfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.45,
+          41.8667
         ]
       }
     },
@@ -95,7 +69,8 @@ var black = {
       "type": "Feature",
       "properties": {
         "Informant": "KY7NE",
-        "Ethnicity ": "Black or African American",
+        "Sex": "Female",
+        "Ethnicity": "Black or African American",
         "County": "Windy Hills"
       },
       "geometry": {
@@ -109,30 +84,64 @@ var black = {
     {
       "type": "Feature",
       "properties": {
-        "Informant": "ME78",
-        "Ethnicity ": "Black or African American",
-        "County": "ME"
+        "Informant": "IL12LN",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
+        "County": "Beverly Ridge"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.267,
-          43.667
+          -87.6563,
+          41.7014
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Informant": "WI17NA",
-        "Ethnicity ": "Black or African American",
-        "County": "South Lancaster"
+        "Informant": "IL12JN",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
+        "County": "Beverly Ridge"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.7343,
-          42.8029
+          -87.6563,
+          41.7014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Informant": "KY7NA",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
+        "County": "Jeffersontown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5644,
+          38.1942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Informant": "ME78",
+        "Sex": "Male",
+        "Ethnicity": "Black or African American",
+        "County": "Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.267,
+          43.667
         ]
       }
     }
