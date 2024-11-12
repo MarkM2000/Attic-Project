@@ -7,7 +7,7 @@ var education = {
           "Informant": "IL1A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Scales Mound"
         },
         "geometry": {
@@ -24,7 +24,7 @@ var education = {
           "Informant": "IL1B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Galena"
         },
         "geometry": {
@@ -41,7 +41,7 @@ var education = {
           "Informant": "IL1C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Elizabeth Twp"
         },
         "geometry": {
@@ -58,7 +58,7 @@ var education = {
           "Informant": "IL2",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Freeport"
         },
         "geometry": {
@@ -75,7 +75,7 @@ var education = {
           "Informant": "IL3A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Pecatonica"
         },
         "geometry": {
@@ -92,7 +92,7 @@ var education = {
           "Informant": "IL3B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Seward"
         },
         "geometry": {
@@ -109,7 +109,7 @@ var education = {
           "Informant": "IL3C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Pecatonica"
         },
         "geometry": {
@@ -126,7 +126,7 @@ var education = {
           "Informant": "IL3D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Rockford"
         },
         "geometry": {
@@ -143,7 +143,7 @@ var education = {
           "Informant": "IL4",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Belvidere"
         },
         "geometry": {
@@ -160,7 +160,7 @@ var education = {
           "Informant": "IL5",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Woodstock"
         },
         "geometry": {
@@ -177,7 +177,7 @@ var education = {
           "Informant": "IL6A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Mt. Carroll"
         },
         "geometry": {
@@ -194,7 +194,7 @@ var education = {
           "Informant": "IL6B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Franklin Corners"
         },
         "geometry": {
@@ -211,7 +211,7 @@ var education = {
           "Informant": "IL6C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Mt. Pleasant"
         },
         "geometry": {
@@ -228,7 +228,7 @@ var education = {
           "Informant": "IL7",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Oregon"
         },
         "geometry": {
@@ -245,7 +245,7 @@ var education = {
           "Informant": "IL8A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Amboy"
         },
         "geometry": {
@@ -262,7 +262,7 @@ var education = {
           "Informant": "IL8B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Amboy"
         },
         "geometry": {
@@ -279,7 +279,7 @@ var education = {
           "Informant": "IL8C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Amboy"
         },
         "geometry": {
@@ -296,7 +296,7 @@ var education = {
           "Informant": "IL8D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Amboy"
         },
         "geometry": {
@@ -313,7 +313,7 @@ var education = {
           "Informant": "IL9",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Sandwich"
         },
         "geometry": {
@@ -330,7 +330,7 @@ var education = {
           "Informant": "IL10A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Elburn"
         },
         "geometry": {
@@ -347,7 +347,7 @@ var education = {
           "Informant": "IL10B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Elgin"
         },
         "geometry": {
@@ -364,7 +364,7 @@ var education = {
           "Informant": "IL10C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Blackberry"
         },
         "geometry": {
@@ -381,7 +381,7 @@ var education = {
           "Informant": "IL11A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Glen Ellyn"
         },
         "geometry": {
@@ -398,7 +398,7 @@ var education = {
           "Informant": "IL11B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Wheaton"
         },
         "geometry": {
@@ -415,7 +415,7 @@ var education = {
           "Informant": "IL11C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hinsdale"
         },
         "geometry": {
@@ -432,7 +432,7 @@ var education = {
           "Informant": "IL12A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Park Ridge"
         },
         "geometry": {
@@ -449,7 +449,7 @@ var education = {
           "Informant": "IL12B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Mount Prospect"
         },
         "geometry": {
@@ -466,7 +466,7 @@ var education = {
           "Informant": "IL12C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Park Ridge"
         },
         "geometry": {
@@ -483,7 +483,7 @@ var education = {
           "Informant": "IL12D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Chicago"
         },
         "geometry": {
@@ -500,7 +500,7 @@ var education = {
           "Informant": "IL12E",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Chicago"
         },
         "geometry": {
@@ -517,7 +517,7 @@ var education = {
           "Informant": "IL12F",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Chicago"
         },
         "geometry": {
@@ -534,7 +534,7 @@ var education = {
           "Informant": "IL12G",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Chicago"
         },
         "geometry": {
@@ -551,7 +551,7 @@ var education = {
           "Informant": "IL12HN",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Chicago"
         },
         "geometry": {
@@ -568,7 +568,7 @@ var education = {
           "Informant": "IL12I",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rogers Park"
         },
         "geometry": {
@@ -585,7 +585,7 @@ var education = {
           "Informant": "IL12JN",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Beverly Ridge"
         },
         "geometry": {
@@ -602,7 +602,7 @@ var education = {
           "Informant": "IL12K",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Chicago"
         },
         "geometry": {
@@ -619,7 +619,7 @@ var education = {
           "Informant": "IL12LN",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Beverly Ridge"
         },
         "geometry": {
@@ -636,7 +636,7 @@ var education = {
           "Informant": "IL12M",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Chicago"
         },
         "geometry": {
@@ -653,7 +653,7 @@ var education = {
           "Informant": "IL12N",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Near South Side"
         },
         "geometry": {
@@ -670,7 +670,7 @@ var education = {
           "Informant": "IL12O",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Chicago"
         },
         "geometry": {
@@ -687,7 +687,7 @@ var education = {
           "Informant": "IL12P",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Chicago"
         },
         "geometry": {
@@ -704,7 +704,7 @@ var education = {
           "Informant": "IL12Q",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Chicago"
         },
         "geometry": {
@@ -721,7 +721,7 @@ var education = {
           "Informant": "IL12R",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Kenilworth"
         },
         "geometry": {
@@ -738,7 +738,7 @@ var education = {
           "Informant": "IL13A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rock Island"
         },
         "geometry": {
@@ -755,7 +755,7 @@ var education = {
           "Informant": "IL13B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Moline"
         },
         "geometry": {
@@ -772,7 +772,7 @@ var education = {
           "Informant": "IL13C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Moline"
         },
         "geometry": {
@@ -789,7 +789,7 @@ var education = {
           "Informant": "IL13D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Silvis"
         },
         "geometry": {
@@ -806,7 +806,7 @@ var education = {
           "Informant": "IL13E",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Moline"
         },
         "geometry": {
@@ -823,7 +823,7 @@ var education = {
           "Informant": "IL14",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Richland Grove"
         },
         "geometry": {
@@ -840,7 +840,7 @@ var education = {
           "Informant": "IL15A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Geneseo"
         },
         "geometry": {
@@ -857,7 +857,7 @@ var education = {
           "Informant": "IL15B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cambridge"
         },
         "geometry": {
@@ -874,7 +874,7 @@ var education = {
           "Informant": "IL16A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Ottawa"
         },
         "geometry": {
@@ -891,7 +891,7 @@ var education = {
           "Informant": "IL16B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Grand Ridge"
         },
         "geometry": {
@@ -908,7 +908,7 @@ var education = {
           "Informant": "IL16C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Grand Ridge"
         },
         "geometry": {
@@ -925,7 +925,7 @@ var education = {
           "Informant": "IL17",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Yorkville "
         },
         "geometry": {
@@ -942,7 +942,7 @@ var education = {
           "Informant": "IL18",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Goodfarm"
         },
         "geometry": {
@@ -959,7 +959,7 @@ var education = {
           "Informant": "IL19A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Peotone"
         },
         "geometry": {
@@ -976,7 +976,7 @@ var education = {
           "Informant": "IL19B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Peotone"
         },
         "geometry": {
@@ -993,7 +993,7 @@ var education = {
           "Informant": "IL20A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Oquawka"
         },
         "geometry": {
@@ -1010,7 +1010,7 @@ var education = {
           "Informant": "IL20B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sand Ridge"
         },
         "geometry": {
@@ -1027,7 +1027,7 @@ var education = {
           "Informant": "IL21",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Kirkwood"
         },
         "geometry": {
@@ -1044,7 +1044,7 @@ var education = {
           "Informant": "IL22",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Wataga"
         },
         "geometry": {
@@ -1061,7 +1061,7 @@ var education = {
           "Informant": "IL23A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Toulon"
         },
         "geometry": {
@@ -1078,7 +1078,7 @@ var education = {
           "Informant": "IL23B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Osceola"
         },
         "geometry": {
@@ -1095,7 +1095,7 @@ var education = {
           "Informant": "IL24A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Hanna City"
         },
         "geometry": {
@@ -1112,7 +1112,7 @@ var education = {
           "Informant": "IL24B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Peoria"
         },
         "geometry": {
@@ -1129,7 +1129,7 @@ var education = {
           "Informant": "IL25A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "La Rose"
         },
         "geometry": {
@@ -1146,7 +1146,7 @@ var education = {
           "Informant": "IL25B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Granville"
         },
         "geometry": {
@@ -1163,7 +1163,7 @@ var education = {
           "Informant": "IL26",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Eureka"
         },
         "geometry": {
@@ -1180,7 +1180,7 @@ var education = {
           "Informant": "IL27A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Pontiac"
         },
         "geometry": {
@@ -1197,7 +1197,7 @@ var education = {
           "Informant": "IL27B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Pontiac"
         },
         "geometry": {
@@ -1214,7 +1214,7 @@ var education = {
           "Informant": "IL28A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Kankakee"
         },
         "geometry": {
@@ -1231,7 +1231,7 @@ var education = {
           "Informant": "IL28B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "St. Anne"
         },
         "geometry": {
@@ -1248,7 +1248,7 @@ var education = {
           "Informant": "IL29A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Watseka"
         },
         "geometry": {
@@ -1265,7 +1265,7 @@ var education = {
           "Informant": "IL29B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Gilman"
         },
         "geometry": {
@@ -1282,7 +1282,7 @@ var education = {
           "Informant": "IL30A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Nauvoo"
         },
         "geometry": {
@@ -1299,7 +1299,7 @@ var education = {
           "Informant": "IL30B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Nauvoo"
         },
         "geometry": {
@@ -1316,7 +1316,7 @@ var education = {
           "Informant": "IL31A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Bushnell"
         },
         "geometry": {
@@ -1333,7 +1333,7 @@ var education = {
           "Informant": "IL31B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Tennessee"
         },
         "geometry": {
@@ -1350,7 +1350,7 @@ var education = {
           "Informant": "IL32",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Canton"
         },
         "geometry": {
@@ -1367,7 +1367,7 @@ var education = {
           "Informant": "IL33A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Delavan"
         },
         "geometry": {
@@ -1384,7 +1384,7 @@ var education = {
           "Informant": "IL33B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sand Prairie"
         },
         "geometry": {
@@ -1401,7 +1401,7 @@ var education = {
           "Informant": "IL34",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Lexington"
         },
         "geometry": {
@@ -1418,7 +1418,7 @@ var education = {
           "Informant": "IL35",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Drummer"
         },
         "geometry": {
@@ -1435,7 +1435,7 @@ var education = {
           "Informant": "IL36A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Champaign"
         },
         "geometry": {
@@ -1452,7 +1452,7 @@ var education = {
           "Informant": "IL36B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Champaign"
         },
         "geometry": {
@@ -1469,7 +1469,7 @@ var education = {
           "Informant": "IL37A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Mount Sterling"
         },
         "geometry": {
@@ -1486,7 +1486,7 @@ var education = {
           "Informant": "IL37B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Mount Sterling"
         },
         "geometry": {
@@ -1503,7 +1503,7 @@ var education = {
           "Informant": "IL38A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Beardstown"
         },
         "geometry": {
@@ -1520,7 +1520,7 @@ var education = {
           "Informant": "IL38B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Beardstown"
         },
         "geometry": {
@@ -1537,7 +1537,7 @@ var education = {
           "Informant": "IL39A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Auburn"
         },
         "geometry": {
@@ -1554,7 +1554,7 @@ var education = {
           "Informant": "IL39B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Springfield"
         },
         "geometry": {
@@ -1571,7 +1571,7 @@ var education = {
           "Informant": "IL39C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Springfield"
         },
         "geometry": {
@@ -1588,7 +1588,7 @@ var education = {
           "Informant": "IL40",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Stonington"
         },
         "geometry": {
@@ -1605,7 +1605,7 @@ var education = {
           "Informant": "IL41A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Sullivan"
         },
         "geometry": {
@@ -1622,7 +1622,7 @@ var education = {
           "Informant": "IL41B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "East Nelson"
         },
         "geometry": {
@@ -1639,7 +1639,7 @@ var education = {
           "Informant": "IL42A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": " At least some high school",
+          "Education_level": " At least some high school",
           "County": "Paris"
         },
         "geometry": {
@@ -1656,7 +1656,7 @@ var education = {
           "Informant": "IL42B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Paris"
         },
         "geometry": {
@@ -1673,7 +1673,7 @@ var education = {
           "Informant": "IL43A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Kampsville"
         },
         "geometry": {
@@ -1690,7 +1690,7 @@ var education = {
           "Informant": "IL43B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Hardin "
         },
         "geometry": {
@@ -1707,7 +1707,7 @@ var education = {
           "Informant": "IL43C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hardin "
         },
         "geometry": {
@@ -1724,7 +1724,7 @@ var education = {
           "Informant": "IL44A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Edwardsville"
         },
         "geometry": {
@@ -1741,7 +1741,7 @@ var education = {
           "Informant": "IL44B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Alton"
         },
         "geometry": {
@@ -1758,7 +1758,7 @@ var education = {
           "Informant": "IL45A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Witt"
         },
         "geometry": {
@@ -1775,7 +1775,7 @@ var education = {
           "Informant": "IL45B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Nokomis"
         },
         "geometry": {
@@ -1792,7 +1792,7 @@ var education = {
           "Informant": "IL46A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Pinhook"
         },
         "geometry": {
@@ -1809,7 +1809,7 @@ var education = {
           "Informant": "IL46B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Vandalia"
         },
         "geometry": {
@@ -1826,7 +1826,7 @@ var education = {
           "Informant": "IL46C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Vandalia"
         },
         "geometry": {
@@ -1843,7 +1843,7 @@ var education = {
           "Informant": "IL46D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Vandalia"
         },
         "geometry": {
@@ -1860,7 +1860,7 @@ var education = {
           "Informant": "IL47A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newton"
         },
         "geometry": {
@@ -1877,7 +1877,7 @@ var education = {
           "Informant": "IL47B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newton"
         },
         "geometry": {
@@ -1894,7 +1894,7 @@ var education = {
           "Informant": "IL48A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Salem"
         },
         "geometry": {
@@ -1911,7 +1911,7 @@ var education = {
           "Informant": "IL48B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Alma"
         },
         "geometry": {
@@ -1928,7 +1928,7 @@ var education = {
           "Informant": "IL49A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Wayne City"
         },
         "geometry": {
@@ -1945,7 +1945,7 @@ var education = {
           "Informant": "IL49B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "McLeansboro"
         },
         "geometry": {
@@ -1962,7 +1962,7 @@ var education = {
           "Informant": "IL50A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Albion"
         },
         "geometry": {
@@ -1979,7 +1979,7 @@ var education = {
           "Informant": "IL50B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Albion"
         },
         "geometry": {
@@ -1996,7 +1996,7 @@ var education = {
           "Informant": "IL50C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Albion"
         },
         "geometry": {
@@ -2013,7 +2013,7 @@ var education = {
           "Informant": "IL51A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Waterloo"
         },
         "geometry": {
@@ -2030,7 +2030,7 @@ var education = {
           "Informant": "IL51B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Waterloo"
         },
         "geometry": {
@@ -2047,7 +2047,7 @@ var education = {
           "Informant": "IL52A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Red Bud"
         },
         "geometry": {
@@ -2064,7 +2064,7 @@ var education = {
           "Informant": "IL52B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Red Bud"
         },
         "geometry": {
@@ -2081,7 +2081,7 @@ var education = {
           "Informant": "IL53A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cora"
         },
         "geometry": {
@@ -2098,7 +2098,7 @@ var education = {
           "Informant": "IL53B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Murphysboro"
         },
         "geometry": {
@@ -2115,7 +2115,7 @@ var education = {
           "Informant": "IL54",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Herrin"
         },
         "geometry": {
@@ -2132,7 +2132,7 @@ var education = {
           "Informant": "IL55A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Shawneetown"
         },
         "geometry": {
@@ -2149,7 +2149,7 @@ var education = {
           "Informant": "IL55B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Shawneetown "
         },
         "geometry": {
@@ -2166,7 +2166,7 @@ var education = {
           "Informant": "IL55C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Shawneetown"
         },
         "geometry": {
@@ -2183,7 +2183,7 @@ var education = {
           "Informant": "IL56A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Thebes"
         },
         "geometry": {
@@ -2200,7 +2200,7 @@ var education = {
           "Informant": "IL56B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Villa Ridge"
         },
         "geometry": {
@@ -2217,7 +2217,7 @@ var education = {
           "Informant": "IL57",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Metropolis"
         },
         "geometry": {
@@ -2234,7 +2234,7 @@ var education = {
           "Informant": "IL58A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Golconda"
         },
         "geometry": {
@@ -2251,7 +2251,7 @@ var education = {
           "Informant": "IL58B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Golconda"
         },
         "geometry": {
@@ -2268,7 +2268,7 @@ var education = {
           "Informant": "IL58C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Golconda"
         },
         "geometry": {
@@ -2285,7 +2285,7 @@ var education = {
           "Informant": "IN1A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Morgan"
         },
         "geometry": {
@@ -2302,7 +2302,7 @@ var education = {
           "Informant": "IN1B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Morgan"
         },
         "geometry": {
@@ -2319,7 +2319,7 @@ var education = {
           "Informant": "IN2A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "North"
         },
         "geometry": {
@@ -2336,7 +2336,7 @@ var education = {
           "Informant": "IN2B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Center"
         },
         "geometry": {
@@ -2353,7 +2353,7 @@ var education = {
           "Informant": "IN3A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Elkhart"
         },
         "geometry": {
@@ -2370,7 +2370,7 @@ var education = {
           "Informant": "IN3B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Clinton"
         },
         "geometry": {
@@ -2387,7 +2387,7 @@ var education = {
           "Informant": "IN4A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Washington"
         },
         "geometry": {
@@ -2404,7 +2404,7 @@ var education = {
           "Informant": "IN4B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Washington"
         },
         "geometry": {
@@ -2421,7 +2421,7 @@ var education = {
           "Informant": "IN5",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Fairfield"
         },
         "geometry": {
@@ -2438,7 +2438,7 @@ var education = {
           "Informant": "IN6A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Delphi"
         },
         "geometry": {
@@ -2455,7 +2455,7 @@ var education = {
           "Informant": "IN6B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Delphi"
         },
         "geometry": {
@@ -2472,7 +2472,7 @@ var education = {
           "Informant": "IN6C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Delphi"
         },
         "geometry": {
@@ -2489,7 +2489,7 @@ var education = {
           "Informant": "IN7A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Lagro"
         },
         "geometry": {
@@ -2506,7 +2506,7 @@ var education = {
           "Informant": "IN7B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Lagro"
         },
         "geometry": {
@@ -2523,7 +2523,7 @@ var education = {
           "Informant": "IN7C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lagro"
         },
         "geometry": {
@@ -2540,7 +2540,7 @@ var education = {
           "Informant": "IN8A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Jefferson"
         },
         "geometry": {
@@ -2557,7 +2557,7 @@ var education = {
           "Informant": "IN8B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Scipio"
         },
         "geometry": {
@@ -2574,7 +2574,7 @@ var education = {
           "Informant": "IN8C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Washington"
         },
         "geometry": {
@@ -2591,7 +2591,7 @@ var education = {
           "Informant": "IN8D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Jefferson"
         },
         "geometry": {
@@ -2608,7 +2608,7 @@ var education = {
           "Informant": "IN8E",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Jefferson"
         },
         "geometry": {
@@ -2625,7 +2625,7 @@ var education = {
           "Informant": "IN9A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Decatur"
         },
         "geometry": {
@@ -2642,7 +2642,7 @@ var education = {
           "Informant": "IN9B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Washington"
         },
         "geometry": {
@@ -2659,7 +2659,7 @@ var education = {
           "Informant": "IN9C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Wabash"
         },
         "geometry": {
@@ -2676,7 +2676,7 @@ var education = {
           "Informant": "IN9D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Wabash"
         },
         "geometry": {
@@ -2693,7 +2693,7 @@ var education = {
           "Informant": "IN10A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Adams"
         },
         "geometry": {
@@ -2710,7 +2710,7 @@ var education = {
           "Informant": "IN10B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Adams"
         },
         "geometry": {
@@ -2727,7 +2727,7 @@ var education = {
           "Informant": "IN10C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Raccoon"
         },
         "geometry": {
@@ -2744,7 +2744,7 @@ var education = {
           "Informant": "IN11A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "New Brunswick"
         },
         "geometry": {
@@ -2761,7 +2761,7 @@ var education = {
           "Informant": "IN11B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Jackson"
         },
         "geometry": {
@@ -2778,7 +2778,7 @@ var education = {
           "Informant": "IN12A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Warren"
         },
         "geometry": {
@@ -2795,7 +2795,7 @@ var education = {
           "Informant": "IN12B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Warren"
         },
         "geometry": {
@@ -2812,7 +2812,7 @@ var education = {
           "Informant": "IN12C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Warren"
         },
         "geometry": {
@@ -2829,7 +2829,7 @@ var education = {
           "Informant": "IN12D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Indianapolis"
         },
         "geometry": {
@@ -2846,7 +2846,7 @@ var education = {
           "Informant": "IN12E",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Bridgeport"
         },
         "geometry": {
@@ -2863,7 +2863,7 @@ var education = {
           "Informant": "IN13A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Fall Creek"
         },
         "geometry": {
@@ -2880,7 +2880,7 @@ var education = {
           "Informant": "IN13B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Adams"
         },
         "geometry": {
@@ -2897,7 +2897,7 @@ var education = {
           "Informant": "IN13C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Richland"
         },
         "geometry": {
@@ -2914,7 +2914,7 @@ var education = {
           "Informant": "IN13D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Fall Creek"
         },
         "geometry": {
@@ -2931,7 +2931,7 @@ var education = {
           "Informant": "IN13E",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Elwood"
         },
         "geometry": {
@@ -2948,7 +2948,7 @@ var education = {
           "Informant": "IN14A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "White River"
         },
         "geometry": {
@@ -2965,7 +2965,7 @@ var education = {
           "Informant": "IN14B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "White River"
         },
         "geometry": {
@@ -2982,7 +2982,7 @@ var education = {
           "Informant": "IN14C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Farmland"
         },
         "geometry": {
@@ -2999,7 +2999,7 @@ var education = {
           "Informant": "IN15A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Terre Haute"
         },
         "geometry": {
@@ -3016,7 +3016,7 @@ var education = {
           "Informant": "IN15B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Terre Haute"
         },
         "geometry": {
@@ -3033,7 +3033,7 @@ var education = {
           "Informant": "IN15C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Terre Haute"
         },
         "geometry": {
@@ -3050,7 +3050,7 @@ var education = {
           "Informant": "IN16A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Washington"
         },
         "geometry": {
@@ -3067,7 +3067,7 @@ var education = {
           "Informant": "IN16B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -3084,7 +3084,7 @@ var education = {
           "Informant": "IN16C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Brazil"
         },
         "geometry": {
@@ -3101,7 +3101,7 @@ var education = {
           "Informant": "IN17A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Bloomington"
         },
         "geometry": {
@@ -3118,7 +3118,7 @@ var education = {
           "Informant": "IN17B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Bloomington"
         },
         "geometry": {
@@ -3135,7 +3135,7 @@ var education = {
           "Informant": "IN18A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Nashville"
         },
         "geometry": {
@@ -3152,7 +3152,7 @@ var education = {
           "Informant": "IN18B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Nashville"
         },
         "geometry": {
@@ -3169,7 +3169,7 @@ var education = {
           "Informant": "IN19A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Milroy"
         },
         "geometry": {
@@ -3186,7 +3186,7 @@ var education = {
           "Informant": "IN19B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Milroy"
         },
         "geometry": {
@@ -3203,7 +3203,7 @@ var education = {
           "Informant": "IN20A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Brookville"
         },
         "geometry": {
@@ -3220,7 +3220,7 @@ var education = {
           "Informant": "IN20B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Brookville"
         },
         "geometry": {
@@ -3237,7 +3237,7 @@ var education = {
           "Informant": "IN21A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Steen"
         },
         "geometry": {
@@ -3254,7 +3254,7 @@ var education = {
           "Informant": "IN21B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Steen"
         },
         "geometry": {
@@ -3271,7 +3271,7 @@ var education = {
           "Informant": "IN22A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "White River"
         },
         "geometry": {
@@ -3288,7 +3288,7 @@ var education = {
           "Informant": "IN22B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "White River"
         },
         "geometry": {
@@ -3305,7 +3305,7 @@ var education = {
           "Informant": "IN22C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Princeton"
         },
         "geometry": {
@@ -3322,7 +3322,7 @@ var education = {
           "Informant": "IN23A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Knight"
         },
         "geometry": {
@@ -3339,7 +3339,7 @@ var education = {
           "Informant": "IN23B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Knight"
         },
         "geometry": {
@@ -3356,7 +3356,7 @@ var education = {
           "Informant": "IN24A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rockport"
         },
         "geometry": {
@@ -3373,7 +3373,7 @@ var education = {
           "Informant": "IN24B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rockport"
         },
         "geometry": {
@@ -3390,7 +3390,7 @@ var education = {
           "Informant": "IN25A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Orleans"
         },
         "geometry": {
@@ -3407,7 +3407,7 @@ var education = {
           "Informant": "IN25B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Orleans"
         },
         "geometry": {
@@ -3424,7 +3424,7 @@ var education = {
           "Informant": "IN25C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Orleans"
         },
         "geometry": {
@@ -3441,7 +3441,7 @@ var education = {
           "Informant": "IN26A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Harrison"
         },
         "geometry": {
@@ -3458,7 +3458,7 @@ var education = {
           "Informant": "IN26B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Boone"
         },
         "geometry": {
@@ -3475,7 +3475,7 @@ var education = {
           "Informant": "IN26C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Harrison"
         },
         "geometry": {
@@ -3492,7 +3492,7 @@ var education = {
           "Informant": "IN27A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Shelby"
         },
         "geometry": {
@@ -3509,7 +3509,7 @@ var education = {
           "Informant": "IN27B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Caesar Creek"
         },
         "geometry": {
@@ -3526,7 +3526,7 @@ var education = {
           "Informant": "IN27C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Shelby"
         },
         "geometry": {
@@ -3543,7 +3543,7 @@ var education = {
           "Informant": "IN28A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Madison"
         },
         "geometry": {
@@ -3560,7 +3560,7 @@ var education = {
           "Informant": "IN28B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Madison"
         },
         "geometry": {
@@ -3577,7 +3577,7 @@ var education = {
           "Informant": "IN28C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Madison"
         },
         "geometry": {
@@ -3594,7 +3594,7 @@ var education = {
           "Informant": "IN29A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Keener"
         },
         "geometry": {
@@ -3611,7 +3611,7 @@ var education = {
           "Informant": "IN29B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Keener"
         },
         "geometry": {
@@ -3628,7 +3628,7 @@ var education = {
           "Informant": "IN29C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Union"
         },
         "geometry": {
@@ -3645,7 +3645,7 @@ var education = {
           "Informant": "IN29D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Kankakee"
         },
         "geometry": {
@@ -3662,7 +3662,7 @@ var education = {
           "Informant": "IN30",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Schererville"
         },
         "geometry": {
@@ -3679,7 +3679,7 @@ var education = {
           "Informant": "KY1A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Smithland"
         },
         "geometry": {
@@ -3696,7 +3696,7 @@ var education = {
           "Informant": "KY1B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Smithland"
         },
         "geometry": {
@@ -3713,7 +3713,7 @@ var education = {
           "Informant": "KY1C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hampton"
         },
         "geometry": {
@@ -3730,7 +3730,7 @@ var education = {
           "Informant": "KY2A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Dixon"
         },
         "geometry": {
@@ -3747,7 +3747,7 @@ var education = {
           "Informant": "KY2B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sebree"
         },
         "geometry": {
@@ -3764,7 +3764,7 @@ var education = {
           "Informant": "KY3A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Hawesville"
         },
         "geometry": {
@@ -3781,7 +3781,7 @@ var education = {
           "Informant": "KY3B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hawesville"
         },
         "geometry": {
@@ -3798,7 +3798,7 @@ var education = {
           "Informant": "KY4",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Brandenburg"
         },
         "geometry": {
@@ -3815,7 +3815,7 @@ var education = {
           "Informant": "KY5A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Vertrees"
         },
         "geometry": {
@@ -3832,7 +3832,7 @@ var education = {
           "Informant": "KY5B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "West Point"
         },
         "geometry": {
@@ -3849,7 +3849,7 @@ var education = {
           "Informant": "KY6A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Bardstown Junction"
         },
         "geometry": {
@@ -3866,7 +3866,7 @@ var education = {
           "Informant": "KY6B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Bardstown Junction"
         },
         "geometry": {
@@ -3883,7 +3883,7 @@ var education = {
           "Informant": "KY7AA",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Louisville"
         },
         "geometry": {
@@ -3900,7 +3900,7 @@ var education = {
           "Informant": "KY7B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Louisville"
         },
         "geometry": {
@@ -3917,7 +3917,7 @@ var education = {
           "Informant": "KY7BA",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Louisville"
         },
         "geometry": {
@@ -3934,7 +3934,7 @@ var education = {
           "Informant": "KY7C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Louisville"
         },
         "geometry": {
@@ -3951,7 +3951,7 @@ var education = {
           "Informant": "KY7D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Louisville"
         },
         "geometry": {
@@ -3968,7 +3968,7 @@ var education = {
           "Informant": "KY7F",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Windy Hills"
         },
         "geometry": {
@@ -3985,7 +3985,7 @@ var education = {
           "Informant": "KY7NA",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Jeffersontown"
         },
         "geometry": {
@@ -4002,7 +4002,7 @@ var education = {
           "Informant": "KY7NE",
           "Sex": "Female",
           "Ethnicity": "Black or African American",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Windy Hills"
         },
         "geometry": {
@@ -4019,7 +4019,7 @@ var education = {
           "Informant": "KY8A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Squiresville"
         },
         "geometry": {
@@ -4036,7 +4036,7 @@ var education = {
           "Informant": "KY8B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Monterey"
         },
         "geometry": {
@@ -4053,7 +4053,7 @@ var education = {
           "Informant": "KY8C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New Liberty"
         },
         "geometry": {
@@ -4070,7 +4070,7 @@ var education = {
           "Informant": "KY9A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cabin Creek"
         },
         "geometry": {
@@ -4087,7 +4087,7 @@ var education = {
           "Informant": "KY9B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Maysville"
         },
         "geometry": {
@@ -4104,7 +4104,7 @@ var education = {
           "Informant": "KY9C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Maysville"
         },
         "geometry": {
@@ -4121,7 +4121,7 @@ var education = {
           "Informant": "KY10A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Grayson"
         },
         "geometry": {
@@ -4138,7 +4138,7 @@ var education = {
           "Informant": "KY10B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Grayson"
         },
         "geometry": {
@@ -4155,7 +4155,7 @@ var education = {
           "Informant": "KY11A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Greenville"
         },
         "geometry": {
@@ -4172,7 +4172,7 @@ var education = {
           "Informant": "KY11B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Greenville"
         },
         "geometry": {
@@ -4189,7 +4189,7 @@ var education = {
           "Informant": "KY12A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Shrewsbury"
         },
         "geometry": {
@@ -4206,7 +4206,7 @@ var education = {
           "Informant": "KY12B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Salt Lick"
         },
         "geometry": {
@@ -4223,7 +4223,7 @@ var education = {
           "Informant": "KY12C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Leitchfield"
         },
         "geometry": {
@@ -4240,7 +4240,7 @@ var education = {
           "Informant": "KY12D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Leitchfield"
         },
         "geometry": {
@@ -4257,7 +4257,7 @@ var education = {
           "Informant": "KY13A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Bluff Boom"
         },
         "geometry": {
@@ -4274,7 +4274,7 @@ var education = {
           "Informant": "KY13B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Greensburg"
         },
         "geometry": {
@@ -4291,7 +4291,7 @@ var education = {
           "Informant": "KY14A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Bardstown"
         },
         "geometry": {
@@ -4308,7 +4308,7 @@ var education = {
           "Informant": "KY14B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Bardstown"
         },
         "geometry": {
@@ -4325,7 +4325,7 @@ var education = {
           "Informant": "KY15",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lebanon"
         },
         "geometry": {
@@ -4342,7 +4342,7 @@ var education = {
           "Informant": "KY16A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Dixville"
         },
         "geometry": {
@@ -4359,7 +4359,7 @@ var education = {
           "Informant": "KY16B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Harrodsburg"
         },
         "geometry": {
@@ -4376,7 +4376,7 @@ var education = {
           "Informant": "KY16C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Burgin"
         },
         "geometry": {
@@ -4393,7 +4393,7 @@ var education = {
           "Informant": "KY17B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Georgetown"
         },
         "geometry": {
@@ -4410,7 +4410,7 @@ var education = {
           "Informant": "KY17C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lexington"
         },
         "geometry": {
@@ -4427,7 +4427,7 @@ var education = {
           "Informant": "KY17D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lexington"
         },
         "geometry": {
@@ -4444,7 +4444,7 @@ var education = {
           "Informant": "KY17E",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Bryan Station"
         },
         "geometry": {
@@ -4461,7 +4461,7 @@ var education = {
           "Informant": "KY17F",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Versailles"
         },
         "geometry": {
@@ -4478,7 +4478,7 @@ var education = {
           "Informant": "KY17NA",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Jonestown"
         },
         "geometry": {
@@ -4495,7 +4495,7 @@ var education = {
           "Informant": "KY18A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Irvine"
         },
         "geometry": {
@@ -4512,7 +4512,7 @@ var education = {
           "Informant": "KY18B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Irvine"
         },
         "geometry": {
@@ -4529,7 +4529,7 @@ var education = {
           "Informant": "KY18C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Irvine"
         },
         "geometry": {
@@ -4546,7 +4546,7 @@ var education = {
           "Informant": "KY19A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Owingsville"
         },
         "geometry": {
@@ -4563,7 +4563,7 @@ var education = {
           "Informant": "KY19B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Owingsville"
         },
         "geometry": {
@@ -4580,7 +4580,7 @@ var education = {
           "Informant": "KY19C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Reynoldsville"
         },
         "geometry": {
@@ -4597,7 +4597,7 @@ var education = {
           "Informant": "KY19D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Sharpsburg"
         },
         "geometry": {
@@ -4614,7 +4614,7 @@ var education = {
           "Informant": "KY20A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Frenchburg"
         },
         "geometry": {
@@ -4631,7 +4631,7 @@ var education = {
           "Informant": "KY20B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sudith"
         },
         "geometry": {
@@ -4648,7 +4648,7 @@ var education = {
           "Informant": "KY21A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Boons Camp"
         },
         "geometry": {
@@ -4665,7 +4665,7 @@ var education = {
           "Informant": "KY21B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Winifred"
         },
         "geometry": {
@@ -4682,7 +4682,7 @@ var education = {
           "Informant": "KY21C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Oil Springs"
         },
         "geometry": {
@@ -4699,7 +4699,7 @@ var education = {
           "Informant": "KY22A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Hailwell"
         },
         "geometry": {
@@ -4716,7 +4716,7 @@ var education = {
           "Informant": "KY22B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Clinton"
         },
         "geometry": {
@@ -4733,7 +4733,7 @@ var education = {
           "Informant": "KY22C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Clinton"
         },
         "geometry": {
@@ -4750,7 +4750,7 @@ var education = {
           "Informant": "KY23A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Murray"
         },
         "geometry": {
@@ -4767,7 +4767,7 @@ var education = {
           "Informant": "KY23B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "New Concord"
         },
         "geometry": {
@@ -4784,7 +4784,7 @@ var education = {
           "Informant": "KY24A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Blue Spring"
         },
         "geometry": {
@@ -4801,7 +4801,7 @@ var education = {
           "Informant": "KY24B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Cadiz"
         },
         "geometry": {
@@ -4818,7 +4818,7 @@ var education = {
           "Informant": "KY24C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Cadiz"
         },
         "geometry": {
@@ -4835,7 +4835,7 @@ var education = {
           "Informant": "KY24D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Caledonia"
         },
         "geometry": {
@@ -4852,7 +4852,7 @@ var education = {
           "Informant": "KY25A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Auburn"
         },
         "geometry": {
@@ -4869,7 +4869,7 @@ var education = {
           "Informant": "KY25B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lewisburg"
         },
         "geometry": {
@@ -4886,7 +4886,7 @@ var education = {
           "Informant": "KY26A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Holland"
         },
         "geometry": {
@@ -4903,7 +4903,7 @@ var education = {
           "Informant": "KY26B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Mt. Zion"
         },
         "geometry": {
@@ -4920,7 +4920,7 @@ var education = {
           "Informant": "KY27A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Goodwater"
         },
         "geometry": {
@@ -4937,7 +4937,7 @@ var education = {
           "Informant": "KY27B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Somerset"
         },
         "geometry": {
@@ -4954,7 +4954,7 @@ var education = {
           "Informant": "KY28A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Wofford"
         },
         "geometry": {
@@ -4971,7 +4971,7 @@ var education = {
           "Informant": "KY28B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Williamsburg"
         },
         "geometry": {
@@ -4988,7 +4988,7 @@ var education = {
           "Informant": "KY28C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Williamsburg"
         },
         "geometry": {
@@ -5005,7 +5005,7 @@ var education = {
           "Informant": "KY29A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Ingram"
         },
         "geometry": {
@@ -5022,7 +5022,7 @@ var education = {
           "Informant": "KY29B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Middlesboro"
         },
         "geometry": {
@@ -5039,7 +5039,7 @@ var education = {
           "Informant": "KY30A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Booneville"
         },
         "geometry": {
@@ -5056,7 +5056,7 @@ var education = {
           "Informant": "KY30B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Scoville"
         },
         "geometry": {
@@ -5073,7 +5073,7 @@ var education = {
           "Informant": "KY30C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Lerose"
         },
         "geometry": {
@@ -5090,7 +5090,7 @@ var education = {
           "Informant": "KY30D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Athol"
         },
         "geometry": {
@@ -5107,7 +5107,7 @@ var education = {
           "Informant": "KY30E",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Cow Creek"
         },
         "geometry": {
@@ -5124,7 +5124,7 @@ var education = {
           "Informant": "KY31A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Big Rock"
         },
         "geometry": {
@@ -5141,7 +5141,7 @@ var education = {
           "Informant": "KY31B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Big Rock"
         },
         "geometry": {
@@ -5158,7 +5158,7 @@ var education = {
           "Informant": "KY31C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Hyden"
         },
         "geometry": {
@@ -5175,7 +5175,7 @@ var education = {
           "Informant": "KY31D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Dry Hill"
         },
         "geometry": {
@@ -5192,7 +5192,7 @@ var education = {
           "Informant": "KY32",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Hazard"
         },
         "geometry": {
@@ -5209,7 +5209,7 @@ var education = {
           "Informant": "KY33A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Crummies"
         },
         "geometry": {
@@ -5226,7 +5226,7 @@ var education = {
           "Informant": "KY33B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Harlan"
         },
         "geometry": {
@@ -5243,7 +5243,7 @@ var education = {
           "Informant": "KY33C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cawood"
         },
         "geometry": {
@@ -5260,7 +5260,7 @@ var education = {
           "Informant": "KY34A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Linefork"
         },
         "geometry": {
@@ -5277,7 +5277,7 @@ var education = {
           "Informant": "KY34B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Linefork"
         },
         "geometry": {
@@ -5294,7 +5294,7 @@ var education = {
           "Informant": "KY34C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Kingdom Come"
         },
         "geometry": {
@@ -5311,7 +5311,7 @@ var education = {
           "Informant": "MI1A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Matchwood"
         },
         "geometry": {
@@ -5328,7 +5328,7 @@ var education = {
           "Informant": "MI1B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Ballentine (Bergland)"
         },
         "geometry": {
@@ -5345,7 +5345,7 @@ var education = {
           "Informant": "MI2A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Calumet"
         },
         "geometry": {
@@ -5362,7 +5362,7 @@ var education = {
           "Informant": "MI2B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Calumet"
         },
         "geometry": {
@@ -5379,7 +5379,7 @@ var education = {
           "Informant": "MI2C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Calumet"
         },
         "geometry": {
@@ -5396,7 +5396,7 @@ var education = {
           "Informant": "MI3A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Michigamme"
         },
         "geometry": {
@@ -5413,7 +5413,7 @@ var education = {
           "Informant": "MI3B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Ishpeming"
         },
         "geometry": {
@@ -5430,7 +5430,7 @@ var education = {
           "Informant": "MI4A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Wells"
         },
         "geometry": {
@@ -5447,7 +5447,7 @@ var education = {
           "Informant": "MI4B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Escanaba"
         },
         "geometry": {
@@ -5464,7 +5464,7 @@ var education = {
           "Informant": "MI5A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sault Ste. Marie"
         },
         "geometry": {
@@ -5481,7 +5481,7 @@ var education = {
           "Informant": "MI5B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sault Ste. Marie"
         },
         "geometry": {
@@ -5498,7 +5498,7 @@ var education = {
           "Informant": "MI5C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sault Ste. Marie"
         },
         "geometry": {
@@ -5515,7 +5515,7 @@ var education = {
           "Informant": "MI6A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "St. James"
         },
         "geometry": {
@@ -5532,7 +5532,7 @@ var education = {
           "Informant": "MI6B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Beaver Island"
         },
         "geometry": {
@@ -5549,7 +5549,7 @@ var education = {
           "Informant": "MI6C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "St. James"
         },
         "geometry": {
@@ -5566,7 +5566,7 @@ var education = {
           "Informant": "MI7A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Center"
         },
         "geometry": {
@@ -5583,7 +5583,7 @@ var education = {
           "Informant": "MI7B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Levering"
         },
         "geometry": {
@@ -5600,7 +5600,7 @@ var education = {
           "Informant": "MI8A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Old Mission"
         },
         "geometry": {
@@ -5617,7 +5617,7 @@ var education = {
           "Informant": "MI8B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Old Mission"
         },
         "geometry": {
@@ -5634,7 +5634,7 @@ var education = {
           "Informant": "MI9A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Alpena"
         },
         "geometry": {
@@ -5651,7 +5651,7 @@ var education = {
           "Informant": "MI9B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Alpena"
         },
         "geometry": {
@@ -5668,7 +5668,7 @@ var education = {
           "Informant": "MI9C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Alpena"
         },
         "geometry": {
@@ -5685,7 +5685,7 @@ var education = {
           "Informant": "MI9D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Alpena"
         },
         "geometry": {
@@ -5702,7 +5702,7 @@ var education = {
           "Informant": "MI10A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Summit"
         },
         "geometry": {
@@ -5719,7 +5719,7 @@ var education = {
           "Informant": "MI10B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Riverton"
         },
         "geometry": {
@@ -5736,7 +5736,7 @@ var education = {
           "Informant": "MI10C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Ludington"
         },
         "geometry": {
@@ -5753,7 +5753,7 @@ var education = {
           "Informant": "MI11A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "South Branch"
         },
         "geometry": {
@@ -5770,7 +5770,7 @@ var education = {
           "Informant": "MI11B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "South Branch"
         },
         "geometry": {
@@ -5787,7 +5787,7 @@ var education = {
           "Informant": "MI12A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "West Branch"
         },
         "geometry": {
@@ -5804,7 +5804,7 @@ var education = {
           "Informant": "MI12B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Churchill"
         },
         "geometry": {
@@ -5821,7 +5821,7 @@ var education = {
           "Informant": "MI13A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Garfield"
         },
         "geometry": {
@@ -5838,7 +5838,7 @@ var education = {
           "Informant": "MI13B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Garfield"
         },
         "geometry": {
@@ -5855,7 +5855,7 @@ var education = {
           "Informant": "MI14A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Isabella"
         },
         "geometry": {
@@ -5872,7 +5872,7 @@ var education = {
           "Informant": "MI14B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Isabella"
         },
         "geometry": {
@@ -5889,7 +5889,7 @@ var education = {
           "Informant": "MI14C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Isabella"
         },
         "geometry": {
@@ -5906,7 +5906,7 @@ var education = {
           "Informant": "MI15A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Columbia"
         },
         "geometry": {
@@ -5923,7 +5923,7 @@ var education = {
           "Informant": "MI15B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Columbia"
         },
         "geometry": {
@@ -5940,7 +5940,7 @@ var education = {
           "Informant": "MI16A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Zeeland"
         },
         "geometry": {
@@ -5957,7 +5957,7 @@ var education = {
           "Informant": "MI16B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Zeeland"
         },
         "geometry": {
@@ -5974,7 +5974,7 @@ var education = {
           "Informant": "MI16C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Grand Rapids"
         },
         "geometry": {
@@ -5991,7 +5991,7 @@ var education = {
           "Informant": "MI17A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Portland"
         },
         "geometry": {
@@ -6008,7 +6008,7 @@ var education = {
           "Informant": "MI17B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Portland"
         },
         "geometry": {
@@ -6025,7 +6025,7 @@ var education = {
           "Informant": "MI18A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Burns"
         },
         "geometry": {
@@ -6042,7 +6042,7 @@ var education = {
           "Informant": "MI18B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Burns"
         },
         "geometry": {
@@ -6059,7 +6059,7 @@ var education = {
           "Informant": "MI19",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Flint (township)"
         },
         "geometry": {
@@ -6076,7 +6076,7 @@ var education = {
           "Informant": "MI20A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "China"
         },
         "geometry": {
@@ -6093,7 +6093,7 @@ var education = {
           "Informant": "MI20B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "St. Clair"
         },
         "geometry": {
@@ -6110,7 +6110,7 @@ var education = {
           "Informant": "MI21A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Vermontville"
         },
         "geometry": {
@@ -6127,7 +6127,7 @@ var education = {
           "Informant": "MI21B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Vermontville"
         },
         "geometry": {
@@ -6144,7 +6144,7 @@ var education = {
           "Informant": "MI21C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Vermontville"
         },
         "geometry": {
@@ -6161,7 +6161,7 @@ var education = {
           "Informant": "MI22",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Howell"
         },
         "geometry": {
@@ -6178,7 +6178,7 @@ var education = {
           "Informant": "MI23A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Milford"
         },
         "geometry": {
@@ -6195,7 +6195,7 @@ var education = {
           "Informant": "MI23B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Milford"
         },
         "geometry": {
@@ -6212,7 +6212,7 @@ var education = {
           "Informant": "MI23C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Milford"
         },
         "geometry": {
@@ -6229,7 +6229,7 @@ var education = {
           "Informant": "MI24A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -6246,7 +6246,7 @@ var education = {
           "Informant": "MI24B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -6263,7 +6263,7 @@ var education = {
           "Informant": "MI24C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -6280,7 +6280,7 @@ var education = {
           "Informant": "MI24D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Paw Paw"
         },
         "geometry": {
@@ -6297,7 +6297,7 @@ var education = {
           "Informant": "MI25A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Wayne"
         },
         "geometry": {
@@ -6314,7 +6314,7 @@ var education = {
           "Informant": "MI25B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Wayne"
         },
         "geometry": {
@@ -6331,7 +6331,7 @@ var education = {
           "Informant": "MI26A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Marengo"
         },
         "geometry": {
@@ -6348,7 +6348,7 @@ var education = {
           "Informant": "MI26B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Marshall"
         },
         "geometry": {
@@ -6365,7 +6365,7 @@ var education = {
           "Informant": "MI27A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Coldwater"
         },
         "geometry": {
@@ -6382,7 +6382,7 @@ var education = {
           "Informant": "MI27B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Algansee"
         },
         "geometry": {
@@ -6399,7 +6399,7 @@ var education = {
           "Informant": "MI28A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Adrian"
         },
         "geometry": {
@@ -6416,7 +6416,7 @@ var education = {
           "Informant": "MI28B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Adrian"
         },
         "geometry": {
@@ -6433,7 +6433,7 @@ var education = {
           "Informant": "MI29A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Detroit"
         },
         "geometry": {
@@ -6450,7 +6450,7 @@ var education = {
           "Informant": "MI29B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Detroit"
         },
         "geometry": {
@@ -6467,7 +6467,7 @@ var education = {
           "Informant": "MI29C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Detroit"
         },
         "geometry": {
@@ -6484,7 +6484,7 @@ var education = {
           "Informant": "MI29D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Detroit"
         },
         "geometry": {
@@ -6501,7 +6501,7 @@ var education = {
           "Informant": "MI29E",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Detroit"
         },
         "geometry": {
@@ -6518,7 +6518,7 @@ var education = {
           "Informant": "MI30A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Dundee"
         },
         "geometry": {
@@ -6535,7 +6535,7 @@ var education = {
           "Informant": "MI30B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Dundee"
         },
         "geometry": {
@@ -6552,7 +6552,7 @@ var education = {
           "Informant": "OH1A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Eagleville"
         },
         "geometry": {
@@ -6569,7 +6569,7 @@ var education = {
           "Informant": "OH1B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Geneva"
         },
         "geometry": {
@@ -6586,7 +6586,7 @@ var education = {
           "Informant": "OH1C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Jefferson"
         },
         "geometry": {
@@ -6603,7 +6603,7 @@ var education = {
           "Informant": "OH2A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Wildare"
         },
         "geometry": {
@@ -6620,7 +6620,7 @@ var education = {
           "Informant": "OH2B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Champion Heights or Warren"
         },
         "geometry": {
@@ -6637,7 +6637,7 @@ var education = {
           "Informant": "OH3A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Beloit"
         },
         "geometry": {
@@ -6654,7 +6654,7 @@ var education = {
           "Informant": "OH3B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Ellsworth"
         },
         "geometry": {
@@ -6671,7 +6671,7 @@ var education = {
           "Informant": "OH4A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Scotch Settlement"
         },
         "geometry": {
@@ -6688,7 +6688,7 @@ var education = {
           "Informant": "OH4B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lisbon"
         },
         "geometry": {
@@ -6705,7 +6705,7 @@ var education = {
           "Informant": "OH5A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Richmond"
         },
         "geometry": {
@@ -6722,7 +6722,7 @@ var education = {
           "Informant": "OH5B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Richmond"
         },
         "geometry": {
@@ -6739,7 +6739,7 @@ var education = {
           "Informant": "OH5C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Red Ridge"
         },
         "geometry": {
@@ -6756,7 +6756,7 @@ var education = {
           "Informant": "OH6A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "St. Clairsville"
         },
         "geometry": {
@@ -6773,7 +6773,7 @@ var education = {
           "Informant": "OH6B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "St. Clairsville"
         },
         "geometry": {
@@ -6790,7 +6790,7 @@ var education = {
           "Informant": "OH7A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Straight Fork"
         },
         "geometry": {
@@ -6807,7 +6807,7 @@ var education = {
           "Informant": "OH7B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Graysville"
         },
         "geometry": {
@@ -6824,7 +6824,7 @@ var education = {
           "Informant": "OH8A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Marietta"
         },
         "geometry": {
@@ -6841,7 +6841,7 @@ var education = {
           "Informant": "OH8B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Marietta"
         },
         "geometry": {
@@ -6858,7 +6858,7 @@ var education = {
           "Informant": "OH8C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Barlow"
         },
         "geometry": {
@@ -6875,7 +6875,7 @@ var education = {
           "Informant": "OH8D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Marietta"
         },
         "geometry": {
@@ -6892,7 +6892,7 @@ var education = {
           "Informant": "OH8E",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Marietta"
         },
         "geometry": {
@@ -6909,7 +6909,7 @@ var education = {
           "Informant": "OH9A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Brooks"
         },
         "geometry": {
@@ -6926,7 +6926,7 @@ var education = {
           "Informant": "OH9B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Shade"
         },
         "geometry": {
@@ -6943,7 +6943,7 @@ var education = {
           "Informant": "OH9C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Whitehall"
         },
         "geometry": {
@@ -6960,7 +6960,7 @@ var education = {
           "Informant": "OH9D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Athens"
         },
         "geometry": {
@@ -6977,7 +6977,7 @@ var education = {
           "Informant": "OH10A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Pomeroy"
         },
         "geometry": {
@@ -6994,7 +6994,7 @@ var education = {
           "Informant": "OH10B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Pomeroy"
         },
         "geometry": {
@@ -7011,7 +7011,7 @@ var education = {
           "Informant": "OH11A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Thivener"
         },
         "geometry": {
@@ -7028,7 +7028,7 @@ var education = {
           "Informant": "OH11B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Bidwell"
         },
         "geometry": {
@@ -7045,7 +7045,7 @@ var education = {
           "Informant": "OH12A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windsor"
         },
         "geometry": {
@@ -7062,7 +7062,7 @@ var education = {
           "Informant": "OH12B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Arabia"
         },
         "geometry": {
@@ -7079,7 +7079,7 @@ var education = {
           "Informant": "OH12C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Rome"
         },
         "geometry": {
@@ -7096,7 +7096,7 @@ var education = {
           "Informant": "OH12D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Platform"
         },
         "geometry": {
@@ -7113,7 +7113,7 @@ var education = {
           "Informant": "OH13A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Mark"
         },
         "geometry": {
@@ -7130,7 +7130,7 @@ var education = {
           "Informant": "OH13B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Defiance"
         },
         "geometry": {
@@ -7147,7 +7147,7 @@ var education = {
           "Informant": "OH14A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Perrysburg"
         },
         "geometry": {
@@ -7164,7 +7164,7 @@ var education = {
           "Informant": "OH14B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Perrysburg"
         },
         "geometry": {
@@ -7181,7 +7181,7 @@ var education = {
           "Informant": "OH15A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Huron"
         },
         "geometry": {
@@ -7198,7 +7198,7 @@ var education = {
           "Informant": "OH15B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Huron"
         },
         "geometry": {
@@ -7215,7 +7215,7 @@ var education = {
           "Informant": "OH16A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Pepper Pike"
         },
         "geometry": {
@@ -7232,7 +7232,7 @@ var education = {
           "Informant": "OH16B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Pepper Pike"
         },
         "geometry": {
@@ -7249,7 +7249,7 @@ var education = {
           "Informant": "OH16C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Pepper Pike"
         },
         "geometry": {
@@ -7266,7 +7266,7 @@ var education = {
           "Informant": "OH17A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Medina"
         },
         "geometry": {
@@ -7283,7 +7283,7 @@ var education = {
           "Informant": "OH17B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Medina"
         },
         "geometry": {
@@ -7300,7 +7300,7 @@ var education = {
           "Informant": "OH17C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Medina"
         },
         "geometry": {
@@ -7317,7 +7317,7 @@ var education = {
           "Informant": "OH17D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Wadsworth"
         },
         "geometry": {
@@ -7334,7 +7334,7 @@ var education = {
           "Informant": "OH18A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hiram "
         },
         "geometry": {
@@ -7351,7 +7351,7 @@ var education = {
           "Informant": "OH18B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Ravenna"
         },
         "geometry": {
@@ -7368,7 +7368,7 @@ var education = {
           "Informant": "OH18C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Streetsboro"
         },
         "geometry": {
@@ -7385,7 +7385,7 @@ var education = {
           "Informant": "OH19A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Willshire"
         },
         "geometry": {
@@ -7402,7 +7402,7 @@ var education = {
           "Informant": "OH19B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Venodocia"
         },
         "geometry": {
@@ -7419,7 +7419,7 @@ var education = {
           "Informant": "OH19C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Pleasant (Van Wert)"
         },
         "geometry": {
@@ -7436,7 +7436,7 @@ var education = {
           "Informant": "OH20A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Gilboa"
         },
         "geometry": {
@@ -7453,7 +7453,7 @@ var education = {
           "Informant": "OH20B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Glandorf"
         },
         "geometry": {
@@ -7470,7 +7470,7 @@ var education = {
           "Informant": "OH21A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -7487,7 +7487,7 @@ var education = {
           "Informant": "OH21B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -7504,7 +7504,7 @@ var education = {
           "Informant": "OH21C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -7521,7 +7521,7 @@ var education = {
           "Informant": "OH21D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Upper Sandusky"
         },
         "geometry": {
@@ -7538,7 +7538,7 @@ var education = {
           "Informant": "OH22A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Butler "
         },
         "geometry": {
@@ -7555,7 +7555,7 @@ var education = {
           "Informant": "OH22B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Gambier"
         },
         "geometry": {
@@ -7572,7 +7572,7 @@ var education = {
           "Informant": "OH23A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Ashland "
         },
         "geometry": {
@@ -7589,7 +7589,7 @@ var education = {
           "Informant": "OH23B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Doylestown"
         },
         "geometry": {
@@ -7606,7 +7606,7 @@ var education = {
           "Informant": "OH23C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Chippewa"
         },
         "geometry": {
@@ -7623,7 +7623,7 @@ var education = {
           "Informant": "OH24A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Millersburg"
         },
         "geometry": {
@@ -7640,7 +7640,7 @@ var education = {
           "Informant": "OH24B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Millersburg"
         },
         "geometry": {
@@ -7657,7 +7657,7 @@ var education = {
           "Informant": "OH25",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New Philadelphia"
         },
         "geometry": {
@@ -7674,7 +7674,7 @@ var education = {
           "Informant": "OH26A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Greenville"
         },
         "geometry": {
@@ -7691,7 +7691,7 @@ var education = {
           "Informant": "OH26B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Greenville"
         },
         "geometry": {
@@ -7708,7 +7708,7 @@ var education = {
           "Informant": "OH27A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Urbana"
         },
         "geometry": {
@@ -7725,7 +7725,7 @@ var education = {
           "Informant": "OH27B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Urbana"
         },
         "geometry": {
@@ -7742,7 +7742,7 @@ var education = {
           "Informant": "OH28A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worthington"
         },
         "geometry": {
@@ -7759,7 +7759,7 @@ var education = {
           "Informant": "OH28B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Reynoldsburg"
         },
         "geometry": {
@@ -7776,7 +7776,7 @@ var education = {
           "Informant": "OH28C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Columbus"
         },
         "geometry": {
@@ -7793,7 +7793,7 @@ var education = {
           "Informant": "OH29A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Amanda"
         },
         "geometry": {
@@ -7810,7 +7810,7 @@ var education = {
           "Informant": "OH29B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lancaster"
         },
         "geometry": {
@@ -7827,7 +7827,7 @@ var education = {
           "Informant": "OH30A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "New Concord"
         },
         "geometry": {
@@ -7844,7 +7844,7 @@ var education = {
           "Informant": "OH30B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New Concord"
         },
         "geometry": {
@@ -7861,7 +7861,7 @@ var education = {
           "Informant": "OH31A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Senecaville"
         },
         "geometry": {
@@ -7878,7 +7878,7 @@ var education = {
           "Informant": "OH31B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Greenwood"
         },
         "geometry": {
@@ -7895,7 +7895,7 @@ var education = {
           "Informant": "OH31C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lore City"
         },
         "geometry": {
@@ -7912,7 +7912,7 @@ var education = {
           "Informant": "OH32A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Israel"
         },
         "geometry": {
@@ -7929,7 +7929,7 @@ var education = {
           "Informant": "OH32B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Riley"
         },
         "geometry": {
@@ -7946,7 +7946,7 @@ var education = {
           "Informant": "OH32C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Israel"
         },
         "geometry": {
@@ -7963,7 +7963,7 @@ var education = {
           "Informant": "OH32D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Oxford"
         },
         "geometry": {
@@ -7980,7 +7980,7 @@ var education = {
           "Informant": "OH33A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Cedarville "
         },
         "geometry": {
@@ -7997,7 +7997,7 @@ var education = {
           "Informant": "OH33B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Xenia"
         },
         "geometry": {
@@ -8014,7 +8014,7 @@ var education = {
           "Informant": "OH34A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Wilmington"
         },
         "geometry": {
@@ -8031,7 +8031,7 @@ var education = {
           "Informant": "OH34B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Wilmington"
         },
         "geometry": {
@@ -8048,7 +8048,7 @@ var education = {
           "Informant": "OH34C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Union"
         },
         "geometry": {
@@ -8065,7 +8065,7 @@ var education = {
           "Informant": "OH34D",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Chester"
         },
         "geometry": {
@@ -8082,7 +8082,7 @@ var education = {
           "Informant": "OH35A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Scioto"
         },
         "geometry": {
@@ -8099,7 +8099,7 @@ var education = {
           "Informant": "OH35B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Scioto"
         },
         "geometry": {
@@ -8116,7 +8116,7 @@ var education = {
           "Informant": "OH36A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "McArthur"
         },
         "geometry": {
@@ -8133,7 +8133,7 @@ var education = {
           "Informant": "OH36B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Malta"
         },
         "geometry": {
@@ -8150,7 +8150,7 @@ var education = {
           "Informant": "OH37A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Fairfield "
         },
         "geometry": {
@@ -8167,7 +8167,7 @@ var education = {
           "Informant": "OH37B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Sycamore"
         },
         "geometry": {
@@ -8184,7 +8184,7 @@ var education = {
           "Informant": "OH37C",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Sycamore"
         },
         "geometry": {
@@ -8201,7 +8201,7 @@ var education = {
           "Informant": "OH37D",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Westwood"
         },
         "geometry": {
@@ -8218,7 +8218,7 @@ var education = {
           "Informant": "OH37E",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cincinnati"
         },
         "geometry": {
@@ -8235,7 +8235,7 @@ var education = {
           "Informant": "OH37F",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cincinnati"
         },
         "geometry": {
@@ -8252,7 +8252,7 @@ var education = {
           "Informant": "OH37G",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Sycamore"
         },
         "geometry": {
@@ -8269,7 +8269,7 @@ var education = {
           "Informant": "OH38A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Tate"
         },
         "geometry": {
@@ -8286,7 +8286,7 @@ var education = {
           "Informant": "OH38B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Monroe"
         },
         "geometry": {
@@ -8303,7 +8303,7 @@ var education = {
           "Informant": "OH39A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Tiffin"
         },
         "geometry": {
@@ -8320,7 +8320,7 @@ var education = {
           "Informant": "OH39B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Tiffin"
         },
         "geometry": {
@@ -8337,7 +8337,7 @@ var education = {
           "Informant": "WI1A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "East Superior"
         },
         "geometry": {
@@ -8354,7 +8354,7 @@ var education = {
           "Informant": "WI1B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least college or beyond",
+          "Education_level": "At least college or beyond",
           "County": "East Superior"
         },
         "geometry": {
@@ -8371,7 +8371,7 @@ var education = {
           "Informant": "WI2A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Bayfield"
         },
         "geometry": {
@@ -8388,7 +8388,7 @@ var education = {
           "Informant": "WI2B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "La Pointe"
         },
         "geometry": {
@@ -8405,7 +8405,7 @@ var education = {
           "Informant": "WI3A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Grover"
         },
         "geometry": {
@@ -8422,7 +8422,7 @@ var education = {
           "Informant": "WI3B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Marinette"
         },
         "geometry": {
@@ -8439,7 +8439,7 @@ var education = {
           "Informant": "WI4A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Sturgeon Bay"
         },
         "geometry": {
@@ -8456,7 +8456,7 @@ var education = {
           "Informant": "WI4B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Brussels"
         },
         "geometry": {
@@ -8473,7 +8473,7 @@ var education = {
           "Informant": "WI5A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Hammond"
         },
         "geometry": {
@@ -8490,7 +8490,7 @@ var education = {
           "Informant": "WI5B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Erin Prairie"
         },
         "geometry": {
@@ -8507,7 +8507,7 @@ var education = {
           "Informant": "WI5C",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Erin Prairie"
         },
         "geometry": {
@@ -8524,7 +8524,7 @@ var education = {
           "Informant": "WI6A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Pepin"
         },
         "geometry": {
@@ -8541,7 +8541,7 @@ var education = {
           "Informant": "WI6B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Stockholm "
         },
         "geometry": {
@@ -8558,7 +8558,7 @@ var education = {
           "Informant": "WI7A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Eau Claire"
         },
         "geometry": {
@@ -8575,7 +8575,7 @@ var education = {
           "Informant": "WI7B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Brunswick"
         },
         "geometry": {
@@ -8592,7 +8592,7 @@ var education = {
           "Informant": "WI8A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Caledonia"
         },
         "geometry": {
@@ -8609,7 +8609,7 @@ var education = {
           "Informant": "WI8B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Trempeleau"
         },
         "geometry": {
@@ -8626,7 +8626,7 @@ var education = {
           "Informant": "WI9A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Stockton"
         },
         "geometry": {
@@ -8643,7 +8643,7 @@ var education = {
           "Informant": "WI9B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Sharon"
         },
         "geometry": {
@@ -8660,7 +8660,7 @@ var education = {
           "Informant": "WI10A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Grand Chute"
         },
         "geometry": {
@@ -8677,7 +8677,7 @@ var education = {
           "Informant": "WI10B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Vandenbroek"
         },
         "geometry": {
@@ -8694,7 +8694,7 @@ var education = {
           "Informant": "WI11A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Scott"
         },
         "geometry": {
@@ -8711,7 +8711,7 @@ var education = {
           "Informant": "WI11B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Howard"
         },
         "geometry": {
@@ -8728,7 +8728,7 @@ var education = {
           "Informant": "WI12A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lemonweir"
         },
         "geometry": {
@@ -8745,7 +8745,7 @@ var education = {
           "Informant": "WI12B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Lemonweir"
         },
         "geometry": {
@@ -8762,7 +8762,7 @@ var education = {
           "Informant": "WI13A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Fort Winnebago"
         },
         "geometry": {
@@ -8779,7 +8779,7 @@ var education = {
           "Informant": "WI13B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Portage"
         },
         "geometry": {
@@ -8796,7 +8796,7 @@ var education = {
           "Informant": "WI14A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Oakfield"
         },
         "geometry": {
@@ -8813,7 +8813,7 @@ var education = {
           "Informant": "WI14B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Oakfield"
         },
         "geometry": {
@@ -8830,7 +8830,7 @@ var education = {
           "Informant": "WI15A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "West Bend"
         },
         "geometry": {
@@ -8847,7 +8847,7 @@ var education = {
           "Informant": "WI15B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Jackson"
         },
         "geometry": {
@@ -8864,7 +8864,7 @@ var education = {
           "Informant": "WI16A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Bridgeport"
         },
         "geometry": {
@@ -8881,7 +8881,7 @@ var education = {
           "Informant": "WI16B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Prairie du Chien"
         },
         "geometry": {
@@ -8898,7 +8898,7 @@ var education = {
           "Informant": "WI17B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "South Lancaster"
         },
         "geometry": {
@@ -8915,7 +8915,7 @@ var education = {
           "Informant": "WI17NA",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "South Lancaster"
         },
         "geometry": {
@@ -8932,7 +8932,7 @@ var education = {
           "Informant": "WI18A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Mineral Point"
         },
         "geometry": {
@@ -8949,7 +8949,7 @@ var education = {
           "Informant": "WI18B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Mineral Point"
         },
         "geometry": {
@@ -8966,7 +8966,7 @@ var education = {
           "Informant": "WI19A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Roxbury"
         },
         "geometry": {
@@ -8983,7 +8983,7 @@ var education = {
           "Informant": "WI19B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Roxbury"
         },
         "geometry": {
@@ -9000,7 +9000,7 @@ var education = {
           "Informant": "WI20",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Waterloo OR lake mills"
         },
         "geometry": {
@@ -9017,7 +9017,7 @@ var education = {
           "Informant": "WI21A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Genesee"
         },
         "geometry": {
@@ -9034,7 +9034,7 @@ var education = {
           "Informant": "WI21B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Genesee"
         },
         "geometry": {
@@ -9051,7 +9051,7 @@ var education = {
           "Informant": "WI22A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Milwaukee"
         },
         "geometry": {
@@ -9068,7 +9068,7 @@ var education = {
           "Informant": "WI22B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Milwaukee"
         },
         "geometry": {
@@ -9085,7 +9085,7 @@ var education = {
           "Informant": "WI23A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Mt. Pleasant"
         },
         "geometry": {
@@ -9102,7 +9102,7 @@ var education = {
           "Informant": "WI23B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "New Glarus"
         },
         "geometry": {
@@ -9119,7 +9119,7 @@ var education = {
           "Informant": "WI24A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Clinton"
         },
         "geometry": {
@@ -9136,7 +9136,7 @@ var education = {
           "Informant": "WI24B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Clinton"
         },
         "geometry": {
@@ -9153,7 +9153,7 @@ var education = {
           "Informant": "WI25A",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Mt. Pleasant"
         },
         "geometry": {
@@ -9170,7 +9170,7 @@ var education = {
           "Informant": "WI25B",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Caledonia"
         },
         "geometry": {
@@ -9187,7 +9187,7 @@ var education = {
           "Informant": "WI26A",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Pleasant Prairie"
         },
         "geometry": {
@@ -9204,7 +9204,7 @@ var education = {
           "Informant": "WI26B",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 yrs.",
+          "Education_level": "Between 1 and 8 yrs.",
           "County": "Pleasant Prairie"
         },
         "geometry": {
@@ -9221,7 +9221,7 @@ var education = {
           "Informant": "CT30",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9238,7 +9238,7 @@ var education = {
           "Informant": "CT32",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9255,7 +9255,7 @@ var education = {
           "Informant": "CT33",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9272,7 +9272,7 @@ var education = {
           "Informant": "CT34",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9289,7 +9289,7 @@ var education = {
           "Informant": "CT39",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9306,7 +9306,7 @@ var education = {
           "Informant": "CT40",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9323,7 +9323,7 @@ var education = {
           "Informant": "CT41",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -9340,7 +9340,7 @@ var education = {
           "Informant": "CT43",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9357,7 +9357,7 @@ var education = {
           "Informant": "CT60",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New Haven"
         },
         "geometry": {
@@ -9374,7 +9374,7 @@ var education = {
           "Informant": "CT62",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New Haven"
         },
         "geometry": {
@@ -9391,7 +9391,7 @@ var education = {
           "Informant": "CT69",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New Haven"
         },
         "geometry": {
@@ -9408,7 +9408,7 @@ var education = {
           "Informant": "CT92",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hartford"
         },
         "geometry": {
@@ -9425,7 +9425,7 @@ var education = {
           "Informant": "CT103",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9442,7 +9442,7 @@ var education = {
           "Informant": "CT109",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hartford"
         },
         "geometry": {
@@ -9459,7 +9459,7 @@ var education = {
           "Informant": "CT112",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hartford"
         },
         "geometry": {
@@ -9476,7 +9476,7 @@ var education = {
           "Informant": "CT113",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9493,7 +9493,7 @@ var education = {
           "Informant": "CT126",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "honorary MA, no college edu",
+          "Education_level": "honorary MA, no college edu",
           "County": "Hartford"
         },
         "geometry": {
@@ -9510,7 +9510,7 @@ var education = {
           "Informant": "CT133",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hartford"
         },
         "geometry": {
@@ -9527,7 +9527,7 @@ var education = {
           "Informant": "CT139",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New Haven"
         },
         "geometry": {
@@ -9544,7 +9544,7 @@ var education = {
           "Informant": "CT142",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hartford"
         },
         "geometry": {
@@ -9561,7 +9561,7 @@ var education = {
           "Informant": "CT160",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New Haven"
         },
         "geometry": {
@@ -9578,7 +9578,7 @@ var education = {
           "Informant": "CT183",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9595,7 +9595,7 @@ var education = {
           "Informant": "CT184",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9612,7 +9612,7 @@ var education = {
           "Informant": "CT187",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9629,7 +9629,7 @@ var education = {
           "Informant": "CT188",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9646,7 +9646,7 @@ var education = {
           "Informant": "CT189",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9663,7 +9663,7 @@ var education = {
           "Informant": "CT190",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9680,7 +9680,7 @@ var education = {
           "Informant": "CT191",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9697,7 +9697,7 @@ var education = {
           "Informant": "CT192",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Windham"
         },
         "geometry": {
@@ -9714,7 +9714,7 @@ var education = {
           "Informant": "CT193",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Windham"
         },
         "geometry": {
@@ -9731,7 +9731,7 @@ var education = {
           "Informant": "CT195",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New London"
         },
         "geometry": {
@@ -9748,7 +9748,7 @@ var education = {
           "Informant": "CT196",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "New Haven"
         },
         "geometry": {
@@ -9765,7 +9765,7 @@ var education = {
           "Informant": "CT197",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9782,7 +9782,7 @@ var education = {
           "Informant": "CT198",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9799,7 +9799,7 @@ var education = {
           "Informant": "CT199",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9816,7 +9816,7 @@ var education = {
           "Informant": "CT205",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9833,7 +9833,7 @@ var education = {
           "Informant": "CT206",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New London"
         },
         "geometry": {
@@ -9850,7 +9850,7 @@ var education = {
           "Informant": "CT209",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New London"
         },
         "geometry": {
@@ -9867,7 +9867,7 @@ var education = {
           "Informant": "CT210",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hartford"
         },
         "geometry": {
@@ -9884,7 +9884,7 @@ var education = {
           "Informant": "CT215",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Fairfield"
         },
         "geometry": {
@@ -9901,7 +9901,7 @@ var education = {
           "Informant": "CT216",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hartford"
         },
         "geometry": {
@@ -9918,7 +9918,7 @@ var education = {
           "Informant": "CT217",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Litchfield"
         },
         "geometry": {
@@ -9935,7 +9935,7 @@ var education = {
           "Informant": "CT218",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "New Haven"
         },
         "geometry": {
@@ -9952,7 +9952,7 @@ var education = {
           "Informant": "CT233",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New London"
         },
         "geometry": {
@@ -9969,7 +9969,7 @@ var education = {
           "Informant": "CT234",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New London"
         },
         "geometry": {
@@ -9986,7 +9986,7 @@ var education = {
           "Informant": "CT254",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10003,7 +10003,7 @@ var education = {
           "Informant": "CT260",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10020,7 +10020,7 @@ var education = {
           "Informant": "CT261",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "New Haven"
         },
         "geometry": {
@@ -10037,7 +10037,7 @@ var education = {
           "Informant": "CT262",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10054,7 +10054,7 @@ var education = {
           "Informant": "CT266",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10071,7 +10071,7 @@ var education = {
           "Informant": "CT282",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New Haven"
         },
         "geometry": {
@@ -10088,7 +10088,7 @@ var education = {
           "Informant": "CT283",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New Haven"
         },
         "geometry": {
@@ -10105,7 +10105,7 @@ var education = {
           "Informant": "CT286",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New Haven"
         },
         "geometry": {
@@ -10122,7 +10122,7 @@ var education = {
           "Informant": "CT287",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Fairfield"
         },
         "geometry": {
@@ -10139,7 +10139,7 @@ var education = {
           "Informant": "CT373",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windham"
         },
         "geometry": {
@@ -10156,7 +10156,7 @@ var education = {
           "Informant": "CT384",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Tolland"
         },
         "geometry": {
@@ -10173,7 +10173,7 @@ var education = {
           "Informant": "CT385",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Tolland"
         },
         "geometry": {
@@ -10190,7 +10190,7 @@ var education = {
           "Informant": "CT386",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hartford"
         },
         "geometry": {
@@ -10207,7 +10207,7 @@ var education = {
           "Informant": "CT387",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hartford"
         },
         "geometry": {
@@ -10224,7 +10224,7 @@ var education = {
           "Informant": "CT400",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Tolland"
         },
         "geometry": {
@@ -10241,7 +10241,7 @@ var education = {
           "Informant": "CT401",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Tolland"
         },
         "geometry": {
@@ -10258,7 +10258,7 @@ var education = {
           "Informant": "CT405",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Tolland"
         },
         "geometry": {
@@ -10275,7 +10275,7 @@ var education = {
           "Informant": "CT406",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Windham"
         },
         "geometry": {
@@ -10292,7 +10292,7 @@ var education = {
           "Informant": "CT407",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windham"
         },
         "geometry": {
@@ -10309,7 +10309,7 @@ var education = {
           "Informant": "CT408",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Windham"
         },
         "geometry": {
@@ -10326,7 +10326,7 @@ var education = {
           "Informant": "CT417",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New London"
         },
         "geometry": {
@@ -10343,7 +10343,7 @@ var education = {
           "Informant": "CT418",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "New London"
         },
         "geometry": {
@@ -10360,7 +10360,7 @@ var education = {
           "Informant": "CT419",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "New London"
         },
         "geometry": {
@@ -10377,7 +10377,7 @@ var education = {
           "Informant": "CT422",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hartford"
         },
         "geometry": {
@@ -10394,7 +10394,7 @@ var education = {
           "Informant": "MA1",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10411,7 +10411,7 @@ var education = {
           "Informant": "MA2",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampshire"
         },
         "geometry": {
@@ -10428,7 +10428,7 @@ var education = {
           "Informant": "MA3",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampshire"
         },
         "geometry": {
@@ -10445,7 +10445,7 @@ var education = {
           "Informant": "MA4",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampshire"
         },
         "geometry": {
@@ -10462,7 +10462,7 @@ var education = {
           "Informant": "MA5",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10479,7 +10479,7 @@ var education = {
           "Informant": "MA6",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampden"
         },
         "geometry": {
@@ -10496,7 +10496,7 @@ var education = {
           "Informant": "MA7",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10513,7 +10513,7 @@ var education = {
           "Informant": "MA8",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10530,7 +10530,7 @@ var education = {
           "Informant": "MA9",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Essex"
         },
         "geometry": {
@@ -10547,7 +10547,7 @@ var education = {
           "Informant": "MA10",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10564,7 +10564,7 @@ var education = {
           "Informant": "MA12",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10581,7 +10581,7 @@ var education = {
           "Informant": "MA13",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -10598,7 +10598,7 @@ var education = {
           "Informant": "MA14",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -10615,7 +10615,7 @@ var education = {
           "Informant": "MA15",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -10632,7 +10632,7 @@ var education = {
           "Informant": "MA16",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -10649,7 +10649,7 @@ var education = {
           "Informant": "MA21",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10666,7 +10666,7 @@ var education = {
           "Informant": "MA22",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10683,7 +10683,7 @@ var education = {
           "Informant": "MA24",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10700,7 +10700,7 @@ var education = {
           "Informant": "MA25",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10717,7 +10717,7 @@ var education = {
           "Informant": "MA26",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10734,7 +10734,7 @@ var education = {
           "Informant": "MA27",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Essex"
         },
         "geometry": {
@@ -10751,7 +10751,7 @@ var education = {
           "Informant": "MA28",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10768,7 +10768,7 @@ var education = {
           "Informant": "MA29",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Essex"
         },
         "geometry": {
@@ -10785,7 +10785,7 @@ var education = {
           "Informant": "MA35",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10802,7 +10802,7 @@ var education = {
           "Informant": "MA36",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10819,7 +10819,7 @@ var education = {
           "Informant": "MA37",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampshire"
         },
         "geometry": {
@@ -10836,7 +10836,7 @@ var education = {
           "Informant": "MA38",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Worcester"
         },
         "geometry": {
@@ -10853,7 +10853,7 @@ var education = {
           "Informant": "MA45",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Bristol"
         },
         "geometry": {
@@ -10870,7 +10870,7 @@ var education = {
           "Informant": "MA46",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10887,7 +10887,7 @@ var education = {
           "Informant": "MA47",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Essex"
         },
         "geometry": {
@@ -10904,7 +10904,7 @@ var education = {
           "Informant": "MA52",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -10921,7 +10921,7 @@ var education = {
           "Informant": "MA54",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -10938,7 +10938,7 @@ var education = {
           "Informant": "MA55",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hampden"
         },
         "geometry": {
@@ -10955,7 +10955,7 @@ var education = {
           "Informant": "MA56",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Bristol"
         },
         "geometry": {
@@ -10972,7 +10972,7 @@ var education = {
           "Informant": "MA57",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Plymouth"
         },
         "geometry": {
@@ -10989,7 +10989,7 @@ var education = {
           "Informant": "MA58",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Worcester"
         },
         "geometry": {
@@ -11006,7 +11006,7 @@ var education = {
           "Informant": "MA59",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -11023,7 +11023,7 @@ var education = {
           "Informant": "MA61",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Hampden"
         },
         "geometry": {
@@ -11040,7 +11040,7 @@ var education = {
           "Informant": "MA70",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampden"
         },
         "geometry": {
@@ -11057,7 +11057,7 @@ var education = {
           "Informant": "MA72",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11074,7 +11074,7 @@ var education = {
           "Informant": "MA73",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11091,7 +11091,7 @@ var education = {
           "Informant": "MA74",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11108,7 +11108,7 @@ var education = {
           "Informant": "MA79",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Franklin"
         },
         "geometry": {
@@ -11125,7 +11125,7 @@ var education = {
           "Informant": "MA80",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -11142,7 +11142,7 @@ var education = {
           "Informant": "MA81",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Hampden"
         },
         "geometry": {
@@ -11159,7 +11159,7 @@ var education = {
           "Informant": "MA82",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hampden"
         },
         "geometry": {
@@ -11176,7 +11176,7 @@ var education = {
           "Informant": "MA89",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hampshire"
         },
         "geometry": {
@@ -11193,7 +11193,7 @@ var education = {
           "Informant": "MA90",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hampden"
         },
         "geometry": {
@@ -11210,7 +11210,7 @@ var education = {
           "Informant": "MA91",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampshire"
         },
         "geometry": {
@@ -11227,7 +11227,7 @@ var education = {
           "Informant": "MA93",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampden"
         },
         "geometry": {
@@ -11244,7 +11244,7 @@ var education = {
           "Informant": "MA94",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11261,7 +11261,7 @@ var education = {
           "Informant": "MA95",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11278,7 +11278,7 @@ var education = {
           "Informant": "MA96",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11295,7 +11295,7 @@ var education = {
           "Informant": "MA97",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11312,7 +11312,7 @@ var education = {
           "Informant": "MA102",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampden"
         },
         "geometry": {
@@ -11329,7 +11329,7 @@ var education = {
           "Informant": "MA104",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11346,7 +11346,7 @@ var education = {
           "Informant": "MA105",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Plymouth"
         },
         "geometry": {
@@ -11363,7 +11363,7 @@ var education = {
           "Informant": "MA106",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11380,7 +11380,7 @@ var education = {
           "Informant": "MA107",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Barnstable"
         },
         "geometry": {
@@ -11397,7 +11397,7 @@ var education = {
           "Informant": "MA108",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hampshire"
         },
         "geometry": {
@@ -11414,7 +11414,7 @@ var education = {
           "Informant": "MA119",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11431,7 +11431,7 @@ var education = {
           "Informant": "MA120",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampden"
         },
         "geometry": {
@@ -11448,7 +11448,7 @@ var education = {
           "Informant": "MA123",
           "Sex": "Male/Female",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Worcester"
         },
         "geometry": {
@@ -11465,7 +11465,7 @@ var education = {
           "Informant": "MA124",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -11482,7 +11482,7 @@ var education = {
           "Informant": "MA125",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "",
+          "Education_level": "",
           "County": "Worcester"
         },
         "geometry": {
@@ -11499,7 +11499,7 @@ var education = {
           "Informant": "MA127",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Franklin"
         },
         "geometry": {
@@ -11516,7 +11516,7 @@ var education = {
           "Informant": "MA135",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Franklin"
         },
         "geometry": {
@@ -11533,7 +11533,7 @@ var education = {
           "Informant": "MA136",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -11550,7 +11550,7 @@ var education = {
           "Informant": "MA137",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampden"
         },
         "geometry": {
@@ -11567,7 +11567,7 @@ var education = {
           "Informant": "MA140",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Worcester"
         },
         "geometry": {
@@ -11584,7 +11584,7 @@ var education = {
           "Informant": "MA141",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Worcester"
         },
         "geometry": {
@@ -11601,7 +11601,7 @@ var education = {
           "Informant": "MA145",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Worcester"
         },
         "geometry": {
@@ -11618,7 +11618,7 @@ var education = {
           "Informant": "MA146",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Worcester"
         },
         "geometry": {
@@ -11635,7 +11635,7 @@ var education = {
           "Informant": "MA147",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Worcester"
         },
         "geometry": {
@@ -11652,7 +11652,7 @@ var education = {
           "Informant": "MA148",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -11669,7 +11669,7 @@ var education = {
           "Informant": "MA149",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11686,7 +11686,7 @@ var education = {
           "Informant": "MA150",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hampden"
         },
         "geometry": {
@@ -11703,7 +11703,7 @@ var education = {
           "Informant": "MA151",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hampden"
         },
         "geometry": {
@@ -11720,7 +11720,7 @@ var education = {
           "Informant": "MA152",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11737,7 +11737,7 @@ var education = {
           "Informant": "MA153",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hampshire"
         },
         "geometry": {
@@ -11754,7 +11754,7 @@ var education = {
           "Informant": "MA154",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "",
+          "Education_level": "",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11771,7 +11771,7 @@ var education = {
           "Informant": "MA155",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11788,7 +11788,7 @@ var education = {
           "Informant": "MA185",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11805,7 +11805,7 @@ var education = {
           "Informant": "MA186",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Berkshire"
         },
         "geometry": {
@@ -11822,7 +11822,7 @@ var education = {
           "Informant": "MA200",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Worcester"
         },
         "geometry": {
@@ -11839,7 +11839,7 @@ var education = {
           "Informant": "MA201",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -11856,7 +11856,7 @@ var education = {
           "Informant": "MA202",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -11873,7 +11873,7 @@ var education = {
           "Informant": "MA203",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -11890,7 +11890,7 @@ var education = {
           "Informant": "MA204",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -11907,7 +11907,7 @@ var education = {
           "Informant": "MA207",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Middlesex"
         },
         "geometry": {
@@ -11924,7 +11924,7 @@ var education = {
           "Informant": "MA208",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -11941,7 +11941,7 @@ var education = {
           "Informant": "MA211",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "",
+          "Education_level": "",
           "County": "Middlesex"
         },
         "geometry": {
@@ -11958,7 +11958,7 @@ var education = {
           "Informant": "MA235",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Suffolk"
         },
         "geometry": {
@@ -11975,7 +11975,7 @@ var education = {
           "Informant": "MA255",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Bristol"
         },
         "geometry": {
@@ -11992,7 +11992,7 @@ var education = {
           "Informant": "MA258",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Bristol"
         },
         "geometry": {
@@ -12009,7 +12009,7 @@ var education = {
           "Informant": "MA273",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Bristol"
         },
         "geometry": {
@@ -12026,7 +12026,7 @@ var education = {
           "Informant": "MA274",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Bristol"
         },
         "geometry": {
@@ -12043,7 +12043,7 @@ var education = {
           "Informant": "MA284",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Plymouth"
         },
         "geometry": {
@@ -12060,7 +12060,7 @@ var education = {
           "Informant": "MA285",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Norfolk"
         },
         "geometry": {
@@ -12077,7 +12077,7 @@ var education = {
           "Informant": "MA289",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Norfolk"
         },
         "geometry": {
@@ -12094,7 +12094,7 @@ var education = {
           "Informant": "MA291",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hampshire"
         },
         "geometry": {
@@ -12111,7 +12111,7 @@ var education = {
           "Informant": "MA313",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -12128,7 +12128,7 @@ var education = {
           "Informant": "MA318",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Berkshire"
         },
         "geometry": {
@@ -12145,7 +12145,7 @@ var education = {
           "Informant": "MA319",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Berkshire"
         },
         "geometry": {
@@ -12162,7 +12162,7 @@ var education = {
           "Informant": "MA320",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -12179,7 +12179,7 @@ var education = {
           "Informant": "MA321",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Berkshire"
         },
         "geometry": {
@@ -12196,7 +12196,7 @@ var education = {
           "Informant": "MA322",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Berkshire"
         },
         "geometry": {
@@ -12213,7 +12213,7 @@ var education = {
           "Informant": "MA325",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -12230,7 +12230,7 @@ var education = {
           "Informant": "MA326",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Essex"
         },
         "geometry": {
@@ -12247,7 +12247,7 @@ var education = {
           "Informant": "MA344",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Worcester"
         },
         "geometry": {
@@ -12264,7 +12264,7 @@ var education = {
           "Informant": "MA349",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Norfolk"
         },
         "geometry": {
@@ -12281,7 +12281,7 @@ var education = {
           "Informant": "MA350",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Worcester"
         },
         "geometry": {
@@ -12298,7 +12298,7 @@ var education = {
           "Informant": "MA372",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Berkshire"
         },
         "geometry": {
@@ -12315,7 +12315,7 @@ var education = {
           "Informant": "MA388",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Nantucket "
         },
         "geometry": {
@@ -12332,7 +12332,7 @@ var education = {
           "Informant": "MA389",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Nantucket "
         },
         "geometry": {
@@ -12349,7 +12349,7 @@ var education = {
           "Informant": "MA390",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Nantucket "
         },
         "geometry": {
@@ -12366,7 +12366,7 @@ var education = {
           "Informant": "MA391",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -12383,7 +12383,7 @@ var education = {
           "Informant": "MA392",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -12400,7 +12400,7 @@ var education = {
           "Informant": "MA393",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -12417,7 +12417,7 @@ var education = {
           "Informant": "MA394",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Dukes (Martha's Vineyard)"
         },
         "geometry": {
@@ -12434,7 +12434,7 @@ var education = {
           "Informant": "MA395",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Nantucket "
         },
         "geometry": {
@@ -12451,7 +12451,7 @@ var education = {
           "Informant": "MA396",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Nantucket "
         },
         "geometry": {
@@ -12468,7 +12468,7 @@ var education = {
           "Informant": "MA397",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Suffolk"
         },
         "geometry": {
@@ -12485,7 +12485,7 @@ var education = {
           "Informant": "MA398",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Essex"
         },
         "geometry": {
@@ -12502,7 +12502,7 @@ var education = {
           "Informant": "MA399",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Essex"
         },
         "geometry": {
@@ -12519,7 +12519,7 @@ var education = {
           "Informant": "MA402",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12536,7 +12536,7 @@ var education = {
           "Informant": "MA403",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12553,7 +12553,7 @@ var education = {
           "Informant": "MA404",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Essex"
         },
         "geometry": {
@@ -12570,7 +12570,7 @@ var education = {
           "Informant": "MA409",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12587,7 +12587,7 @@ var education = {
           "Informant": "MA410",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12604,7 +12604,7 @@ var education = {
           "Informant": "MA411",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12621,7 +12621,7 @@ var education = {
           "Informant": "MA416",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12638,7 +12638,7 @@ var education = {
           "Informant": "MA420",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Suffolk"
         },
         "geometry": {
@@ -12655,7 +12655,7 @@ var education = {
           "Informant": "MA421",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12672,7 +12672,7 @@ var education = {
           "Informant": "MA423",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "",
+          "Education_level": "",
           "County": "Hampshire"
         },
         "geometry": {
@@ -12689,7 +12689,7 @@ var education = {
           "Informant": "MA424",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Norfolk"
         },
         "geometry": {
@@ -12706,7 +12706,7 @@ var education = {
           "Informant": "MA425",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Norfolk"
         },
         "geometry": {
@@ -12723,7 +12723,7 @@ var education = {
           "Informant": "MA426",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12740,7 +12740,7 @@ var education = {
           "Informant": "MA427",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Middlesex"
         },
         "geometry": {
@@ -12757,7 +12757,7 @@ var education = {
           "Informant": "MA428",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Suffolk"
         },
         "geometry": {
@@ -12774,7 +12774,7 @@ var education = {
           "Informant": "MA429",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Suffolk"
         },
         "geometry": {
@@ -12791,7 +12791,7 @@ var education = {
           "Informant": "ME49",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "York"
         },
         "geometry": {
@@ -12808,7 +12808,7 @@ var education = {
           "Informant": "ME53",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "York"
         },
         "geometry": {
@@ -12825,7 +12825,7 @@ var education = {
           "Informant": "ME64",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "York"
         },
         "geometry": {
@@ -12842,7 +12842,7 @@ var education = {
           "Informant": "ME66",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "York"
         },
         "geometry": {
@@ -12859,7 +12859,7 @@ var education = {
           "Informant": "ME76",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Cumberland"
         },
         "geometry": {
@@ -12876,7 +12876,7 @@ var education = {
           "Informant": "ME77",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "York"
         },
         "geometry": {
@@ -12893,7 +12893,7 @@ var education = {
           "Informant": "ME78",
           "Sex": "Male",
           "Ethnicity": "Black or African American",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cumberland"
         },
         "geometry": {
@@ -12910,7 +12910,7 @@ var education = {
           "Informant": "ME83",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Cumberland"
         },
         "geometry": {
@@ -12927,7 +12927,7 @@ var education = {
           "Informant": "ME84",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cumberland"
         },
         "geometry": {
@@ -12944,7 +12944,7 @@ var education = {
           "Informant": "ME85",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cumberland"
         },
         "geometry": {
@@ -12961,7 +12961,7 @@ var education = {
           "Informant": "ME86",
           "Sex": "Unknown",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Cumberland"
         },
         "geometry": {
@@ -12978,7 +12978,7 @@ var education = {
           "Informant": "ME87",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "York"
         },
         "geometry": {
@@ -12995,7 +12995,7 @@ var education = {
           "Informant": "ME88",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "York"
         },
         "geometry": {
@@ -13012,7 +13012,7 @@ var education = {
           "Informant": "ME131",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "York"
         },
         "geometry": {
@@ -13029,7 +13029,7 @@ var education = {
           "Informant": "ME221",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Oxford"
         },
         "geometry": {
@@ -13046,7 +13046,7 @@ var education = {
           "Informant": "ME222",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Oxford"
         },
         "geometry": {
@@ -13063,7 +13063,7 @@ var education = {
           "Informant": "ME225",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Oxford"
         },
         "geometry": {
@@ -13080,7 +13080,7 @@ var education = {
           "Informant": "ME226",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Oxford"
         },
         "geometry": {
@@ -13097,7 +13097,7 @@ var education = {
           "Informant": "ME227",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13114,7 +13114,7 @@ var education = {
           "Informant": "ME228",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13131,7 +13131,7 @@ var education = {
           "Informant": "ME229",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Oxford"
         },
         "geometry": {
@@ -13148,7 +13148,7 @@ var education = {
           "Informant": "ME230",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Oxford"
         },
         "geometry": {
@@ -13165,7 +13165,7 @@ var education = {
           "Informant": "ME246",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Kennebec"
         },
         "geometry": {
@@ -13182,7 +13182,7 @@ var education = {
           "Informant": "ME247",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Lincoln"
         },
         "geometry": {
@@ -13199,7 +13199,7 @@ var education = {
           "Informant": "ME248",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Lincoln"
         },
         "geometry": {
@@ -13216,7 +13216,7 @@ var education = {
           "Informant": "ME249",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Kennebec"
         },
         "geometry": {
@@ -13233,7 +13233,7 @@ var education = {
           "Informant": "ME250",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13250,7 +13250,7 @@ var education = {
           "Informant": "ME251",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Kennebec"
         },
         "geometry": {
@@ -13267,7 +13267,7 @@ var education = {
           "Informant": "ME252",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13284,7 +13284,7 @@ var education = {
           "Informant": "ME253",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Kennebec"
         },
         "geometry": {
@@ -13301,7 +13301,7 @@ var education = {
           "Informant": "ME267",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Waldo"
         },
         "geometry": {
@@ -13318,7 +13318,7 @@ var education = {
           "Informant": "ME268",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Penobscot"
         },
         "geometry": {
@@ -13335,7 +13335,7 @@ var education = {
           "Informant": "ME269",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Penobscot"
         },
         "geometry": {
@@ -13352,7 +13352,7 @@ var education = {
           "Informant": "ME270",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Penobscot"
         },
         "geometry": {
@@ -13369,7 +13369,7 @@ var education = {
           "Informant": "ME271",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Waldo"
         },
         "geometry": {
@@ -13386,7 +13386,7 @@ var education = {
           "Informant": "ME272",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Knox"
         },
         "geometry": {
@@ -13403,7 +13403,7 @@ var education = {
           "Informant": "ME292",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hancock"
         },
         "geometry": {
@@ -13420,7 +13420,7 @@ var education = {
           "Informant": "ME293",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hancock"
         },
         "geometry": {
@@ -13437,7 +13437,7 @@ var education = {
           "Informant": "ME294",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hancock"
         },
         "geometry": {
@@ -13454,7 +13454,7 @@ var education = {
           "Informant": "ME295",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hancock"
         },
         "geometry": {
@@ -13471,7 +13471,7 @@ var education = {
           "Informant": "ME296",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hancock"
         },
         "geometry": {
@@ -13488,7 +13488,7 @@ var education = {
           "Informant": "ME297",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hancock"
         },
         "geometry": {
@@ -13505,7 +13505,7 @@ var education = {
           "Informant": "ME298",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hancock"
         },
         "geometry": {
@@ -13522,7 +13522,7 @@ var education = {
           "Informant": "ME299",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Washington"
         },
         "geometry": {
@@ -13539,7 +13539,7 @@ var education = {
           "Informant": "ME300",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -13556,7 +13556,7 @@ var education = {
           "Informant": "ME301",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -13573,7 +13573,7 @@ var education = {
           "Informant": "ME302",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -13590,7 +13590,7 @@ var education = {
           "Informant": "ME303",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -13607,7 +13607,7 @@ var education = {
           "Informant": "ME304",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -13624,7 +13624,7 @@ var education = {
           "Informant": "ME305",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -13641,7 +13641,7 @@ var education = {
           "Informant": "ME306",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Washington"
         },
         "geometry": {
@@ -13658,7 +13658,7 @@ var education = {
           "Informant": "ME308",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Knox"
         },
         "geometry": {
@@ -13675,7 +13675,7 @@ var education = {
           "Informant": "ME309",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13692,7 +13692,7 @@ var education = {
           "Informant": "ME310",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sagadahoc"
         },
         "geometry": {
@@ -13709,7 +13709,7 @@ var education = {
           "Informant": "ME311",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cumberland"
         },
         "geometry": {
@@ -13726,7 +13726,7 @@ var education = {
           "Informant": "ME312",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hancock"
         },
         "geometry": {
@@ -13743,7 +13743,7 @@ var education = {
           "Informant": "ME327",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -13760,7 +13760,7 @@ var education = {
           "Informant": "ME328",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Piscataquis"
         },
         "geometry": {
@@ -13777,7 +13777,7 @@ var education = {
           "Informant": "ME329",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Piscataquis"
         },
         "geometry": {
@@ -13794,7 +13794,7 @@ var education = {
           "Informant": "ME330",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Penobscot"
         },
         "geometry": {
@@ -13811,7 +13811,7 @@ var education = {
           "Informant": "ME331",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -13828,7 +13828,7 @@ var education = {
           "Informant": "ME332",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -13845,7 +13845,7 @@ var education = {
           "Informant": "ME333",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -13862,7 +13862,7 @@ var education = {
           "Informant": "ME358",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13879,7 +13879,7 @@ var education = {
           "Informant": "ME359",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13896,7 +13896,7 @@ var education = {
           "Informant": "ME360",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Somerset"
         },
         "geometry": {
@@ -13913,7 +13913,7 @@ var education = {
           "Informant": "ME361",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Franklin"
         },
         "geometry": {
@@ -13930,7 +13930,7 @@ var education = {
           "Informant": "ME362",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13947,7 +13947,7 @@ var education = {
           "Informant": "ME363",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13964,7 +13964,7 @@ var education = {
           "Informant": "ME364",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13981,7 +13981,7 @@ var education = {
           "Informant": "ME365",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Aroostook"
         },
         "geometry": {
@@ -13998,7 +13998,7 @@ var education = {
           "Informant": "ME366",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Somerset"
         },
         "geometry": {
@@ -14015,7 +14015,7 @@ var education = {
           "Informant": "ME367",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Penobscot"
         },
         "geometry": {
@@ -14032,7 +14032,7 @@ var education = {
           "Informant": "ME368",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Androscoggin"
         },
         "geometry": {
@@ -14049,7 +14049,7 @@ var education = {
           "Informant": "ME377",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Penobscot"
         },
         "geometry": {
@@ -14066,7 +14066,7 @@ var education = {
           "Informant": "ME379",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -14083,7 +14083,7 @@ var education = {
           "Informant": "ME380",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -14100,7 +14100,7 @@ var education = {
           "Informant": "NH48",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14117,7 +14117,7 @@ var education = {
           "Informant": "NH50",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14134,7 +14134,7 @@ var education = {
           "Informant": "NH51",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14151,7 +14151,7 @@ var education = {
           "Informant": "NH63",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Strafford"
         },
         "geometry": {
@@ -14168,7 +14168,7 @@ var education = {
           "Informant": "NH67",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Strafford"
         },
         "geometry": {
@@ -14185,7 +14185,7 @@ var education = {
           "Informant": "NH68",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Strafford"
         },
         "geometry": {
@@ -14202,7 +14202,7 @@ var education = {
           "Informant": "NH75",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14219,7 +14219,7 @@ var education = {
           "Informant": "NH100",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Grafton"
         },
         "geometry": {
@@ -14236,7 +14236,7 @@ var education = {
           "Informant": "NH101",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Grafton"
         },
         "geometry": {
@@ -14253,7 +14253,7 @@ var education = {
           "Informant": "NH117",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sullivan"
         },
         "geometry": {
@@ -14270,7 +14270,7 @@ var education = {
           "Informant": "NH118",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sullivan"
         },
         "geometry": {
@@ -14287,7 +14287,7 @@ var education = {
           "Informant": "NH128",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Merrimac"
         },
         "geometry": {
@@ -14304,7 +14304,7 @@ var education = {
           "Informant": "NH129",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Belknap"
         },
         "geometry": {
@@ -14321,7 +14321,7 @@ var education = {
           "Informant": "NH130",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14338,7 +14338,7 @@ var education = {
           "Informant": "NH132",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14355,7 +14355,7 @@ var education = {
           "Informant": "NH144",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Merrimack"
         },
         "geometry": {
@@ -14372,7 +14372,7 @@ var education = {
           "Informant": "NH156",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Merrimack"
         },
         "geometry": {
@@ -14389,7 +14389,7 @@ var education = {
           "Informant": "NH157",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Merrimack"
         },
         "geometry": {
@@ -14406,7 +14406,7 @@ var education = {
           "Informant": "NH158",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -14423,7 +14423,7 @@ var education = {
           "Informant": "NH159",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -14440,7 +14440,7 @@ var education = {
           "Informant": "NH163",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sullivan"
         },
         "geometry": {
@@ -14457,7 +14457,7 @@ var education = {
           "Informant": "NH164",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Merrimack"
         },
         "geometry": {
@@ -14474,7 +14474,7 @@ var education = {
           "Informant": "NH165",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Merrimack"
         },
         "geometry": {
@@ -14491,7 +14491,7 @@ var education = {
           "Informant": "NH166",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Belknap"
         },
         "geometry": {
@@ -14508,7 +14508,7 @@ var education = {
           "Informant": "NH167",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Belknap"
         },
         "geometry": {
@@ -14525,7 +14525,7 @@ var education = {
           "Informant": "NH170",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -14542,7 +14542,7 @@ var education = {
           "Informant": "NH171",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -14559,7 +14559,7 @@ var education = {
           "Informant": "NH172",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -14576,7 +14576,7 @@ var education = {
           "Informant": "NH173",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14593,7 +14593,7 @@ var education = {
           "Informant": "NH174",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14610,7 +14610,7 @@ var education = {
           "Informant": "NH175",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14627,7 +14627,7 @@ var education = {
           "Informant": "NH176",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Cheshire"
         },
         "geometry": {
@@ -14644,7 +14644,7 @@ var education = {
           "Informant": "NH177",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cheshire"
         },
         "geometry": {
@@ -14661,7 +14661,7 @@ var education = {
           "Informant": "NH178",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rockingham"
         },
         "geometry": {
@@ -14678,7 +14678,7 @@ var education = {
           "Informant": "NH179",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Sullivan"
         },
         "geometry": {
@@ -14695,7 +14695,7 @@ var education = {
           "Informant": "NH180",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Hillsborough"
         },
         "geometry": {
@@ -14712,7 +14712,7 @@ var education = {
           "Informant": "NH181",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Cheshire"
         },
         "geometry": {
@@ -14729,7 +14729,7 @@ var education = {
           "Informant": "NH219",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Carroll"
         },
         "geometry": {
@@ -14746,7 +14746,7 @@ var education = {
           "Informant": "NH220",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Carroll"
         },
         "geometry": {
@@ -14763,7 +14763,7 @@ var education = {
           "Informant": "NH223",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Coos"
         },
         "geometry": {
@@ -14780,7 +14780,7 @@ var education = {
           "Informant": "NH224",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Coos"
         },
         "geometry": {
@@ -14797,7 +14797,7 @@ var education = {
           "Informant": "NH334",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Coos"
         },
         "geometry": {
@@ -14814,7 +14814,7 @@ var education = {
           "Informant": "NH335",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Grafton"
         },
         "geometry": {
@@ -14831,7 +14831,7 @@ var education = {
           "Informant": "NH336",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Grafton"
         },
         "geometry": {
@@ -14848,7 +14848,7 @@ var education = {
           "Informant": "NH352",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Coos"
         },
         "geometry": {
@@ -14865,7 +14865,7 @@ var education = {
           "Informant": "NH353",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Coos"
         },
         "geometry": {
@@ -14882,7 +14882,7 @@ var education = {
           "Informant": "NH354",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Grafton"
         },
         "geometry": {
@@ -14899,7 +14899,7 @@ var education = {
           "Informant": "NH355",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Grafton"
         },
         "geometry": {
@@ -14916,7 +14916,7 @@ var education = {
           "Informant": "NH356",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Grafton"
         },
         "geometry": {
@@ -14933,7 +14933,7 @@ var education = {
           "Informant": "NH357",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Grafton"
         },
         "geometry": {
@@ -14950,7 +14950,7 @@ var education = {
           "Informant": "NH374",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Grafton"
         },
         "geometry": {
@@ -14967,7 +14967,7 @@ var education = {
           "Informant": "NH375",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Grafton"
         },
         "geometry": {
@@ -14984,7 +14984,7 @@ var education = {
           "Informant": "NH376",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Grafton"
         },
         "geometry": {
@@ -15001,7 +15001,7 @@ var education = {
           "Informant": "NY412",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Suffolk"
         },
         "geometry": {
@@ -15018,7 +15018,7 @@ var education = {
           "Informant": "NY413",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Suffolk"
         },
         "geometry": {
@@ -15035,7 +15035,7 @@ var education = {
           "Informant": "NY414",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Suffolk"
         },
         "geometry": {
@@ -15052,7 +15052,7 @@ var education = {
           "Informant": "NY415",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Suffolk"
         },
         "geometry": {
@@ -15069,7 +15069,7 @@ var education = {
           "Informant": "RI11",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Washington"
         },
         "geometry": {
@@ -15086,7 +15086,7 @@ var education = {
           "Informant": "RI17",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -15103,7 +15103,7 @@ var education = {
           "Informant": "RI18",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newport"
         },
         "geometry": {
@@ -15120,7 +15120,7 @@ var education = {
           "Informant": "RI19",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newport"
         },
         "geometry": {
@@ -15137,7 +15137,7 @@ var education = {
           "Informant": "RI20",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newport"
         },
         "geometry": {
@@ -15154,7 +15154,7 @@ var education = {
           "Informant": "RI23",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Newport"
         },
         "geometry": {
@@ -15171,7 +15171,7 @@ var education = {
           "Informant": "RI44",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Kent"
         },
         "geometry": {
@@ -15188,7 +15188,7 @@ var education = {
           "Informant": "RI71",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Washington"
         },
         "geometry": {
@@ -15205,7 +15205,7 @@ var education = {
           "Informant": "RI110",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Unknown",
+          "Education_level": "Unknown",
           "County": "Washington"
         },
         "geometry": {
@@ -15222,7 +15222,7 @@ var education = {
           "Informant": "RI111",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Washington"
         },
         "geometry": {
@@ -15239,7 +15239,7 @@ var education = {
           "Informant": "RI114",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Washington"
         },
         "geometry": {
@@ -15256,7 +15256,7 @@ var education = {
           "Informant": "RI115",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newport"
         },
         "geometry": {
@@ -15273,7 +15273,7 @@ var education = {
           "Informant": "RI116",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Washington"
         },
         "geometry": {
@@ -15290,7 +15290,7 @@ var education = {
           "Informant": "RI121",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Newport"
         },
         "geometry": {
@@ -15307,7 +15307,7 @@ var education = {
           "Informant": "RI122",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newport"
         },
         "geometry": {
@@ -15324,7 +15324,7 @@ var education = {
           "Informant": "RI134",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Newport"
         },
         "geometry": {
@@ -15341,7 +15341,7 @@ var education = {
           "Informant": "RI138",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Newport"
         },
         "geometry": {
@@ -15358,7 +15358,7 @@ var education = {
           "Informant": "RI143",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Providence"
         },
         "geometry": {
@@ -15375,7 +15375,7 @@ var education = {
           "Informant": "RI161",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Providence"
         },
         "geometry": {
@@ -15392,7 +15392,7 @@ var education = {
           "Informant": "RI194",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Providence"
         },
         "geometry": {
@@ -15409,7 +15409,7 @@ var education = {
           "Informant": "RI259",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Providence"
         },
         "geometry": {
@@ -15426,7 +15426,7 @@ var education = {
           "Informant": "RI288",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Providence"
         },
         "geometry": {
@@ -15443,7 +15443,7 @@ var education = {
           "Informant": "RI290",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Providence"
         },
         "geometry": {
@@ -15460,7 +15460,7 @@ var education = {
           "Informant": "RI342",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Providence"
         },
         "geometry": {
@@ -15477,7 +15477,7 @@ var education = {
           "Informant": "VT31",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windsor"
         },
         "geometry": {
@@ -15494,7 +15494,7 @@ var education = {
           "Informant": "VT42",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windsor"
         },
         "geometry": {
@@ -15511,7 +15511,7 @@ var education = {
           "Informant": "VT98",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Windsor"
         },
         "geometry": {
@@ -15528,7 +15528,7 @@ var education = {
           "Informant": "VT99",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windsor"
         },
         "geometry": {
@@ -15545,7 +15545,7 @@ var education = {
           "Informant": "VT162",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windsor"
         },
         "geometry": {
@@ -15562,7 +15562,7 @@ var education = {
           "Informant": "VT168",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windham"
         },
         "geometry": {
@@ -15579,7 +15579,7 @@ var education = {
           "Informant": "VT169",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Windham"
         },
         "geometry": {
@@ -15596,7 +15596,7 @@ var education = {
           "Informant": "VT182",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Windham"
         },
         "geometry": {
@@ -15613,7 +15613,7 @@ var education = {
           "Informant": "VT212",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Franklin"
         },
         "geometry": {
@@ -15630,7 +15630,7 @@ var education = {
           "Informant": "VT213",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Franklin"
         },
         "geometry": {
@@ -15647,7 +15647,7 @@ var education = {
           "Informant": "VT214",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Franklin"
         },
         "geometry": {
@@ -15664,7 +15664,7 @@ var education = {
           "Informant": "VT231",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Orleans"
         },
         "geometry": {
@@ -15681,7 +15681,7 @@ var education = {
           "Informant": "VT232",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Orleans"
         },
         "geometry": {
@@ -15698,7 +15698,7 @@ var education = {
           "Informant": "VT236",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lamoille"
         },
         "geometry": {
@@ -15715,7 +15715,7 @@ var education = {
           "Informant": "VT237",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lamoille"
         },
         "geometry": {
@@ -15732,7 +15732,7 @@ var education = {
           "Informant": "VT238",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Lamoille"
         },
         "geometry": {
@@ -15749,7 +15749,7 @@ var education = {
           "Informant": "VT239",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Chittenden"
         },
         "geometry": {
@@ -15766,7 +15766,7 @@ var education = {
           "Informant": "VT240",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Chittenden"
         },
         "geometry": {
@@ -15783,7 +15783,7 @@ var education = {
           "Informant": "VT241",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Chittenden"
         },
         "geometry": {
@@ -15800,7 +15800,7 @@ var education = {
           "Informant": "VT242",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Addison"
         },
         "geometry": {
@@ -15817,7 +15817,7 @@ var education = {
           "Informant": "VT243",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Addison"
         },
         "geometry": {
@@ -15834,7 +15834,7 @@ var education = {
           "Informant": "VT244",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Chittenden"
         },
         "geometry": {
@@ -15851,7 +15851,7 @@ var education = {
           "Informant": "VT245",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Chittenden"
         },
         "geometry": {
@@ -15868,7 +15868,7 @@ var education = {
           "Informant": "VT256",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Chittenden"
         },
         "geometry": {
@@ -15885,7 +15885,7 @@ var education = {
           "Informant": "VT257",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windsor"
         },
         "geometry": {
@@ -15902,7 +15902,7 @@ var education = {
           "Informant": "VT263",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Rutland"
         },
         "geometry": {
@@ -15919,7 +15919,7 @@ var education = {
           "Informant": "VT264",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rutland"
         },
         "geometry": {
@@ -15936,7 +15936,7 @@ var education = {
           "Informant": "VT265",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rutland"
         },
         "geometry": {
@@ -15953,7 +15953,7 @@ var education = {
           "Informant": "VT275",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Addison"
         },
         "geometry": {
@@ -15970,7 +15970,7 @@ var education = {
           "Informant": "VT276",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Addison"
         },
         "geometry": {
@@ -15987,7 +15987,7 @@ var education = {
           "Informant": "VT277",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Rutland"
         },
         "geometry": {
@@ -16004,7 +16004,7 @@ var education = {
           "Informant": "VT278",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rutland"
         },
         "geometry": {
@@ -16021,7 +16021,7 @@ var education = {
           "Informant": "VT279",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Rutland"
         },
         "geometry": {
@@ -16038,7 +16038,7 @@ var education = {
           "Informant": "VT280",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Bennington"
         },
         "geometry": {
@@ -16055,7 +16055,7 @@ var education = {
           "Informant": "VT281",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Bennington"
         },
         "geometry": {
@@ -16072,7 +16072,7 @@ var education = {
           "Informant": "VT314",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Rutland"
         },
         "geometry": {
@@ -16089,7 +16089,7 @@ var education = {
           "Informant": "VT315",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some college or beyond",
+          "Education_level": "At least some college or beyond",
           "County": "Rutland"
         },
         "geometry": {
@@ -16106,7 +16106,7 @@ var education = {
           "Informant": "VT316",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Bennington"
         },
         "geometry": {
@@ -16123,7 +16123,7 @@ var education = {
           "Informant": "VT317",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Windsor"
         },
         "geometry": {
@@ -16140,7 +16140,7 @@ var education = {
           "Informant": "VT323",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Windham"
         },
         "geometry": {
@@ -16157,7 +16157,7 @@ var education = {
           "Informant": "VT324",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Windham"
         },
         "geometry": {
@@ -16174,7 +16174,7 @@ var education = {
           "Informant": "VT337",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Orange"
         },
         "geometry": {
@@ -16191,7 +16191,7 @@ var education = {
           "Informant": "VT338",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Essex"
         },
         "geometry": {
@@ -16208,7 +16208,7 @@ var education = {
           "Informant": "VT339",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Caledonia"
         },
         "geometry": {
@@ -16225,7 +16225,7 @@ var education = {
           "Informant": "VT340",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Caledonia"
         },
         "geometry": {
@@ -16242,7 +16242,7 @@ var education = {
           "Informant": "VT341",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Caledonia"
         },
         "geometry": {
@@ -16259,7 +16259,7 @@ var education = {
           "Informant": "VT343",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "No formal schooling",
+          "Education_level": "No formal schooling",
           "County": "Orange"
         },
         "geometry": {
@@ -16276,7 +16276,7 @@ var education = {
           "Informant": "VT345",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Washington"
         },
         "geometry": {
@@ -16293,7 +16293,7 @@ var education = {
           "Informant": "VT346",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Washington"
         },
         "geometry": {
@@ -16310,7 +16310,7 @@ var education = {
           "Informant": "VT347",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Washington"
         },
         "geometry": {
@@ -16327,7 +16327,7 @@ var education = {
           "Informant": "VT348",
           "Sex": "Female",
           "Ethnicity": "White",
-          "Education level": "Between 1 and 8 years",
+          "Education_level": "Between 1 and 8 years",
           "County": "Washington"
         },
         "geometry": {
@@ -16344,7 +16344,7 @@ var education = {
           "Informant": "VT351",
           "Sex": "Male",
           "Ethnicity": "White",
-          "Education level": "At least some high school",
+          "Education_level": "At least some high school",
           "County": "Caledonia"
         },
         "geometry": {
