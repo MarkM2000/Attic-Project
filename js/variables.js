@@ -69,6 +69,41 @@ var male = L.geoJson(male, {
         });
     }
 })
+
+var unknown = L.geoJson(unknown, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#5a7485',
+            weight: 1,
+            fillColor: '#240436',
+            fillOpacity: .8,
+            radius: 10
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+					<br>Gender: ${props.Sex} (${props.Age})<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: 'brown'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#240436'
+            });
+        });
+    }
+})
 /// Projects variables
 var LANCS = L.geoJson(LANCS, {
     pointToLayer: function (feature, latlng) {
