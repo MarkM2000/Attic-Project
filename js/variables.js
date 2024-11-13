@@ -1,4 +1,40 @@
 // Adding variables for checkboxes 
+/// Gender variables 
+var female = L.geoJson(female, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#FFFFFF',
+            weight: 1,
+            fillColor: '#ffa9d0',
+            fillOpacity: .8,
+            radius: 10
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+					<br>Gender: ${props.Sex} (${props.Age})<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#ffa9d0'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#ffa9d0'
+            });
+        });
+    }
+})
+
 /// Projects variables
 var LANCS = L.geoJson(LANCS, {
     pointToLayer: function (feature, latlng) {
