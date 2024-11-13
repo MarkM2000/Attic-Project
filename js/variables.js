@@ -439,7 +439,7 @@ var target_attic = L.geoJson(target_attic, {
         const props = feature.properties
         const popup = `
                 <b>${props.Informant}</b>
-                <br>Education: ${props.target_attic}<br>
+                <br>Attic type: ${props.Target_attic}<br>
             `
         layer.bindTooltip(popup, {
             className: 'tool-informant'
