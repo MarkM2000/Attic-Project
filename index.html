@@ -43,6 +43,7 @@
 <script src="/assets/gender/male.js"></script>
 <script src="/assets/gender/unknown.js"></script>
 <script src="/assets/attic/attic.js"></script>
+<script src="/assets/attic/upstairs.js"></script>
 <!-- Variables JS file -->
 <script src="js/variables.js"></script>
 <!-- Add styledLayerControl JS file -->
@@ -69,12 +70,19 @@
             }
         },
         {
+            groupName: "Attics",
+            expanded: true,
+            layers: {
+                "Attics": target_attic,
+                "Upstairs": upstairs
+            }
+        },
+        {
             groupName: "Background",
             expanded: true,
             layers: {
                 "Age": age,
                 "Education": education,
-                "Attics": target_attic
             }
         },
         {
