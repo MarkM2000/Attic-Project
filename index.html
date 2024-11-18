@@ -9,7 +9,7 @@
     <!-- Styles CSS -->
     <link href="/css/styles.css" rel="stylesheet" />
     <!-- L Control Layers Tree Layer CSS -->
-    <link href="/css/styledLayerControl.css" rel="stylesheet" />
+    <link href="/css/L.Control.Layers.Tree.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -19,8 +19,7 @@
     <section>
         <div id="map"></div>
         <h2>About map</h2>
-        <p>This map will focus on the attic aspect of the informant map. The projects for these attic maps are LANE and
-            LANCS.</p>
+        <p>This map will focus on the attic aspect of the informant map. The projects for these attic maps are LANE and LANCS.</p>
         <ul>
             <li>Authored by Mark Marji</a></li>
             <li>Date of authored map: November 6, 2024</li>
@@ -48,8 +47,8 @@
 <script src="/assets/attic/upstairs.js"></script>
 <!-- Variables JS file -->
 <script src="js/variables.js"></script>
-<!-- Add styledLayerControl JS file -->
-<script src="src/styledLayerControl.js"></script>
+<!-- Add L.Control.Layers.Tree JS file -->
+<script src="js/L.Control.Layers.Tree.js"></script>
 <!-- Variables JS file -->
 <script>
     var map = L.map('map', {
@@ -62,60 +61,53 @@
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    var baseMaps = [
-        {
-            groupName: "Attics",
-            expanded: true,
-            layers: {
-                "Attics": target_attic,
-                "Upstairs": upstairs,
-                "Garret": garret,
-            }
-        },
-        {
-            groupName: "Background",
-            expanded: true,
-            layers: {
-                "Age": age,
-                "Education": education,
-            }
-        },
-        {
-            groupName: "Ethnicity",
-            expanded: true,
-            layers: {
-                "White": white,
-                "Black or African American": black
-            }
-        },
-        {
-            groupName: "Occupation",
-            expanded: true,
-            layers: {
-                "Clerical or sales position": clerical,
-                "Farming jobs": farming,
-                "Other occupations": occupation
-            }
-        },
-        {
-            groupName: "Projects",
-            expanded: true,
-            layers: {
-                "LANCS": LANCS,
-                "LANE": LANE
-            }
-        },
-        {
-            groupName: "Sex",
-            expanded: true,
-            layers: {
-                "Female": female,
-                "Male": male,
-                "Unknown": unknown
-            }
-        }
-    ];
+    var baseTree = {
+        label: 'Base Layers',
+        children: [
+            {
+                label: 'Project',
+                children: [
+                    { label: 'LANCS', layer: LANCS },
+                    { label: 'LANE', layer: LANE },
+                    /* ... */
+                ]
+            },
+            {
+                label: 'Gender',
+                children: [
+                    { label: 'Male', layer: male },
+                    { label: 'Female', layer: female },
+                    { label: 'Unknown', layer: unknown },
+                    /* ... */
+                ]
+            },
+            {
+                label: 'Ethnicity',
+                children: [
+                    { label: 'Black or African American', layer: black },
+                    { label: 'White', layer: white },
+                    /* ... */
+                ]
+            },
+            {
+                label: 'Occupation',
+                children: [
+                    { label: 'Clerical or sales position', layer: clerical },
+                    { label: 'Farmer', layer: farming },
+                    { label: 'Other occupations', layer: occupation },
+                    /* ... */
+                ]
+            },
+            {
+                label: 'Other categories',
+                children: [
+                    { label: 'Age', layer: age },
+                    { label: 'Education', layer: education },
+                    /* ... */
+                ]
+            },
+        ]
+    };
 
-    var control = L.Control.styledLayerControl(baseMaps);
-    map.addControl(control);
+    L.control.layers.tree(baseTree).addTo(map)
 </script>
